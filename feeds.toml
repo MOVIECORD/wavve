@@ -1,0 +1,10 @@
+[navertv]
+title = "wavve ─ NAVER TV"
+url = "https://tv.naver.com/wavve/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"

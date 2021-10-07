@@ -1,3 +1,2 @@
 # wavve
-
-NAVER TV: https://moviecord.github.io/wavve/navertv.xml
+- NAVER TV: https://moviecord.github.io/wavve/navertv.xml

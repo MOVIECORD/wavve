@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 23:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 00:48:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 포스넘치는 포스터 촬영 현장! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/23243568</link>
+            <guid>https://tv.naver.com/v/23243568</guid>
+            <pubDate>Mon, 01 Nov 2021 00:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211029_207/NBj5i_1635503294620M96JJ_JPEG/1635503128096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뷰니버스] 열혈우먼_막장며느리 비긴즈 l 원더우먼 X 열혈사제 l 웨이브 유니버스]]></title>
             <link>https://tv.naver.com/v/23233325</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20191014_169/AHLeN_1571036391032sf7rU_PNG/1571036366264.PNG?type=f194_109_blend" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[[웨이브] 79년생 김나영의 웨이브]]></title>
-            <link>https://tv.naver.com/v/10408379</link>
-            <guid>https://tv.naver.com/v/10408379</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20191014_132/TrbTu_1571036331914TnYYG_PNG/1571036322113.PNG?type=f194_109_blend" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>

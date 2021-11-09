@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 12:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 13:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이브 [이렇게 된 이상 청와대로 간다] 제작발표회]]></title>
+            <link>https://tv.naver.com/v/23422214</link>
+            <guid>https://tv.naver.com/v/23422214</guid>
+            <pubDate>Tue, 09 Nov 2021 13:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:04:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_293/ZMPE8_16364268749056OqCR_JPEG/27f71d46-4109-11ec-9d5b-a0369ff94f34_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이렇게 된 이상 청와대로 간다] 온라인 초토화시킨 화제의 작품! 5분 하이라이트 공개!]]></title>
             <link>https://tv.naver.com/v/23413063</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20200310_2/zQrNf_1583768976887718Bn_JPEG/872e8e06-621d-11ea-9418-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MEET YOUR FAVORITES]]></title>
-            <link>https://tv.naver.com/v/12778165</link>
-            <guid>https://tv.naver.com/v/12778165</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200310_165/829lg_15837687520018FjBt_JPEG/efaa8ea9-621c-11ea-81f7-505dac8c3721_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

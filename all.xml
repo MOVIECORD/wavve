@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 23:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 00:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 청와대로 모인 이들의 케미는? | 캐릭터 예고편 | 웨이브 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23434761</link>
+            <guid>https://tv.naver.com/v/23434761</guid>
+            <pubDate>Wed, 10 Nov 2021 00:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211109_89/samHg_16364641113260lvGC_JPEG/1636463981047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이브 [이렇게 된 이상 청와대로 간다] 제작발표회 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23422214</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210818_250/Hwyhk_1629249684160FXKvv_JPEG/1629249008609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MEET YOUR FAVORITES (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/12778200</link>
-            <guid>https://tv.naver.com/v/12778200</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20200310_2/zQrNf_1583768976887718Bn_JPEG/872e8e06-621d-11ea-9418-505dac8c385b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 09:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 10:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[원데이 위드 아델] OTT 독점 아델을 웨이브에서!ㅣ11월 30일ㅣCOMING SOON]]></title>
+            <link>https://tv.naver.com/v/23598559</link>
+            <guid>https://tv.naver.com/v/23598559</guid>
+            <pubDate>Thu, 18 Nov 2021 10:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_245/L7C4D_1637219055710QgHW1_PNG/1637218947949.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[시티 오브 라이즈] 진실을 찾으려는 형사와 기자 그리고 그걸 막으려는 사람들]]></title>
             <link>https://tv.naver.com/v/23598028</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_294/uVjkn_1630061955180LQRgV_JPEG/1630061721374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] 이거 되는 주식😘? 현실 투닥 케미 커플 인터뷰 영상 | 웨이브 오리지]]></title>
-            <link>https://tv.naver.com/v/22084348</link>
-            <guid>https://tv.naver.com/v/22084348</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210826_63/ejqD4_1629970880580sWIxU_JPEG/1629970780203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

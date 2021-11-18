@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 08:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시티 오브 라이즈] 진실을 찾으려는 형사와 기자 그리고 그걸 막으려는 사람들]]></title>
+            <link>https://tv.naver.com/v/23598028</link>
+            <guid>https://tv.naver.com/v/23598028</guid>
+            <pubDate>Thu, 18 Nov 2021 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211118_64/z4WIl_16372177681770X1St_PNG/1637217130322.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[러브크래프트 컨트리] 1950년대 인종차별과 괴물에 맞서 싸우는 호러 판타지 드라마 | HBO]]></title>
             <link>https://tv.naver.com/v/23595434</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210826_63/ejqD4_1629970880580sWIxU_JPEG/1629970780203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충격에 충격을 더하는 엔딩 모음ㅣ펜트하우스3ㅣ드라마]]></title>
-            <link>https://tv.naver.com/v/22072245</link>
-            <guid>https://tv.naver.com/v/22072245</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210826_2/Kebgd_1629943950026YvXAH_PNG/1629943726261.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

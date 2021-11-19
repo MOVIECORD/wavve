@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시카고 메드] 생명을 구하기 위해 모든 것을 건 시카고 의사들 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/23614463</link>
+            <guid>https://tv.naver.com/v/23614463</guid>
+            <pubDate>Fri, 19 Nov 2021 06:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_129/oGEHK_1637297110146rWxwn_PNG/1637297058437.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[원데이 위드 아델] OTT 독점 아델을 웨이브에서!ㅣ11월 30일ㅣCOMING SOON]]></title>
             <link>https://tv.naver.com/v/23598559</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_126/7yZGn_1630066534696Npq8b_JPEG/1630066197826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] Error_작동오류_🍆 20초 예고편 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/22107153</link>
-            <guid>https://tv.naver.com/v/22107153</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210827_294/uVjkn_1630061955180LQRgV_JPEG/1630061721374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

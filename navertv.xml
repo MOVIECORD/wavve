@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 02:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 03:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 19 Nov 2021 07:14:53 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211119_237/b8HHu_1637296955748WNkSo_PNG/1637296379725.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 청와대 4인방의 극과 극 답변 케미!ㅣ웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/23613197</link>
+            <guid>https://tv.naver.com/v/23613197</guid>
+            <pubDate>Sat, 20 Nov 2021 03:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_7/4JhOs_1637291918090wTnRa_JPEG/1637289597203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[원데이 위드 아델] OTT 독점 아델을 웨이브에서!ㅣ11월 30일ㅣCOMING SOON]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_140/MYJNY_1630067093655gykRn_JPEG/1630066977259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대한민국 아이디어 리그] 아이디어 캐쳐, 대한상공회의소 수장 최태원]]></title>
-            <link>https://tv.naver.com/v/22108595</link>
-            <guid>https://tv.naver.com/v/22108595</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210827_31/rwgOB_1630066953273apNdc_JPEG/1630066669927.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

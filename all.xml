@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 00:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 이상청즈 케미에는 이유가 있다?! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23622226</link>
+            <guid>https://tv.naver.com/v/23622226</guid>
+            <pubDate>Mon, 22 Nov 2021 00:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[9:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211119_70/F0e8M_1637317243163LMyV7_JPEG/1637317135672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[시카고 메드] 생명을 구하기 위해 모든 것을 건 시카고 의사들 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23614463</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210827_212/d8vbt_1630067230903CSnIh_JPEG/1630067111823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대한민국 아이디어 리그] 엔씨소프트 대표 김택진의 반전매력 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22108631</link>
-            <guid>https://tv.naver.com/v/22108631</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210827_140/MYJNY_1630067093655gykRn_JPEG/1630066977259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

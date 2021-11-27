@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 08:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 26 Nov 2021 07:14:49 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211126_65/KqvSn_1637901867312Ynupu_PNG/1637901666605.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 청와대에 작명소 차린 이상청 4인방?!ㅣ웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/23740305</link>
+            <guid>https://tv.naver.com/v/23740305</guid>
+            <pubDate>Sat, 27 Nov 2021 09:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211125_224/4bBoy_1637828097330ntx86_JPEG/1637827912653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서] 나쁜 돈 쫓는 독한 놈 등장! 티저 예고편 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210907_49/ZOFaT_1630985037960EINL8_JPEG/1630984903593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] 첫만남에 대화주제가 발X부전? 메이킹 #1 대본리딩 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/22308609</link>
-            <guid>https://tv.naver.com/v/22308609</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210907_56/Jtz0q_1630984869714qaSus_JPEG/1630984477741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

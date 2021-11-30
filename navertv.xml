@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 03:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웨이브] 첫사랑, 어게인ㅣ장기용, 이세영ㅣ웨이브 뷰니버스]]></title>
+            <link>https://tv.naver.com/v/23800131</link>
+            <guid>https://tv.naver.com/v/23800131</guid>
+            <pubDate>Tue, 30 Nov 2021 04:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211129_48/GOl3w_1638173116821mQbls_JPEG/1638172847729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이렇게 된 이상 청와대로 간다] 납치사건 촬영 현장은? 메이킹 필름 3편 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/23760134</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[6:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_124/taM1t_1631151433657kpzI1_JPEG/1631151291512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] 루다의 발X부전 치료 방법은? 메이킹 #3 1-3화 비하인드 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/22350971</link>
-            <guid>https://tv.naver.com/v/22350971</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210909_39/tHrPE_1631151197464eR5gX_JPEG/1631149778625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

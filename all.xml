@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 05:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 06:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아델] ADELE - EASY ON ME (이지 온 미) ㅣ한글, 영어 가사 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23837537</link>
+            <guid>https://tv.naver.com/v/23837537</guid>
+            <pubDate>Wed, 01 Dec 2021 06:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_254/Ay0sU_1638337078074bmH1K_PNG/1638336724320.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[웨이브] 첫사랑, 어게인ㅣ장기용, 이세영ㅣ웨이브 뷰니버스 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23800131</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210909_167/tuulH_1631182818880AxA0G_JPEG/1631182636396.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] 칭찬은 용식이를 춤추게 해~ 메이킹 #4 3-5화 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22351020</link>
-            <guid>https://tv.naver.com/v/22351020</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210909_124/taM1t_1631151433657kpzI1_JPEG/1631151291512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

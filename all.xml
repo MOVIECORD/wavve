@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 07:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 08:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[처키] 처키 (Chucky, 2021) 예고편😈🔪ㅣ12월 10일 coming soon (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23838073</link>
+            <guid>https://tv.naver.com/v/23838073</guid>
+            <pubDate>Wed, 01 Dec 2021 08:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_63/ov18i_1638338082105oU2yT_PNG/1638337962982.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[아델] ADELE - EASY ON ME (이지 온 미) ㅣ한글, 영어 가사 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23837537</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[8:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210910_180/b86hA_1631236476395khYAE_JPEG/1631235762086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] (읏-차) 다 세워드립니다 (읏-차) 고민상담소 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22364177</link>
-            <guid>https://tv.naver.com/v/22364177</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210909_167/tuulH_1631182818880AxA0G_JPEG/1631182636396.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

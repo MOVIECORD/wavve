@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 06:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 07:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[네버스] 빅토리아 시대 세상을 바꾸는 여성들의 특별한 힘 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23857373</link>
+            <guid>https://tv.naver.com/v/23857373</guid>
+            <pubDate>Thu, 02 Dec 2021 07:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_16/OmhWZ_1638422385081NoOd2_PNG/1638422352732.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[30 코인스] 저주받은 마을과 동전의 미스터리 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23857181</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[6:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_191/LBuLR_1631668321129uQoWN_JPEG/1631668199132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다음 회차 기다리는 동안 아이콘 출연작과 리듬~타🎵 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22416995</link>
-            <guid>https://tv.naver.com/v/22416995</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210913_89/ur8SM_1631503559273uCDLG_JPEG/1631502503963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

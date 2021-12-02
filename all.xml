@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 10:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 11:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인질] Hostage: Missing Celebrity 메인 예고편 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/23864314</link>
+            <guid>https://tv.naver.com/v/23864314</guid>
+            <pubDate>Thu, 02 Dec 2021 11:12:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_179/laPWk_1638440356386Ykl3G_PNG/1638440290573.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[네버스] 빅토리아 시대 세상을 바꾸는 여성들의 특별한 힘 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/23857373</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
             <content:encoded><![CDATA[6:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210915_59/0NCMH_1631668506421pg8db_JPEG/1631668401862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] 우리 너무 잘했나…? 메이킹 #7 7-8화 키스신 비하인드 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/22458516</link>
-            <guid>https://tv.naver.com/v/22458516</guid>
-            <pubDate>Sun, 10 Oct 2021 21:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[6:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210915_191/LBuLR_1631668321129uQoWN_JPEG/1631668199132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

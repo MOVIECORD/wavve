@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[블라인드 스팟 시즌5] 온몸이 문신인 정체 불명의 제인과 FBI의 공조 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/23880210</link>
+            <guid>https://tv.naver.com/v/23880210</guid>
+            <pubDate>Fri, 03 Dec 2021 06:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_59/4kGgl_1638505972654jo3oW_PNG/1638505908579.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인질] Hostage: Missing Celebrity 메인 예고편]]></title>
             <link>https://tv.naver.com/v/23864314</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:17:42 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_88/dmRyC_1634723342619deJ0Y_JPEG/1634723282124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[유 레이즈 미 업] 우뚝 선 용식아 이젠 행복해야 해! 메이킹 #8 종영소감 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/22458576</link>
-            <guid>https://tv.naver.com/v/22458576</guid>
-            <pubDate>Thu, 02 Dec 2021 18:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[6:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210915_59/0NCMH_1631668506421pg8db_JPEG/1631668401862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

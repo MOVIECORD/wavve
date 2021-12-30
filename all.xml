@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 02:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 03:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[베어타운] 눈앞의 희망과 절망 사이에서 혼란에 빠진 작은 마을 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24348759</link>
+            <guid>https://tv.naver.com/v/24348759</guid>
+            <pubDate>Thu, 30 Dec 2021 03:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_140/ATGY2_16408310831751LzFl_PNG/1640831044896.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[닥터데스: 언닥터 스토리] 수술한 환자들을 죽이거나 불구로 만든 신경외과 의사 | 웨이브 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24245539</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 05:13:39 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_209/fXzP7_16384206760151Xyez_PNG/1638420615651.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 현타빌런 때려잡는 이 분의 정체? 스페셜 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23844242</link>
-            <guid>https://tv.naver.com/v/23844242</guid>
-            <pubDate>Wed, 01 Dec 2021 10:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_193/RqP9y_1638349080277tKP6U_JPEG/6dfcb017-5284-11ec-b39d-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

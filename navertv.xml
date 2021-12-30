@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 06:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 07:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[라디오스타] 킬리만자로의 표창원 & 일드래곤의 듀엣무대!]]></title>
+            <link>https://tv.naver.com/v/24350953</link>
+            <guid>https://tv.naver.com/v/24350953</guid>
+            <pubDate>Thu, 30 Dec 2021 07:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_171/Us8g2_1640839502401Jdpt1_JPEG/1640839356893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[베어타운] 눈앞의 희망과 절망 사이에서 혼란에 빠진 작은 마을 | HBO | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/24348759</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 30 Dec 2021 03:08:37 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_140/ATGY2_16408310831751LzFl_PNG/1640831044896.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서] 똑똑똑, 국세청에서 독한 놈들 나왔습니다! 캐릭터 예고편  | 웨이브 오]]></title>
+            <link>https://tv.naver.com/v/24329389</link>
+            <guid>https://tv.naver.com/v/24329389</guid>
+            <pubDate>Thu, 30 Dec 2021 07:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_141/EnTYX_1640745304309ysTgc_JPEG/1640744924265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[닥터데스: 언닥터 스토리] 수술한 환자들을 죽이거나 불구로 만든 신경외과 의사 | 웨이브]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 02 Dec 2021 18:17:42 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211202_16/OmhWZ_1638422385081NoOd2_PNG/1638422352732.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[30 코인스] 저주받은 마을과 동전의 미스터리 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/23857181</link>
-            <guid>https://tv.naver.com/v/23857181</guid>
-            <pubDate>Thu, 02 Dec 2021 18:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_3/9yG3U_1638421947497szMGF_PNG/1638421900633.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[게팅 온: 수상한 병동] 노인 환자들을 돌보기 위한 병원 직원들의 유쾌한 고군분투 | HBO]]></title>
-            <link>https://tv.naver.com/v/23856648</link>
-            <guid>https://tv.naver.com/v/23856648</guid>
-            <pubDate>Thu, 02 Dec 2021 18:17:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211202_209/fXzP7_16384206760151Xyez_PNG/1638420615651.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 03:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 04:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 30 Dec 2021 03:08:37 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_140/ATGY2_16408310831751LzFl_PNG/1640831044896.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[뷰니버스] 로봇여우와 모범택시 ㅣ 이제훈, 채수빈 ㅣ 웨이브 뷰니버스 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24330273</link>
+            <guid>https://tv.naver.com/v/24330273</guid>
+            <pubDate>Fri, 31 Dec 2021 04:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_279/tUeGq_1640748226751rOhDt_PNG/1640747964335.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[닥터데스: 언닥터 스토리] 수술한 환자들을 죽이거나 불구로 만든 신경외과 의사 | 웨이브 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211206_251/NyrIU_1638769681942PYWxl_JPEG/1638769570708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[블라인드 스팟 시즌5] 온몸이 문신인 정체 불명의 제인과 FBI의 공조 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23880210</link>
-            <guid>https://tv.naver.com/v/23880210</guid>
-            <pubDate>Fri, 03 Dec 2021 06:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211203_59/4kGgl_1638505972654jo3oW_PNG/1638505908579.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

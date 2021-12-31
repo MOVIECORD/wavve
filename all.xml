@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 11:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 12:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 31 Dec 2021 07:08:31 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_294/saSCt_1640917670486qiYfI_PNG/1640917631173.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[코브라 시즌2] 영국 최대 위기 상황 발생🚨 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24369347</link>
+            <guid>https://tv.naver.com/v/24369347</guid>
+            <pubDate>Fri, 31 Dec 2021 12:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_132/xztxF_1640917151317jraRv_PNG/1640917071985.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[브리타니아] 전설의 땅 브리타니아에서 벌어지는 정복 전쟁 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_214/VRCog_1639018441336tQjO4_PNG/1639018311174.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[아웃사이더] 동시에 두 장소에 있었던 살인 사건 용의자의 진실 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23989309</link>
-            <guid>https://tv.naver.com/v/23989309</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_181/YTBEZ_1639017355090Ot0Ec_PNG/1639017311021.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

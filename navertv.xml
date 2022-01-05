@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 04:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 05:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[배트맨 대 슈퍼맨] 공식 예고편ㅣ배트맨 대 슈퍼맨: 저스티스의 시작ㅣ웨이브 영화]]></title>
+            <link>https://tv.naver.com/v/24441867</link>
+            <guid>https://tv.naver.com/v/24441867</guid>
+            <pubDate>Wed, 05 Jan 2022 05:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_104/XxeD2_1641358225132uOmcl_JPEG/1641358094791.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] 열정과 케미가 넘쳐흐르는 제작기 영상 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24375435</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211209_292/uONmz_1639026923816KHW6i_PNG/1639026881397.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[미들비치 살인사건] 엄마의 죽음에 얽힌 비밀 | HBO | 웨이브 다큐멘터리]]></title>
-            <link>https://tv.naver.com/v/23991299</link>
-            <guid>https://tv.naver.com/v/23991299</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_22/d55Mp_1639024448622AczVX_PNG/1639024408790.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

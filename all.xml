@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남색대문] 공식 예고편ㅣ대만 청춘 영화의 클래식 #남색대문ㅣ웨이브 영화 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24445195</link>
+            <guid>https://tv.naver.com/v/24445195</guid>
+            <pubDate>Wed, 05 Jan 2022 09:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_262/6Y8AU_1641365358116ndXEX_JPEG/1641365239511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[배트맨 대 슈퍼맨] 공식 예고편ㅣ배트맨 대 슈퍼맨: 저스티스의 시작ㅣ웨이브 영화 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24441867</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_277/QpQzF_1639110233963SghdD_PNG/1639110149721.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[징크스: 로버트 더스트의 삶과 죽음] 40년 동안 3건의 살인범으로 지목된 뉴욕 갑부 | HBO (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/23992153</link>
-            <guid>https://tv.naver.com/v/23992153</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211209_292/uONmz_1639026923816KHW6i_PNG/1639026881397.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

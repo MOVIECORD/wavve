@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 10:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 11:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 06 Jan 2022 03:11:55 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_261/2PT1J_1641436395899rvQwS_PNG/1641436307943.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[스트라이크 미스터리: 하얀 죽음] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/24459593</link>
+            <guid>https://tv.naver.com/v/24459593</guid>
+            <pubDate>Thu, 06 Jan 2022 11:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_197/0Jaa2_1641431131804CFn6S_PNG/1641431086974.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[야만의 역사] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211214_44/aANRJ_1639474380299oXAjl_JPEG/1639473015905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 현실고증 미쳤다ㅠ.ㅠ 장관도 직장인이었어?!]]></title>
-            <link>https://tv.naver.com/v/24018525</link>
-            <guid>https://tv.naver.com/v/24018525</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_181/7PHtn_1639125336924Y8KJ4_JPEG/1639125299660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

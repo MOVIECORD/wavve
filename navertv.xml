@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 02:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 03:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아이 메이 디스트로이 유] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/24461064</link>
+            <guid>https://tv.naver.com/v/24461064</guid>
+            <pubDate>Thu, 06 Jan 2022 03:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_261/2PT1J_1641436395899rvQwS_PNG/1641436307943.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[메기] 공식 예고편ㅣ2X9=💗 구교환X이옥섭 #메기ㅣ웨이브 영화]]></title>
             <link>https://tv.naver.com/v/24445787</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[4:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_27/jNOu5_1639125279831JqJjB_JPEG/1639125220473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 둘이 모야~💗 배해선X이학주 심상치 않은 눈빛?!]]></title>
-            <link>https://tv.naver.com/v/24018475</link>
-            <guid>https://tv.naver.com/v/24018475</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_42/d0LgI_1639125205441C41hM_JPEG/1639125156247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

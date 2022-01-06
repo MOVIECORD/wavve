@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 06:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 07:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 06 Jan 2022 03:11:55 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_261/2PT1J_1641436395899rvQwS_PNG/1641436307943.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[야만의 역사] 공식 예고편 | HBO | 웨이브 다큐멘터리 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24459422</link>
+            <guid>https://tv.naver.com/v/24459422</guid>
+            <pubDate>Thu, 06 Jan 2022 07:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_48/7TxDO_1641430386932wteJ2_PNG/1641430333584.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[메기] 공식 예고편ㅣ2X9=💗 구교환X이옥섭 #메기ㅣ웨이브 영화 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[3:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211210_181/7PHtn_1639125336924Y8KJ4_JPEG/1639125299660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이렇게 된 이상 청와대로 간다] 김성령을 두고 벌이는 두 남자의 주먹다짐?! (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24018502</link>
-            <guid>https://tv.naver.com/v/24018502</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211210_27/jNOu5_1639125279831JqJjB_JPEG/1639125220473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

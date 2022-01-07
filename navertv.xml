@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 10:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 11:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해리포터 20주년기념:리턴 투 호그와트Harry Potter 20th Anniversary:Return to Hogwarts 1차 공식예고편]]></title>
+            <link>https://tv.naver.com/v/24490535</link>
+            <guid>https://tv.naver.com/v/24490535</guid>
+            <pubDate>Fri, 07 Jan 2022 11:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_224/DSPoG_1641546496840aw3nz_PNG/1641546237706.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[아이 메이 디스트로이 유] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/24461064</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_85/I4R5a_1639531755769Aidrp_PNG/1639531649019.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 갭차이의 정석! 포스터 촬영 비하인드 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24075521</link>
-            <guid>https://tv.naver.com/v/24075521</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211214_44/aANRJ_1639474380299oXAjl_JPEG/1639473015905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

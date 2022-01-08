@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 23:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 00:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 07 Jan 2022 11:07:16 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_224/DSPoG_1641546496840aw3nz_PNG/1641546237706.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[코드404 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/24484411</link>
+            <guid>https://tv.naver.com/v/24484411</guid>
+            <pubDate>Sat, 08 Jan 2022 00:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_216/p8o5V_1641529346047hj51r_PNG/1641529294120.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[아이 메이 디스트로이 유] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_195/ZAGTr_1639531955863lKy4r_PNG/1639531952372.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[배드 에듀케이션] '울버린'에서 '공금 횡령 교사'로 변신한 맨 중의 맨, 휴 잭맨]]></title>
-            <link>https://tv.naver.com/v/24083361</link>
-            <guid>https://tv.naver.com/v/24083361</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_85/I4R5a_1639531755769Aidrp_PNG/1639531649019.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

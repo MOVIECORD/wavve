@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 02:36:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 03:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 07 Jan 2022 11:07:16 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_224/DSPoG_1641546496840aw3nz_PNG/1641546237706.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이비자 스캔들] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24484435</link>
+            <guid>https://tv.naver.com/v/24484435</guid>
+            <pubDate>Sat, 08 Jan 2022 03:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_79/fWOoO_16415294083331otVs_PNG/1641529363205.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[코드404 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211215_91/24Bsu_1639532452067Gw1yX_PNG/1639532449168.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[화씨 451] 독서📚가 금지된 미래의 충격적 모습ㅣ웨이브 영화 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24083407</link>
-            <guid>https://tv.naver.com/v/24083407</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_195/ZAGTr_1639531955863lKy4r_PNG/1639531952372.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

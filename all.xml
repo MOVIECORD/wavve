@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해리포터 20주년 기념 : 리턴 투 호그와트]  Harry Potter 20th Anniversary: Return to Hogwarts 공식 예 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24523246</link>
+            <guid>https://tv.naver.com/v/24523246</guid>
+            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_82/ygpoF_1641793375122wMak9_PNG/1641793272566.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[해리포터 20주년기념:리턴 투 호그와트Harry Potter 20th Anniversary:Return to Hogwarts 1차 공식예고편 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24490535</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_239/J6WWf_1639622737468niahj_PNG/1639622692030.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데드우드 : 더 무비] HBO 전설의 서부극 데드우드가 영화로 돌아왔다!ㅣ웨이브 영화 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24083557</link>
-            <guid>https://tv.naver.com/v/24083557</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211215_91/24Bsu_1639532452067Gw1yX_PNG/1639532449168.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

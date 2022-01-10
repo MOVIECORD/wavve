@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 13:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 14:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[트레이서] 시청자들 리얼 반응 폭발!! 스페셜 리뷰 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24527506</link>
-            <guid>https://tv.naver.com/v/24527506</guid>
-            <pubDate>Mon, 10 Jan 2022 09:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_289/GqeaN_1641804101305YRAf0_JPEG/1641803873942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[해리포터 20주년 기념 : 리턴 투 호그와트]  Harry Potter 20th Anniversary: Return to Hogwarts 공식 예 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24523246</link>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_13/og1xS_1639623469207AC07u_PNG/1639623417135.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[페리 메이슨] 내 이름은 페리 메이슨, 탐정이죠 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24104524</link>
+            <guid>https://tv.naver.com/v/24104524</guid>
+            <pubDate>Mon, 10 Jan 2022 14:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_239/J6WWf_1639622737468niahj_PNG/1639622692030.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

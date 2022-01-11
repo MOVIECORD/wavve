@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 02:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 02:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Wed, 05 Jan 2022 05:11:21 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_104/XxeD2_1641358225132uOmcl_JPEG/1641358094791.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨이브 오리지널 [트레이서] 제작발표회]]></title>
+            <link>https://tv.naver.com/v/24421844</link>
+            <guid>https://tv.naver.com/v/24421844</guid>
+            <pubDate>Tue, 11 Jan 2022 02:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:10:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_48/us1r2_1641868318546g91ao_JPEG/1641868311547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서] 열정과 케미가 넘쳐흐르는 제작기 영상 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_13/og1xS_1639623469207AC07u_PNG/1639623417135.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[페리 메이슨] 내 이름은 페리 메이슨, 탐정이죠 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/24104524</link>
-            <guid>https://tv.naver.com/v/24104524</guid>
-            <pubDate>Mon, 10 Jan 2022 14:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_239/J6WWf_1639622737468niahj_PNG/1639622692030.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

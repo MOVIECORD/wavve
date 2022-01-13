@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 09:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 10:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 13 Jan 2022 09:09:07 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_213/5mg7Q_1642063588120hHvKN_JPEG/1642063508072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맥밀리언스] 공식 예고편 | HBO | 웨이브 다큐멘터리 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24579720</link>
+            <guid>https://tv.naver.com/v/24579720</guid>
+            <pubDate>Thu, 13 Jan 2022 10:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_153/3dkQf_1642048797956xzbL0_PNG/1642048758890.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[엔젤스 인 아메리카] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 04:10:23 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_279/tUeGq_1640748226751rOhDt_PNG/1640747964335.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[닥터데스: 언닥터 스토리] 수술한 환자들을 죽이거나 불구로 만든 신경외과 의사 | 웨이브 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24245539</link>
-            <guid>https://tv.naver.com/v/24245539</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211224_278/hJ66M_1640326639669tUcDu_PNG/1640326575187.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

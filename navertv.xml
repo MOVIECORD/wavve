@@ -4,9 +4,25 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 04:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 05:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] 통쾌한 추적 활극! 조세5국이 말하는 트레이서는?! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24578537</link>
+            <guid>https://tv.naver.com/v/24578537</guid>
+            <pubDate>Thu, 13 Jan 2022 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_300/t0xWD_1642045154666p8JTl_JPEG/1642044935432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[혼돈의 첩보원] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
+            <link>https://tv.naver.com/v/24575678</link>
+            <guid>https://tv.naver.com/v/24575678</guid>
+            <pubDate>Thu, 13 Jan 2022 05:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_115/5H4xc_1642036044207xd4vD_PNG/1642035973446.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[해리포터 20주년 기념: 리턴 투 호그와트] Harry Potter 20th Anniversary: Return to Hogwarts 피처렛]]></title>
             <link>https://tv.naver.com/v/24560303</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211223_27/jyCbE_16402275328021upsI_PNG/1640227464138.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[디스 웨이 업 시즌2] 오냐 소냐 자매 크로스! 조금 우울해도 괜찮아 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/24125306</link>
-            <guid>https://tv.naver.com/v/24125306</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_48/dR7KQ_1639714242985wIEQ4_PNG/1639714210331.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[프랭크 오브 아일랜드] 엄마 집에 얹혀 사는 백수 프랭크가 삶을 찾는 방법 | 웨이브]]></title>
-            <link>https://tv.naver.com/v/24123799</link>
-            <guid>https://tv.naver.com/v/24123799</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211217_267/0FNdC_1639709450189nz817_PNG/1639709400522.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

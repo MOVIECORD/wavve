@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 12 Jan 2022 11:07:31 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_1/WivLU_1641963514401kE0FV_JPEG/1641963393760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서] 시청자들 리얼 반응 폭발!! 스페셜 리뷰 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24527506</link>
+            <guid>https://tv.naver.com/v/24527506</guid>
+            <pubDate>Thu, 13 Jan 2022 03:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_289/GqeaN_1641804101305YRAf0_JPEG/1641803873942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[해리포터 20주년 기념 : 리턴 투 호그와트]  Harry Potter 20th Anniversary: Return to Hogwarts 공식 예 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211217_267/0FNdC_1639709450189nz817_PNG/1639709400522.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[배리] 배우가 되고 싶은 킬러?! | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24105921</link>
-            <guid>https://tv.naver.com/v/24105921</guid>
-            <pubDate>Wed, 29 Dec 2021 03:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_54/YQFfz_16396274725491G2sD_PNG/1639627429599.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

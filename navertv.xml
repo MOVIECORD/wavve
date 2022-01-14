@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 06:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #4 킹받지만 멋있어… 기세등등 황팀장 활약본 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24600950</link>
+            <guid>https://tv.naver.com/v/24600950</guid>
+            <pubDate>Fri, 14 Jan 2022 06:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_289/dWukO_1642139476691faa23_JPEG/1642139437998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크리머리: 라스트 맨] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/24596693</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Dec 2021 07:08:27 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_171/Us8g2_1640839502401Jdpt1_JPEG/1640839356893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[워리어] 이소룡 원작 액션! 피바람이 부는 1800년대 샌프란시스코 차이나타운 | HBO]]></title>
-            <link>https://tv.naver.com/v/24349066</link>
-            <guid>https://tv.naver.com/v/24349066</guid>
-            <pubDate>Thu, 30 Dec 2021 08:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_139/pdYLh_1640832153917iI12d_PNG/1640832112498.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 07:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 08:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #5 포브스 선정(?) 사직서 쓰고 싶은 순간 1위 |  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24603299</link>
+            <guid>https://tv.naver.com/v/24603299</guid>
+            <pubDate>Fri, 14 Jan 2022 08:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_286/x5uup_1642145724943pcT07_JPEG/1642145424039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #4 킹받지만 멋있어… 기세등등 황팀장 활약본 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24600950</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Dec 2021 08:10:22 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_290/OYsDk_1640848311189yg3Hv_JPEG/1640848270314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라디오스타] 킬리만자로의 표창원 & 일드래곤의 듀엣무대! (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24350953</link>
-            <guid>https://tv.naver.com/v/24350953</guid>
-            <pubDate>Thu, 30 Dec 2021 07:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_171/Us8g2_1640839502401Jdpt1_JPEG/1640839356893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

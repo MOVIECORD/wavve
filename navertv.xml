@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 00:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 02:01:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[앨런 vs 패로: 진실공방] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
+            <link>https://tv.naver.com/v/24594744</link>
+            <guid>https://tv.naver.com/v/24594744</guid>
+            <pubDate>Fri, 14 Jan 2022 02:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_276/la74d_1642120805675uAolB_PNG/1642120755943.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #3 조세 5국과 같이 돈벼락 한 번 맞아보실래요? | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24586146</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Dec 2021 03:08:37 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_140/ATGY2_16408310831751LzFl_PNG/1640831044896.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뷰니버스] 로봇여우와 모범택시 ㅣ 이제훈, 채수빈 ㅣ 웨이브 뷰니버스]]></title>
-            <link>https://tv.naver.com/v/24330273</link>
-            <guid>https://tv.naver.com/v/24330273</guid>
-            <pubDate>Fri, 31 Dec 2021 04:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_279/tUeGq_1640748226751rOhDt_PNG/1640747964335.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

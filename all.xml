@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 08:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 09:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 14 Jan 2022 06:10:23 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_289/dWukO_1642139476691faa23_JPEG/1642139437998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파이어] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24599876</link>
+            <guid>https://tv.naver.com/v/24599876</guid>
+            <pubDate>Fri, 14 Jan 2022 09:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_83/pRm3a_1642136766621jyKoI_PNG/1642136729407.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[크리머리: 라스트 맨] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 03:09:41 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_143/OjhyW_1640916089679utNQl_PNG/1640916049483.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 똑똑똑, 국세청에서 독한 놈들 나왔습니다! 캐릭터 예고편 l 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24354428</link>
-            <guid>https://tv.naver.com/v/24354428</guid>
-            <pubDate>Thu, 30 Dec 2021 08:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_290/OYsDk_1640848311189yg3Hv_JPEG/1640848270314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

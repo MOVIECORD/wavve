@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #8 우리 국세청 금쪽이(?) 오영 과장님이 달라졌어요! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24676237</link>
+            <guid>https://tv.naver.com/v/24676237</guid>
+            <pubDate>Wed, 19 Jan 2022 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_276/fZwHq_1642512174289tiBb9_JPEG/1642512057748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #7 않요!!저 이의 있슴니다!!간부 회의 쳐들어 간 패기보소ㄷㄷ|웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24676196</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jan 2022 02:38:47 GMT</pubDate>
             <content:encoded><![CDATA[1:10:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_48/us1r2_1641868318546g91ao_JPEG/1641868311547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 열정과 케미가 넘쳐흐르는 제작기 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24375435</link>
-            <guid>https://tv.naver.com/v/24375435</guid>
-            <pubDate>Sun, 02 Jan 2022 09:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_159/ED19B_1640937336525XPV4j_JPEG/1640936708389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

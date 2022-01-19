@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 09:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 10:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://tv.naver.com/v/24641944</guid>
             <pubDate>Mon, 17 Jan 2022 11:07:15 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_128/f8QJR_1642395199713Mq1PM_PNG/1642393852684.png?type=f194_109_blend" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_295/Q7Yhy_1642586080816jGFnr_PNG/1642586077680.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[트레이서] #6 황팀장의 선전포고! 하나, 셋, 다섯?! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>

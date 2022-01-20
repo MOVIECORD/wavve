@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 08:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 09:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #12 전략가 황팀장님 명탐정 모드 발동! 🧐너희 모두 무너뜨려주겠어! | 웨이 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24708590</link>
+            <guid>https://tv.naver.com/v/24708590</guid>
+            <pubDate>Thu, 20 Jan 2022 09:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_208/eIi5x_1642664139696MiFze_JPEG/1642664082522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] 조세 5국 댄스 유닛 결성✨ (feat. 냅다 돌진하는 오영 과장님) | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24706932</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 11:07:31 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_197/0Jaa2_1641431131804CFn6S_PNG/1641431086974.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[야만의 역사] 공식 예고편 | HBO | 웨이브 다큐멘터리 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24459422</link>
-            <guid>https://tv.naver.com/v/24459422</guid>
-            <pubDate>Thu, 06 Jan 2022 07:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_48/7TxDO_1641430386932wteJ2_PNG/1641430333584.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

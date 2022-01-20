@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 10:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] 노빠꾸로 팩폭작렬! 황동주 사이다 모먼트 모음! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24712277</link>
+            <guid>https://tv.naver.com/v/24712277</guid>
+            <pubDate>Thu, 20 Jan 2022 11:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_21/xKGLJ_1642674978686qE0O0_JPEG/1642674974421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #12 전략가 황팀장님 명탐정 모드 발동! 🧐너희 모두 무너뜨려주겠어! | 웨이]]></title>
             <link>https://tv.naver.com/v/24708590</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 03:11:55 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_261/2PT1J_1641436395899rvQwS_PNG/1641436307943.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[스트라이크 미스터리: 하얀 죽음] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/24459593</link>
-            <guid>https://tv.naver.com/v/24459593</guid>
-            <pubDate>Thu, 06 Jan 2022 11:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_197/0Jaa2_1641431131804CFn6S_PNG/1641431086974.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

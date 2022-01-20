@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 02:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 03:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #10 눈빛만으로도 압살하는 청장님 포스 ㄷㄷ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24701528</link>
+            <guid>https://tv.naver.com/v/24701528</guid>
+            <pubDate>Thu, 20 Jan 2022 03:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_141/0f0Jf_1642646627959Q8Nqu_JPEG/1642646516484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해리포터 20주년 기념:리턴 투 호그와트]Harry Potter 20th Anniversary:Return to Hogwarts 해리의고백 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24691360</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jan 2022 09:08:51 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_262/6Y8AU_1641365358116ndXEX_JPEG/1641365239511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 이상한 놈이 국세청을 뒤집었다?! 통쾌 100% 하이라이트 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24443142</link>
-            <guid>https://tv.naver.com/v/24443142</guid>
-            <pubDate>Thu, 06 Jan 2022 02:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_4/ePkXR_1641361158645F40gu_JPEG/1641360867689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

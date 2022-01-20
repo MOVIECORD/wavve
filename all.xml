@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 05:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 06:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #11 황팀장님은 코어도 참지 않긔! 코어까지 킹받는 당신👏 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24701724</link>
+            <guid>https://tv.naver.com/v/24701724</guid>
+            <pubDate>Thu, 20 Jan 2022 06:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_296/pySu9_1642647249939f4Oux_JPEG/1642647155224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #10 눈빛만으로도 압살하는 청장님 포스 ㄷㄷ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24701528</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jan 2022 11:07:17 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_33/03MMP_1641366216148OcjSL_JPEG/1641366067295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남색대문] 공식 예고편ㅣ대만 청춘 영화의 클래식 #남색대문ㅣ웨이브 영화 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24445195</link>
-            <guid>https://tv.naver.com/v/24445195</guid>
-            <pubDate>Wed, 05 Jan 2022 09:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_262/6Y8AU_1641365358116ndXEX_JPEG/1641365239511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

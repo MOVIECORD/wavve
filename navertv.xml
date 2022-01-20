@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] 조세 5국 댄스 유닛 결성✨ (feat. 냅다 돌진하는 오영 과장님) | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24706932</link>
+            <guid>https://tv.naver.com/v/24706932</guid>
+            <pubDate>Thu, 20 Jan 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_217/YUOHC_1642660451613mdQue_JPEG/1642659960920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #11 황팀장님은 코어도 참지 않긔! 코어까지 킹받는 당신👏 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24701724</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 07:08:30 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_48/7TxDO_1641430386932wteJ2_PNG/1641430333584.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[메기] 공식 예고편ㅣ2X9=💗 구교환X이옥섭 #메기ㅣ웨이브 영화]]></title>
-            <link>https://tv.naver.com/v/24445787</link>
-            <guid>https://tv.naver.com/v/24445787</guid>
-            <pubDate>Wed, 05 Jan 2022 11:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_33/03MMP_1641366216148OcjSL_JPEG/1641366067295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

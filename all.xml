@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 00:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 01:52:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 20 Jan 2022 03:07:38 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_141/0f0Jf_1642646627959Q8Nqu_JPEG/1642646516484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[애틀랜타의 실종과 살인] 공식 예고편 | HBO | 웨이브 다큐멘터리 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24698960</link>
+            <guid>https://tv.naver.com/v/24698960</guid>
+            <pubDate>Fri, 21 Jan 2022 01:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_98/9QY8c_1642637860002YovdF_PNG/1642637813709.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[해리포터 20주년 기념:리턴 투 호그와트]Harry Potter 20th Anniversary:Return to Hogwarts 해리의고백 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jan 2022 00:29:43 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_216/p8o5V_1641529346047hj51r_PNG/1641529294120.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[아이 메이 디스트로이 유] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24461064</link>
-            <guid>https://tv.naver.com/v/24461064</guid>
-            <pubDate>Thu, 06 Jan 2022 03:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_261/2PT1J_1641436395899rvQwS_PNG/1641436307943.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

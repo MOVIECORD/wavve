@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 05:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 06:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 3차 티저ㅣ연쇄살인범들과의 위험한 대화ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24726299</link>
+            <guid>https://tv.naver.com/v/24726299</guid>
+            <pubDate>Fri, 21 Jan 2022 06:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_237/qujQ8_1642745476825BHlSw_PNG/1642745341368.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 2차 티저ㅣ연쇄살인범들과의 위험한 대화ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24726234</link>
+            <guid>https://tv.naver.com/v/24726234</guid>
+            <pubDate>Fri, 21 Jan 2022 06:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_73/C0Rrj_1642745306227TJ8qt_PNG/1642745201112.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 1차 티저ㅣ연쇄살인범들과의 위험한 대화ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24726123</link>
+            <guid>https://tv.naver.com/v/24726123</guid>
+            <pubDate>Fri, 21 Jan 2022 06:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_69/TyTPD_1642745013777r3RNT_PNG/1642744825018.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[제트] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24720294</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 13 Jan 2022 03:11:13 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_289/GqeaN_1641804101305YRAf0_JPEG/1641803873942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해리포터 20주년 기념 : 리턴 투 호그와트]  Harry Potter 20th Anniversary: Return to Hogwarts 공식 예 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24523246</link>
-            <guid>https://tv.naver.com/v/24523246</guid>
-            <pubDate>Mon, 10 Jan 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_82/ygpoF_1641793375122wMak9_PNG/1641793272566.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[해리포터 20주년기념:리턴 투 호그와트Harry Potter 20th Anniversary:Return to Hogwarts 1차 공식예고편 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24490535</link>
-            <guid>https://tv.naver.com/v/24490535</guid>
-            <pubDate>Fri, 07 Jan 2022 11:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_224/DSPoG_1641546496840aw3nz_PNG/1641546237706.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이비자 스캔들] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24484435</link>
-            <guid>https://tv.naver.com/v/24484435</guid>
-            <pubDate>Sat, 08 Jan 2022 03:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_79/fWOoO_16415294083331otVs_PNG/1641529363205.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

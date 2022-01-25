@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 05:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #13 냉탕이었다가 온탕이었다가 밀당 쩌는 황팀장님..! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24781711</link>
+            <guid>https://tv.naver.com/v/24781711</guid>
+            <pubDate>Tue, 25 Jan 2022 05:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_9/0GGiY_1643085222173O4BBb_JPEG/1643084962843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] 인사면접으로 알아보는 캐릭터 A to Z 👀 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24730710</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jan 2022 09:09:07 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_213/5mg7Q_1642063588120hHvKN_JPEG/1642063508072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맥밀리언스] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
-            <link>https://tv.naver.com/v/24579720</link>
-            <guid>https://tv.naver.com/v/24579720</guid>
-            <pubDate>Thu, 13 Jan 2022 10:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_153/3dkQf_1642048797956xzbL0_PNG/1642048758890.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

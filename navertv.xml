@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 10:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 11:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 악을 쫓기 위한 숨막히는 추격전!ㅣ웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24811351</link>
+            <guid>https://tv.naver.com/v/24811351</guid>
+            <pubDate>Wed, 26 Jan 2022 11:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_90/kb4C9_1643191683293f5le0_PNG/1643191479044.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #16 얼얼한 마라맛! 왜 내가 땀이 나죠? 동주표 어록 대공개 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24809054</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jan 2022 05:10:20 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_97/COjqk_1642127189163DhGwh_PNG/1642127151644.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[앨런 vs 패로: 진실공방] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
-            <link>https://tv.naver.com/v/24594744</link>
-            <guid>https://tv.naver.com/v/24594744</guid>
-            <pubDate>Fri, 14 Jan 2022 02:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_276/la74d_1642120805675uAolB_PNG/1642120755943.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

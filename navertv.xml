@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 27 Jan 2022 08:10:30 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_294/r1bTB_1643269340356jaAkY_PNG/1643269267433.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[런] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/24826421</link>
+            <guid>https://tv.naver.com/v/24826421</guid>
+            <pubDate>Thu, 27 Jan 2022 10:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_46/8skIG_1643259826686HafPD_PNG/1643259781423.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[더 라이처스 젬스톤] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Jan 2022 11:07:15 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_295/Q7Yhy_1642586080816jGFnr_PNG/1642586077680.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #6 황팀장의 선전포고! 하나, 셋, 다섯?! | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24604072</link>
-            <guid>https://tv.naver.com/v/24604072</guid>
-            <pubDate>Fri, 14 Jan 2022 11:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_52/5U4SV_1642147509720uywP2_JPEG/1642146152120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

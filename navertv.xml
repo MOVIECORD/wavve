@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #17 우리 제법 수사에 소질 있네! 오늘도 미션 성공! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24817475</link>
+            <guid>https://tv.naver.com/v/24817475</guid>
+            <pubDate>Thu, 27 Jan 2022 05:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_164/bc0bm_16432110148960bChg_JPEG/1643210865467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[악의 마음을 읽는 자들] 악을 쫓기 위한 숨막히는 추격전!ㅣ웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24811351</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jan 2022 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_83/pRm3a_1642136766621jyKoI_PNG/1642136729407.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[크리머리: 라스트 맨] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/24596693</link>
-            <guid>https://tv.naver.com/v/24596693</guid>
-            <pubDate>Fri, 14 Jan 2022 05:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_97/COjqk_1642127189163DhGwh_PNG/1642127151644.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

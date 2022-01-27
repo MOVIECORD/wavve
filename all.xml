@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 08:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 09:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 27 Jan 2022 06:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_220/riEEY_1643258244979kHEhI_PNG/1643258202397.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서] #18 이런 🐶소리들을 정도로 내가 한가해 보이니? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24817579</link>
+            <guid>https://tv.naver.com/v/24817579</guid>
+            <pubDate>Thu, 27 Jan 2022 09:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_265/4ZYff_1643211631701wEjNW_JPEG/1643211047408.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서] #17 우리 제법 수사에 소질 있네! 오늘도 미션 성공! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jan 2022 11:07:27 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_52/5U4SV_1642147509720uywP2_JPEG/1642146152120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #5 포브스 선정(?) 사직서 쓰고 싶은 순간 1위 |  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24603299</link>
-            <guid>https://tv.naver.com/v/24603299</guid>
-            <pubDate>Fri, 14 Jan 2022 08:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_286/x5uup_1642145724943pcT07_JPEG/1642145424039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

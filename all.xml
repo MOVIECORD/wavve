@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 10:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 11:06:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] 중독성 100% 황동주 어쩔티비 모먼트 모음 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24831496</link>
+            <guid>https://tv.naver.com/v/24831496</guid>
+            <pubDate>Thu, 27 Jan 2022 11:06:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_260/TEnJi_1643271477059V9lSS_JPEG/1643271404407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[홀인러브] 골프에 연애를 더한다면? (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24830468</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 06:09:54 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_297/kwlda_16425120305651eYrw_JPEG/1642511679022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해리포터 20주년 기념 : 리턴 투 호그와트]Harry Potter 20th Anniversary: Return to Hogwarts 리뷰 예고 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24641944</link>
-            <guid>https://tv.naver.com/v/24641944</guid>
-            <pubDate>Mon, 17 Jan 2022 11:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_295/Q7Yhy_1642586080816jGFnr_PNG/1642586077680.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

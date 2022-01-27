@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[홀인러브] 골프에 연애를 더한다면? (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24830468</link>
+            <guid>https://tv.naver.com/v/24830468</guid>
+            <pubDate>Thu, 27 Jan 2022 08:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_294/r1bTB_1643269340356jaAkY_PNG/1643269267433.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[더 라이처스 젬스톤] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/24825796</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jan 2022 08:10:46 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220114_286/x5uup_1642145724943pcT07_JPEG/1642145424039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #4 킹받지만 멋있어… 기세등등 황팀장 활약본 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24600950</link>
-            <guid>https://tv.naver.com/v/24600950</guid>
-            <pubDate>Fri, 14 Jan 2022 06:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220114_289/dWukO_1642139476691faa23_JPEG/1642139437998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

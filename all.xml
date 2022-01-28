@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 10:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 11:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 27 Jan 2022 11:06:32 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_260/TEnJi_1643271477059V9lSS_JPEG/1643271404407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 경찰을 사칭한 끔찍한 사건의 시작ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24830871</link>
+            <guid>https://tv.naver.com/v/24830871</guid>
+            <pubDate>Fri, 28 Jan 2022 11:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_158/Atg1j_1643270242011U4BeP_PNG/1643270234953.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[홀인러브] 골프에 연애를 더한다면? (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 06:12:31 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_296/pySu9_1642647249939f4Oux_JPEG/1642647155224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #10 눈빛만으로도 압살하는 청장님 포스 ㄷㄷ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24701528</link>
-            <guid>https://tv.naver.com/v/24701528</guid>
-            <pubDate>Thu, 20 Jan 2022 03:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_141/0f0Jf_1642646627959Q8Nqu_JPEG/1642646516484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

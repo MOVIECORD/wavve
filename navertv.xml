@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서]  조세 5국의 설날 인사 (feat. 갓 구운 쿠키 영상🍪) | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24844100</link>
+            <guid>https://tv.naver.com/v/24844100</guid>
+            <pubDate>Fri, 28 Jan 2022 05:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_242/3P1TE_1643343273104Q7A1J_JPEG/1643343190082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] 중독성 100% 황동주 어쩔티비 모먼트 모음 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24831496</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 11:07:44 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_285/1PyoY_1642586455499Kv3Rh_PNG/1642586245913.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #9 그동안 즐거웠니? 이젠 세금 672억 뱉어!! | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24676278</link>
-            <guid>https://tv.naver.com/v/24676278</guid>
-            <pubDate>Wed, 19 Jan 2022 11:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_261/S7RwQ_1642512325734s6dUG_JPEG/1642512311183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

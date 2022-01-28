@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 01:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 02:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 27 Jan 2022 08:10:30 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_294/r1bTB_1643269340356jaAkY_PNG/1643269267433.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[세기의 범죄] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/24827591</link>
+            <guid>https://tv.naver.com/v/24827591</guid>
+            <pubDate>Fri, 28 Jan 2022 02:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_131/iwQY8_1643262563262COytK_PNG/1643262533009.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[레이디 앤 더 데일] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 11:07:44 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_261/S7RwQ_1642512325734s6dUG_JPEG/1642512311183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #8 우리 국세청 금쪽이(?) 오영 과장님이 달라졌어요! | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24676237</link>
-            <guid>https://tv.naver.com/v/24676237</guid>
-            <pubDate>Wed, 19 Jan 2022 09:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220118_276/fZwHq_1642512174289tiBb9_JPEG/1642512057748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

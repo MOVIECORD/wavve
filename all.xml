@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 14:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 15:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 28 Jan 2022 05:07:28 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_242/3P1TE_1643343273104Q7A1J_JPEG/1643343190082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 7회 예고ㅣ자취를 감춘 범인ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24843444</link>
+            <guid>https://tv.naver.com/v/24843444</guid>
+            <pubDate>Sat, 29 Jan 2022 15:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_151/TCHHP_1643340868399F4gEj_PNG/1643340697860.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[악의 마음을 읽는 자들] 6회 예고ㅣ다음 범행을 막을 유일한 방법은?ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 09:08:34 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_208/eIi5x_1642664139696MiFze_JPEG/1642664082522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 조세 5국 댄스 유닛 결성✨ (feat. 냅다 돌진하는 오영 과장님) | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24706932</link>
-            <guid>https://tv.naver.com/v/24706932</guid>
-            <pubDate>Thu, 20 Jan 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_217/YUOHC_1642660451613mdQue_JPEG/1642659960920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

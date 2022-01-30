@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 04:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 05:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_136/Tg5Cb_1643167166949ekoJC_JPEG/1643167092767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 김남길X진선규, 20초 릴레이 미션 접수! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24788731</link>
+            <guid>https://tv.naver.com/v/24788731</guid>
+            <pubDate>Sun, 30 Jan 2022 05:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_59/jMoTI_1643103932588qzVqA_JPEG/1643103828512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트레이서] #14 눈물샘 폭발하는 황팀장님이 전하는 진심 어린 위로 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24784055</link>
             <guid>https://tv.naver.com/v/24784055</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 11:07:33 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_21/xKGLJ_1642674978686qE0O0_JPEG/1642674974421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #12 전략가 황팀장님 명탐정 모드 발동! 🧐너희 모두 무너뜨려주겠어! | 웨이]]></title>
-            <link>https://tv.naver.com/v/24708590</link>
-            <guid>https://tv.naver.com/v/24708590</guid>
-            <pubDate>Thu, 20 Jan 2022 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_208/eIi5x_1642664139696MiFze_JPEG/1642664082522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

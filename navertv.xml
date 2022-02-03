@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 10:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 11:06:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 써드 데이] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/24908798</link>
+            <guid>https://tv.naver.com/v/24908798</guid>
+            <pubDate>Thu, 03 Feb 2022 11:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_110/tPYPP_1643868374181rQnCz_PNG/1643868336516.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[서약] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
             <link>https://tv.naver.com/v/24908555</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jan 2022 15:08:02 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_148/vmDxO_1642747053702by8vd_PNG/1642746969382.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[악의 마음을 읽는 자들] 4회 예고ㅣ연쇄살인범들과의 위험한 대화ㅣ웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24726970</link>
-            <guid>https://tv.naver.com/v/24726970</guid>
-            <pubDate>Fri, 21 Jan 2022 15:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_31/bQxcs_1642746883157QkBeI_PNG/1642746706731.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

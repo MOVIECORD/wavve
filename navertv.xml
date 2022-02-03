@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 11:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 12:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] #22 황동주 VS 인도훈 주먹 다짐?! 제대로 붙었다😎 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/24919704</link>
+            <guid>https://tv.naver.com/v/24919704</guid>
+            <pubDate>Thu, 03 Feb 2022 12:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_137/W4GXH_1643886505507z1L09_JPEG/1643886326988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더 써드 데이] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/24908798</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jan 2022 09:07:20 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_217/POlZ7_1642747332706DaCD8_JPEG/1642747230894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[악의 마음을 읽는 자들] 5회 예고ㅣ연쇄살인범들과의 위험한 대화ㅣ웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24727048</link>
-            <guid>https://tv.naver.com/v/24727048</guid>
-            <pubDate>Sat, 22 Jan 2022 15:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_148/vmDxO_1642747053702by8vd_PNG/1642746969382.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

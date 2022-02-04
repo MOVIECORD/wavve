@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 06:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 07:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[매그넘 P.I. 시즌4] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/24935138</link>
+            <guid>https://tv.naver.com/v/24935138</guid>
+            <pubDate>Fri, 04 Feb 2022 07:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_268/Dxncd_1643950569386y7hXk_PNG/1643950528158.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] #23 서 조사관 알고 보니 쇼미 예선 프리패스?! | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/24920015</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Jan 2022 09:08:22 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220125_46/P7IOR_16430922257847MvXX_JPEG/1643092136835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #13 냉탕이었다가 온탕이었다가 밀당 쩌는 황팀장님..! | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24781711</link>
-            <guid>https://tv.naver.com/v/24781711</guid>
-            <pubDate>Tue, 25 Jan 2022 05:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220125_9/0GGiY_1643085222173O4BBb_JPEG/1643084962843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

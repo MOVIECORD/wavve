@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 01:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 02:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 03 Feb 2022 06:09:28 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_262/2xKH6_1643862508100gH6t1_PNG/1643862393198.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서] 촬영 현장 속 찐케미 포착! BTS(비하인드) 영상 공개 ｜웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24904268</link>
+            <guid>https://tv.naver.com/v/24904268</guid>
+            <pubDate>Fri, 04 Feb 2022 02:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_291/Ptto1_1643851615533pUv0u_JPEG/1643851517680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서] #21 갖고싶다..! 넘나 탐나는 동주의 저 PT 실력 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Jan 2022 03:07:52 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220121_41/fXdWY_1642754912158ALFRv_JPEG/1642754639651.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[악의 마음을 읽는 자들] 웨이브는 못 참지! 김남길X진선규 웨이브 실력은!? (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24727138</link>
-            <guid>https://tv.naver.com/v/24727138</guid>
-            <pubDate>Sat, 22 Jan 2022 09:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220121_217/POlZ7_1642747332706DaCD8_JPEG/1642747230894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 06:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맥그루버] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25022465</link>
+            <guid>https://tv.naver.com/v/25022465</guid>
+            <pubDate>Wed, 09 Feb 2022 06:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_284/B9pcL_16443818228166mgNB_PNG/1644381788907.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] 1-2회 숏주행 : 돌+I력 실화?세금먹튀러 때려잡는 킹동주 등장 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25004689</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Jan 2022 11:07:37 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_90/kb4C9_1643191683293f5le0_PNG/1643191479044.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #16 얼얼한 마라맛! 왜 내가 땀이 나죠? 동주표 어록 대공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24809054</link>
-            <guid>https://tv.naver.com/v/24809054</guid>
-            <pubDate>Wed, 26 Jan 2022 09:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_230/mDshy_1643185961395t27Ts_JPEG/1643185896321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

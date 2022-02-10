@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 08:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이스트바운드 & 다운] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/25047320</link>
+            <guid>https://tv.naver.com/v/25047320</guid>
+            <pubDate>Thu, 10 Feb 2022 08:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_268/gcgap_16444716529507riam_PNG/1644471587221.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[와이엇 시낵의 연구] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
             <link>https://tv.naver.com/v/25045582</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 06:09:28 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_220/riEEY_1643258244979kHEhI_PNG/1643258202397.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #18 이런 🐶소리들을 정도로 내가 한가해 보이니? | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24817579</link>
-            <guid>https://tv.naver.com/v/24817579</guid>
-            <pubDate>Thu, 27 Jan 2022 09:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_265/4ZYff_1643211631701wEjNW_JPEG/1643211047408.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

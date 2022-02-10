@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 10 Feb 2022 06:09:32 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_26/RzqOT_1644467395659hDA6k_PNG/1644467346521.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서] 3-4회 숏주행: 본격 참교육 스타뚜! 돈보다 세금보다 무서운 건?!🤔 | 웨이브]]></title>
+            <link>https://tv.naver.com/v/25044517</link>
+            <guid>https://tv.naver.com/v/25044517</guid>
+            <pubDate>Thu, 10 Feb 2022 09:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[30:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_167/6DX2L_1644463913680jEPlC_JPEG/1644463805710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서] 주목! 조세 5국즈 캐릭터 VS 본체 MBTI 독점 공개! 😎 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 10:08:18 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_46/8skIG_1643259826686HafPD_PNG/1643259781423.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 라이처스 젬스톤] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/24825796</link>
-            <guid>https://tv.naver.com/v/24825796</guid>
-            <pubDate>Thu, 27 Jan 2022 06:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_220/riEEY_1643258244979kHEhI_PNG/1643258202397.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

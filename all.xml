@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 10:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 11:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 11 Feb 2022 05:07:47 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_42/FwADw_1644552944534GjBLl_PNG/1644552905833.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 지금부터가 진짜다!2배로 강력해진 카타르시스!시즌2 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25067007</link>
-            <guid>https://tv.naver.com/v/25067007</guid>
-            <pubDate>Fri, 11 Feb 2022 04:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_285/uMKQF_1644549176693OpjY8_JPEG/1644549175412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이스트바운드 & 다운] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 28 Jan 2022 11:07:03 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_158/Atg1j_1643270242011U4BeP_PNG/1643270234953.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[홀인러브] 골프에 연애를 더한다면? (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/24830468</link>
+            <guid>https://tv.naver.com/v/24830468</guid>
+            <pubDate>Fri, 11 Feb 2022 11:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_294/r1bTB_1643269340356jaAkY_PNG/1643269267433.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

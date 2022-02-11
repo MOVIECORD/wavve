@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 03:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 04:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] 지금부터가 진짜다!2배로 강력해진 카타르시스!시즌2 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25067007</link>
+            <guid>https://tv.naver.com/v/25067007</guid>
+            <pubDate>Fri, 11 Feb 2022 04:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220211_285/uMKQF_1644549176693OpjY8_JPEG/1644549175412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이스트바운드 & 다운] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25047320</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 12:12:21 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220127_153/UVt4K_1643261215112poNBf_PNG/1643261176577.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[런] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24826421</link>
-            <guid>https://tv.naver.com/v/24826421</guid>
-            <pubDate>Thu, 27 Jan 2022 10:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_46/8skIG_1643259826686HafPD_PNG/1643259781423.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서] 무삭제 선공개 영상 최초공개✨ 시즌2 컴온! 현기증 난단 말이에요]]></title>
+            <link>https://tv.naver.com/v/25127942</link>
+            <guid>https://tv.naver.com/v/25127942</guid>
+            <pubDate>Thu, 17 Feb 2022 01:46:06 GMT</pubDate>
+            <content:encoded><![CDATA[10:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220215_255/m0fHq_1644889638186Q92Ay_JPEG/1644889624535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서] 5-6회 숏주행 : 도른자는 달라도 다릅니다..!이 구역의 광기킹 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/25127051</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 31 Jan 2022 04:09:38 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_218/2ozw8_1643330355875mGNgv_PNG/1643330148569.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 중독성 100% 황동주 어쩔티비 모먼트 모음 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24831496</link>
-            <guid>https://tv.naver.com/v/24831496</guid>
-            <pubDate>Thu, 27 Jan 2022 11:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220127_260/TEnJi_1643271477059V9lSS_JPEG/1643271404407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

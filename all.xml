@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 09:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 17 Feb 2022 09:08:30 GMT</pubDate>
             <content:encoded><![CDATA[30:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_34/dbYs3_1645025603174F0eMQ_JPEG/1645025427511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #25 회사별로 1팀 1동주 보급 시급합니다..!🥺 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25166419</link>
+            <guid>https://tv.naver.com/v/25166419</guid>
+            <pubDate>Fri, 18 Feb 2022 09:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_41/bcUKD_1644997811084MmKHq_JPEG/1644997715445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] 무삭제 선공개 영상 최초공개✨ 시즌2 컴온! 현기증 난단 말이에요 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 08:09:41 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_173/GseAT_1643343751263B65FV_PNG/1643343713837.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[오디너리 조] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24844103</link>
-            <guid>https://tv.naver.com/v/24844103</guid>
-            <pubDate>Fri, 28 Jan 2022 06:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_183/gvXzJ_1643343282347yElCF_PNG/1643343244967.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

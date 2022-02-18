@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 00:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:58:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 17 Feb 2022 08:09:24 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_39/d7DgH_16450651721249u8uR_PNG/1645065122218.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] 시즌1 알맹이만 쏙쏙 뽑아, 15분 컷으로 완벽 마스터하기✨ (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25178533</link>
+            <guid>https://tv.naver.com/v/25178533</guid>
+            <pubDate>Fri, 18 Feb 2022 01:58:36 GMT</pubDate>
+            <content:encoded><![CDATA[14:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_219/arYsy_1645061227463GsPL0_JPEG/1645061039490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서] 7-8회 숏주행: 마라맛 통수 HI😉 통수도 잘 치는 동주😏 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jan 2022 06:09:41 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_183/gvXzJ_1643343282347yElCF_PNG/1643343244967.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서]  조세 5국의 설날 인사 (feat. 갓 구운 쿠키 영상🍪) | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24844100</link>
-            <guid>https://tv.naver.com/v/24844100</guid>
-            <pubDate>Fri, 28 Jan 2022 05:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_242/3P1TE_1643343273104Q7A1J_JPEG/1643343190082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 04:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 05:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 17 Feb 2022 09:08:30 GMT</pubDate>
             <content:encoded><![CDATA[30:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_34/dbYs3_1645025603174F0eMQ_JPEG/1645025427511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #26 동주 아버지의 죽음, 과연 그날의 진실은?😲 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25166634</link>
+            <guid>https://tv.naver.com/v/25166634</guid>
+            <pubDate>Sat, 19 Feb 2022 05:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_94/AtHzx_1644998284751VuJEM_JPEG/1644998223419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] #25 회사별로 1팀 1동주 보급 시급합니다..!🥺 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Feb 2022 05:07:59 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_240/TFL2Q_1643361261324EmIQD_JPEG/1643361179471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[랜드스케이퍼스] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/24844274</link>
-            <guid>https://tv.naver.com/v/24844274</guid>
-            <pubDate>Fri, 28 Jan 2022 08:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_173/GseAT_1643343751263B65FV_PNG/1643343713837.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

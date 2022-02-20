@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 04:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 17 Feb 2022 09:08:30 GMT</pubDate>
             <content:encoded><![CDATA[30:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_34/dbYs3_1645025603174F0eMQ_JPEG/1645025427511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #27 국장님은 그런 사람으로 남아주세요,동주의 진심 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25166813</link>
+            <guid>https://tv.naver.com/v/25166813</guid>
+            <pubDate>Sun, 20 Feb 2022 05:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_45/uBmFy_1644998574585xLv1h_JPEG/1644998519957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] #26 동주 아버지의 죽음, 과연 그날의 진실은?😲 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Feb 2022 09:07:57 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220128_148/j9Z4P_1643361351258KmRSa_JPEG/1643361281665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #19 사장님들~ 꿈과 희망을 동주에게 맡겨주십쇼😎 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24850568</link>
-            <guid>https://tv.naver.com/v/24850568</guid>
-            <pubDate>Wed, 02 Feb 2022 05:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220128_240/TFL2Q_1643361261324EmIQD_JPEG/1643361179471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 13:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 14:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 25 Feb 2022 07:08:35 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_126/P3Ct4_16457701866762ITgz_JPEG/1645770018088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] 1-2화 숏주행: 시작부터 갈등의 씨앗 등장?!🌱 | 웨이브오리지널]]></title>
+            <link>https://tv.naver.com/v/25328718</link>
+            <guid>https://tv.naver.com/v/25328718</guid>
+            <pubDate>Sat, 26 Feb 2022 14:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[30:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_255/MYzm7_1645705374394fU3xd_JPEG/1645705257487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[악의 마음을 읽는 자들] 8회 예고ㅣ원하는 것을 얻으려면ㅣ웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Feb 2022 12:12:06 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_137/W4GXH_1643886505507z1L09_JPEG/1643886326988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 써드 데이] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/24908798</link>
-            <guid>https://tv.naver.com/v/24908798</guid>
-            <pubDate>Thu, 03 Feb 2022 11:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_110/tPYPP_1643868374181rQnCz_PNG/1643868336516.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

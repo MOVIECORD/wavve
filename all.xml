@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속물 변호사 X 마녀 검사 X 꼴통 판사 대격돌!ㅣ이보영, 정려원, 박은빈ㅣ웨이브 뷰니버스 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25359032</link>
+            <guid>https://tv.naver.com/v/25359032</guid>
+            <pubDate>Mon, 28 Feb 2022 09:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220226_229/3h0f4_1645880209056jnqq8_PNG/1645880178574.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] 조세 5국즈 20초 릴레이 미션 공개✨ (feat. 파닥파닥) | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25340299</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Feb 2022 09:06:50 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_102/5l5fm_1643887709803cSEj6_JPEG/1643887589374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #23 서 조사관 알고 보니 쇼미 예선 프리패스?! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24920015</link>
-            <guid>https://tv.naver.com/v/24920015</guid>
-            <pubDate>Fri, 04 Feb 2022 05:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_212/zPxWz_1643887008920h01OR_JPEG/1643886970877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

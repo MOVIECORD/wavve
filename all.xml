@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 08:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 09:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 02 Mar 2022 05:08:21 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_236/szAbP_1645103418181L0P4N_JPEG/1645103342993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #32 네글자로 부하직원 노이로제 걸리게 하는 법😅 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25195424</link>
+            <guid>https://tv.naver.com/v/25195424</guid>
+            <pubDate>Wed, 02 Mar 2022 09:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_100/jH1pw_1645102732805d74Wf_JPEG/1645102578882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[머니레이스] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Feb 2022 11:06:31 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220207_129/m2cF7_1644230692576rpqkT_JPEG/1644230412281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[매그넘 P.I. 시즌4] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/24935138</link>
-            <guid>https://tv.naver.com/v/24935138</guid>
-            <pubDate>Fri, 04 Feb 2022 07:07:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220204_268/Dxncd_1643950569386y7hXk_PNG/1643950528158.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

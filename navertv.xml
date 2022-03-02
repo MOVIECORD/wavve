@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 25 Feb 2022 15:09:01 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_179/ffOQs_1645691516717UbeLU_PNG/1645691401151.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #31 전략가 동주의 콧.김.변.신.😤 넌 이제 끝나쓰! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25195792</link>
+            <guid>https://tv.naver.com/v/25195792</guid>
+            <pubDate>Wed, 02 Mar 2022 05:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_236/szAbP_1645103418181L0P4N_JPEG/1645103342993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[머니레이스] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Feb 2022 07:07:06 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220204_268/Dxncd_1643950569386y7hXk_PNG/1643950528158.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] #24 눈빛에 내 기가 다 빨리네..눈.빛.압.살. 인청장님 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/24920490</link>
-            <guid>https://tv.naver.com/v/24920490</guid>
-            <pubDate>Fri, 04 Feb 2022 09:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_102/5l5fm_1643887709803cSEj6_JPEG/1643887589374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

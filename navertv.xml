@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 10회 예고ㅣ살인에 최선을 다 하는 범인ㅣ웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25469183</link>
+            <guid>https://tv.naver.com/v/25469183</guid>
+            <pubDate>Fri, 04 Mar 2022 15:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_287/Va1dC_1646377880642FPUxr_JPEG/1646377770410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[속물 변호사 X 마녀 검사 X 꼴통 판사 대격돌!ㅣ이보영, 정려원, 박은빈ㅣ웨이브 뷰니버스]]></title>
             <link>https://tv.naver.com/v/25359032</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Feb 2022 06:09:32 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_26/RzqOT_1644467395659hDA6k_PNG/1644467346521.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 3-4회 숏주행: 본격 참교육 스타뚜! 돈보다 세금보다 무서운 건?!🤔 | 웨이브]]></title>
-            <link>https://tv.naver.com/v/25044517</link>
-            <guid>https://tv.naver.com/v/25044517</guid>
-            <pubDate>Thu, 10 Feb 2022 09:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[30:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_167/6DX2L_1644463913680jEPlC_JPEG/1644463805710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

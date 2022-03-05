@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 04:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] 조세 5국즈 이구동성 OX 인터뷰✨ | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25473362</link>
+            <guid>https://tv.naver.com/v/25473362</guid>
+            <pubDate>Sat, 05 Mar 2022 05:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_227/OJJX5_16463882512484ebKC_JPEG/1646388151146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[악의 마음을 읽는 자들] 10회 예고ㅣ살인에 최선을 다 하는 범인ㅣ웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/25469183</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Feb 2022 08:10:09 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_268/gcgap_16444716529507riam_PNG/1644471587221.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[와이엇 시낵의 연구] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
-            <link>https://tv.naver.com/v/25045582</link>
-            <guid>https://tv.naver.com/v/25045582</guid>
-            <pubDate>Thu, 10 Feb 2022 06:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_26/RzqOT_1644467395659hDA6k_PNG/1644467346521.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

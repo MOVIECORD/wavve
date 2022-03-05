@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 14:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 15:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 05 Mar 2022 05:07:55 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_227/OJJX5_16463882512484ebKC_JPEG/1646388151146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악의 마음을 읽는 자들] 11회 예고ㅣ"송하영 불러주십쇼"ㅣ웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25469381</link>
+            <guid>https://tv.naver.com/v/25469381</guid>
+            <pubDate>Sat, 05 Mar 2022 15:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_293/LmulR_1646378351916ib0IG_JPEG/1646378344955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[악의 마음을 읽는 자들] 10회 예고ㅣ살인에 최선을 다 하는 범인ㅣ웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Feb 2022 14:08:05 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220211_285/uMKQF_1644549176693OpjY8_JPEG/1644549175412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이스트바운드 & 다운] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/25047320</link>
-            <guid>https://tv.naver.com/v/25047320</guid>
-            <pubDate>Thu, 10 Feb 2022 08:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_268/gcgap_16444716529507riam_PNG/1644471587221.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

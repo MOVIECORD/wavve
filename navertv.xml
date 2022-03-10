@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 08:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 25 Feb 2022 07:08:35 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_126/P3Ct4_16457701866762ITgz_JPEG/1645770018088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #38 찐 팀워크란 이런 것! 새삼 와닿는 '우리'의 의미 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25329038</link>
+            <guid>https://tv.naver.com/v/25329038</guid>
+            <pubDate>Thu, 10 Mar 2022 09:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_237/OWhGQ_1645706680767DLmmF_JPEG/1645706623079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] #37 2022 남우주연상 황동주 확정?신들린 눈물 연기맛집 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Feb 2022 05:07:51 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_94/AtHzx_1644998284751VuJEM_JPEG/1644998223419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #25 회사별로 1팀 1동주 보급 시급합니다..!🥺 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25166419</link>
-            <guid>https://tv.naver.com/v/25166419</guid>
-            <pubDate>Fri, 18 Feb 2022 09:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_41/bcUKD_1644997811084MmKHq_JPEG/1644997715445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

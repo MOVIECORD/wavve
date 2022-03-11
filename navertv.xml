@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 06:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 07:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[계지유랑기] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/25589966</link>
+            <guid>https://tv.naver.com/v/25589966</guid>
+            <pubDate>Fri, 11 Mar 2022 07:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_187/wwOfR_1646978806923y4s2w_PNG/1646978741282.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[통령 소녀] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/25567216</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Feb 2022 05:07:50 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_45/uBmFy_1644998574585xLv1h_JPEG/1644998519957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #26 동주 아버지의 죽음, 과연 그날의 진실은?😲 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25166634</link>
-            <guid>https://tv.naver.com/v/25166634</guid>
-            <pubDate>Sat, 19 Feb 2022 05:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_94/AtHzx_1644998284751VuJEM_JPEG/1644998223419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

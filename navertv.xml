@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 04:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 05:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 11 Mar 2022 07:09:13 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_187/wwOfR_1646978806923y4s2w_PNG/1646978741282.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] 조세 5국즈 수박게임 배틀🔥 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25589565</link>
+            <guid>https://tv.naver.com/v/25589565</guid>
+            <pubDate>Sat, 12 Mar 2022 05:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_47/ERAKK_1646977833855JQPSS_JPEG/1646977753795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[악의 마음을 읽는 자들] 12회 예고ㅣ"저 의심하시는 거예요?"ㅣ웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Feb 2022 05:08:18 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_17/nDdDg_1645000140822cogD7_JPEG/1644999926056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #29 신개념 칼국수 눈치게임 START👀🍜 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25167492</link>
-            <guid>https://tv.naver.com/v/25167492</guid>
-            <pubDate>Fri, 25 Feb 2022 09:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_226/bj8nb_1644999904586Npdcw_JPEG/1644999821573.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

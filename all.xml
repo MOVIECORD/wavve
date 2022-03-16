@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Fri, 25 Feb 2022 07:08:35 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_126/P3Ct4_16457701866762ITgz_JPEG/1645770018088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #40 근데도 자꾸 방해하겠다면 😜 한 번 해보시던가! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25329242</link>
+            <guid>https://tv.naver.com/v/25329242</guid>
+            <pubDate>Wed, 16 Mar 2022 05:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_168/U5rRW_1645707403746I03o4_JPEG/1645707351802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] #39 서서히 밝혀지는 진실?! 동주와 혜영의 관계는? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Feb 2022 01:58:36 GMT</pubDate>
             <content:encoded><![CDATA[14:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_219/arYsy_1645061227463GsPL0_JPEG/1645061039490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서] 7-8회 숏주행: 마라맛 통수 HI😉 통수도 잘 치는 동주😏 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25175079</link>
-            <guid>https://tv.naver.com/v/25175079</guid>
-            <pubDate>Thu, 17 Feb 2022 09:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[30:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_34/dbYs3_1645025603174F0eMQ_JPEG/1645025427511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

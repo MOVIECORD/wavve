@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 08:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 09:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_126/P3Ct4_16457701866762ITgz_JPEG/1645770018088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[트레이서 시즌2] #41 국세청 금쪽아! 안 어울리게 미안해하지 마! 😂 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25329374</link>
+            <guid>https://tv.naver.com/v/25329374</guid>
+            <pubDate>Wed, 16 Mar 2022 09:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_179/8lbvD_1645707748584FDfrD_JPEG/1645707697989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트레이서 시즌2] #40 근데도 자꾸 방해하겠다면 😜 한 번 해보시던가! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25329242</link>
             <guid>https://tv.naver.com/v/25329242</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Feb 2022 05:07:32 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_192/VOrsE_1645071130572r6PC3_PNG/1645071094426.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[타이거 우즈] 공식 예고편 | HBO | 웨이브 다큐멘터리 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25180084</link>
-            <guid>https://tv.naver.com/v/25180084</guid>
-            <pubDate>Thu, 17 Feb 2022 08:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_39/d7DgH_16450651721249u8uR_PNG/1645065122218.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 04:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 05:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_126/P3Ct4_16457701866762ITgz_JPEG/1645770018088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[트레이서 시즌2] #42 잘 생각하고 대답해 주십쇼! 마주친 선택의 기로 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25329467</link>
+            <guid>https://tv.naver.com/v/25329467</guid>
+            <pubDate>Thu, 17 Mar 2022 05:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_17/CkrKP_1645708050314guUtA_JPEG/1645708004512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[트레이서 시즌2] #41 국세청 금쪽아! 안 어울리게 미안해하지 마! 😂 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/25329374</link>
             <guid>https://tv.naver.com/v/25329374</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 09:08:51 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_100/jH1pw_1645102732805d74Wf_JPEG/1645102578882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[머니레이스] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/25181849</link>
-            <guid>https://tv.naver.com/v/25181849</guid>
-            <pubDate>Thu, 17 Feb 2022 05:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_192/VOrsE_1645071130572r6PC3_PNG/1645071094426.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

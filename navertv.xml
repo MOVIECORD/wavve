@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 08:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 09:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 07 Mar 2022 09:08:56 GMT</pubDate>
             <content:encoded><![CDATA[15:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_169/nNUrr_1646638323191i10Xf_JPEG/1646637776452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #43 멱살 이젠 멈춰!!✋ 후덜덜한 동주표 킹펀치👊 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25477135</link>
+            <guid>https://tv.naver.com/v/25477135</guid>
+            <pubDate>Thu, 17 Mar 2022 09:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_47/UFkkg_1646402996793zbije_JPEG/1646402936107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] 조세 5국즈 이구동성 OX 인터뷰✨ | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 09:08:55 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_214/p3yOy_1645104620030yk9uG_JPEG/1645104488531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #33 숨막히는 눈빛 PARTY⭐️이건 마치 코카인,,😵  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25196038</link>
-            <guid>https://tv.naver.com/v/25196038</guid>
-            <pubDate>Thu, 03 Mar 2022 05:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_232/S2Ee7_16451038849271TGqe_JPEG/1645103806703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

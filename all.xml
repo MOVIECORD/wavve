@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로스 에스푸키스] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25701773</link>
+            <guid>https://tv.naver.com/v/25701773</guid>
+            <pubDate>Thu, 17 Mar 2022 07:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_89/uggWL_1647497416322iuLIi_PNG/1647497380652.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[MMM_Where are we now] 티저 예고편 공개✨ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25676910</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 05:08:21 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_236/szAbP_1645103418181L0P4N_JPEG/1645103342993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #32 네글자로 부하직원 노이로제 걸리게 하는 법😅 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25195424</link>
-            <guid>https://tv.naver.com/v/25195424</guid>
-            <pubDate>Wed, 02 Mar 2022 09:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_100/jH1pw_1645102732805d74Wf_JPEG/1645102578882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

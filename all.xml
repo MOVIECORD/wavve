@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인 트리트먼트] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25701981</link>
+            <guid>https://tv.naver.com/v/25701981</guid>
+            <pubDate>Thu, 17 Mar 2022 08:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_161/u7p87_1647497946816g5INq_PNG/1647497911597.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[로스 에스푸키스] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25701773</link>
             <guid>https://tv.naver.com/v/25701773</guid>
-            <pubDate>Thu, 17 Mar 2022 07:09:15 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 08:10:49 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_89/uggWL_1647497416322iuLIi_PNG/1647497380652.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 05:08:45 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_232/S2Ee7_16451038849271TGqe_JPEG/1645103806703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #31 전략가 동주의 콧.김.변.신.😤 넌 이제 끝나쓰! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25195792</link>
-            <guid>https://tv.naver.com/v/25195792</guid>
-            <pubDate>Wed, 02 Mar 2022 05:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_236/szAbP_1645103418181L0P4N_JPEG/1645103342993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

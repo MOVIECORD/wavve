@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 04:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 07 Mar 2022 09:08:56 GMT</pubDate>
             <content:encoded><![CDATA[15:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_169/nNUrr_1646638323191i10Xf_JPEG/1646637776452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #44 악연은 ㅇㅂㅈ로 끝내고 마무리는 우리가..🤝 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25477218</link>
+            <guid>https://tv.naver.com/v/25477218</guid>
+            <pubDate>Fri, 18 Mar 2022 05:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_218/qc5ij_1646403370112gyOoy_JPEG/1646403314506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] #43 멱살 이젠 멈춰!!✋ 후덜덜한 동주표 킹펀치👊 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 05:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220217_160/4XRhC_16451051625199WrdH_JPEG/1645105069093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #34 오늘도 평화로운(?) 조세5국🤪 바로 조사 시작! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25196421</link>
-            <guid>https://tv.naver.com/v/25196421</guid>
-            <pubDate>Thu, 03 Mar 2022 09:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220217_214/p3yOy_1645104620030yk9uG_JPEG/1645104488531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

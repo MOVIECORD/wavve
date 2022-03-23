@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 08:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 09:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Fri, 11 Mar 2022 15:14:30 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_271/hW2iK_1646974910979v42mK_PNG/1646974834287.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #46 아버지 저 왔습니다..!저 잘했죠? 맴찢부자상봉😭 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25567930</link>
+            <guid>https://tv.naver.com/v/25567930</guid>
+            <pubDate>Wed, 23 Mar 2022 09:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_237/j7xly_1646888010818cABOa_JPEG/1646887869404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[통령 소녀] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Feb 2022 14:08:32 GMT</pubDate>
             <content:encoded><![CDATA[30:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_255/MYzm7_1645705374394fU3xd_JPEG/1645705257487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[악의 마음을 읽는 자들] 9회 예고ㅣ진화한 범행 방식, 다음은 뭘까?ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25324225</link>
-            <guid>https://tv.naver.com/v/25324225</guid>
-            <pubDate>Sat, 26 Feb 2022 15:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_123/nipQl_1645691825834GXfvp_PNG/1645691766454.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

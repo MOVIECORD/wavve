@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 08:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 09:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 11 Mar 2022 15:14:30 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_271/hW2iK_1646974910979v42mK_PNG/1646974834287.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #48 조세5국즈 죽어도 못 보내😭 어떻게 보내🥺 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25568204</link>
+            <guid>https://tv.naver.com/v/25568204</guid>
+            <pubDate>Fri, 25 Mar 2022 09:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_20/tAm7m_1646888849489x4pjr_JPEG/1646888701013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] #47 날 갖고 놀았어?!날!!😡 인태준의 사이다최후😎 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Mar 2022 09:09:07 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_179/8lbvD_1645707748584FDfrD_JPEG/1645707697989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #40 근데도 자꾸 방해하겠다면 😜 한 번 해보시던가! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25329242</link>
-            <guid>https://tv.naver.com/v/25329242</guid>
-            <pubDate>Wed, 16 Mar 2022 05:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_168/U5rRW_1645707403746I03o4_JPEG/1645707351802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

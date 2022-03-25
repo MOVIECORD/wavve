@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 17 Mar 2022 08:10:49 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_89/uggWL_1647497416322iuLIi_PNG/1647497380652.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] 인싸가 되기 위한 신조어 퀴즈 TIME✨ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25681512</link>
+            <guid>https://tv.naver.com/v/25681512</guid>
+            <pubDate>Fri, 25 Mar 2022 05:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_262/O4die_1647425768286dUuDb_JPEG/1647425669504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MMM_Where are we now] 티저 예고편 공개✨ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Mar 2022 05:08:25 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_168/U5rRW_1645707403746I03o4_JPEG/1645707351802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #39 서서히 밝혀지는 진실?! 동주와 혜영의 관계는? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25329134</link>
-            <guid>https://tv.naver.com/v/25329134</guid>
-            <pubDate>Fri, 11 Mar 2022 09:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_240/l65Fg_16457070437129BIFX_JPEG/1645706973769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 13:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 14:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] 8화 숏주행: 완벽한 복수로 갓벽한 해피 엔딩🥰 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/25832549</link>
+            <guid>https://tv.naver.com/v/25832549</guid>
+            <pubDate>Sat, 26 Mar 2022 14:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[15:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_162/aHtIo_1648110445413SkmXa_JPEG/1648110284470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MMM: Where are we now] 마마무 다큐 시청 이벤트ㅣ웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/25830409</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Mar 2022 06:11:16 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220224_17/CkrKP_1645708050314guUtA_JPEG/1645708004512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #41 국세청 금쪽아! 안 어울리게 미안해하지 마! 😂 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25329374</link>
-            <guid>https://tv.naver.com/v/25329374</guid>
-            <pubDate>Wed, 16 Mar 2022 09:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_179/8lbvD_1645707748584FDfrD_JPEG/1645707697989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 06:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비만나라의 아이들] 공식 예고편 | HBO | 웨이브 다큐멘터리 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25952638</link>
+            <guid>https://tv.naver.com/v/25952638</guid>
+            <pubDate>Thu, 31 Mar 2022 07:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_253/hBq0I_1648700513880TqqDq_PNG/1648700443256.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[트레이서 시즌2] 8화 숏주행: 완벽한 복수로 갓벽한 해피 엔딩🥰 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/25832549</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Feb 2022 07:08:35 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220225_126/P3Ct4_16457701866762ITgz_JPEG/1645770018088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] #42 잘 생각하고 대답해 주십쇼! 마주친 선택의 기로 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25329467</link>
-            <guid>https://tv.naver.com/v/25329467</guid>
-            <pubDate>Thu, 17 Mar 2022 06:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220224_17/CkrKP_1645708050314guUtA_JPEG/1645708004512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[컴백] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/25952658</link>
+            <guid>https://tv.naver.com/v/25952658</guid>
+            <pubDate>Thu, 31 Mar 2022 08:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_24/kLpgs_1648700581493BpxbS_PNG/1648700534826.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[비만나라의 아이들] 공식 예고편 | HBO | 웨이브 다큐멘터리]]></title>
             <link>https://tv.naver.com/v/25952638</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Feb 2022 09:09:11 GMT</pubDate>
             <content:encoded><![CDATA[4:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220226_229/3h0f4_1645880209056jnqq8_PNG/1645880178574.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] 조세 5국즈 20초 릴레이 미션 공개✨ (feat. 파닥파닥) | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25340299</link>
-            <guid>https://tv.naver.com/v/25340299</guid>
-            <pubDate>Fri, 25 Feb 2022 07:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220225_126/P3Ct4_16457701866762ITgz_JPEG/1645770018088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 06:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 07:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이블 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/25976203</link>
+            <guid>https://tv.naver.com/v/25976203</guid>
+            <pubDate>Fri, 01 Apr 2022 07:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_75/If7gG_1648788265663GHRNU_PNG/1648788228158.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[엑사세3] 메인 예고편 | 3년 만에 3배는 강력해져서 돌아왔다! | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/25963011</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 05 Mar 2022 05:07:55 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_227/OJJX5_16463882512484ebKC_JPEG/1646388151146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[악의 마음을 읽는 자들] 11회 예고ㅣ"송하영 불러주십쇼"ㅣ웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25469381</link>
-            <guid>https://tv.naver.com/v/25469381</guid>
-            <pubDate>Sat, 05 Mar 2022 15:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_293/LmulR_1646378351916ib0IG_JPEG/1646378344955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 06:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 07:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Sat, 19 Mar 2022 14:08:52 GMT</pubDate>
             <content:encoded><![CDATA[30:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_292/qvPpT_1647582953514iLNGi_JPEG/1647582894471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인 트리트먼트] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25701981</link>
-            <guid>https://tv.naver.com/v/25701981</guid>
-            <pubDate>Thu, 17 Mar 2022 08:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_161/u7p87_1647497946816g5INq_PNG/1647497911597.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[로스 에스푸키스] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 07 Mar 2022 09:08:56 GMT</pubDate>
             <content:encoded><![CDATA[15:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_169/nNUrr_1646638323191i10Xf_JPEG/1646637776452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[트레이서 시즌2] #45 인태준을 끝낼 마지막 ㅅㅁㄹ 사라졌다?!😰 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/25477319</link>
+            <guid>https://tv.naver.com/v/25477319</guid>
+            <pubDate>Fri, 15 Apr 2022 07:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_270/zWLi7_164640389312607Gcc_JPEG/1646403754631.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

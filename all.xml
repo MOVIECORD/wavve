@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인더스트리] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/26994843</link>
+            <guid>https://tv.naver.com/v/26994843</guid>
+            <pubDate>Thu, 26 May 2022 08:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_87/ASHtC_1653546137980cMuDS_PNG/1653546059631.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[벨 에어] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26894099</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 07:09:13 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_187/wwOfR_1646978806923y4s2w_PNG/1646978741282.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] 조세 5국즈 수박게임 배틀🔥 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25589565</link>
-            <guid>https://tv.naver.com/v/25589565</guid>
-            <pubDate>Sat, 12 Mar 2022 05:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_47/ERAKK_1646977833855JQPSS_JPEG/1646977753795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

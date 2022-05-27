@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 07:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 08:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[트랜스플랜트 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27013960</link>
+            <guid>https://tv.naver.com/v/27013960</guid>
+            <pubDate>Fri, 27 May 2022 08:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_271/XRm3M_1653624773363ffnzD_PNG/1653624734174.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[인더스트리] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/26994843</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 12 Mar 2022 14:07:42 GMT</pubDate>
             <content:encoded><![CDATA[30:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_240/BE49v_1646994153451ApMsy_JPEG/1646993106326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[계지유랑기] 공식 예고편 | HBO | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25589966</link>
-            <guid>https://tv.naver.com/v/25589966</guid>
-            <pubDate>Fri, 11 Mar 2022 07:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_187/wwOfR_1646978806923y4s2w_PNG/1646978741282.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

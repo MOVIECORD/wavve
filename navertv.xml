@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 02:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김지원, 지창욱ㅣ스물아홉의 우리는ㅣ쌈,마이웨이 X 편의점 샛별이ㅣ웨이브 뷰니버스]]></title>
+            <link>https://tv.naver.com/v/27018183</link>
+            <guid>https://tv.naver.com/v/27018183</guid>
+            <pubDate>Tue, 31 May 2022 03:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_128/AbOga_1653636258320ORokk_PNG/1653636113919.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[트랜스플랜트 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/27013960</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Mar 2022 08:11:00 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220316_153/XvlB3_1647415606359qzO9g_JPEG/1647415566765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] 4-5화 숏주행: 갈등도 잠시, 사이다 또 들어갑니다!😜 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25596001</link>
-            <guid>https://tv.naver.com/v/25596001</guid>
-            <pubDate>Sat, 12 Mar 2022 14:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[30:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_240/BE49v_1646994153451ApMsy_JPEG/1646993106326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

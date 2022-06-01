@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 12:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 13:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울괴담] 웨이뷰ㅣ이수민X주학년이 말하는 서울괴담?! | 웨이브 독점공개 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27058839</link>
+            <guid>https://tv.naver.com/v/27058839</guid>
+            <pubDate>Wed, 01 Jun 2022 13:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[5:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_114/6IbBI_1653885883162b8V7C_JPEG/1653885355686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김지원, 지창욱ㅣ스물아홉의 우리는ㅣ쌈,마이웨이 X 편의점 샛별이ㅣ웨이브 뷰니버스 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27018183</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 05:09:07 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220316_262/O4die_1647425768286dUuDb_JPEG/1647425669504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MMM_Where are we now] 티저 예고편 공개✨ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25676910</link>
-            <guid>https://tv.naver.com/v/25676910</guid>
-            <pubDate>Wed, 16 Mar 2022 08:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_153/XvlB3_1647415606359qzO9g_JPEG/1647415566765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

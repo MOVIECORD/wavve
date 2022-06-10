@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 09:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서울괴담] 공포영화 맞추기ㅣ쫄보들의 승부욕🤣 | 웨이브 독점공개 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27273198</link>
+            <guid>https://tv.naver.com/v/27273198</guid>
+            <pubDate>Fri, 10 Jun 2022 09:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[5:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_11/bOqZE_165483869885482nFH_JPEG/1654838616305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[서울괴담] 제시어 퀴즈ㅣ이수민X주학년 승부욕 발동! | 웨이브 독점공개 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27226860</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 10:09:51 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_291/4uwDK_1648116989029dyBHA_PNG/1648116980676.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[MMM_Where are we now] 마마무 다큐멘터리 메인 예고편 최초 공개✨ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25769874</link>
-            <guid>https://tv.naver.com/v/25769874</guid>
-            <pubDate>Wed, 23 Mar 2022 02:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_156/ONbw4_16478548900622oQ1m_JPEG/1647854726438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

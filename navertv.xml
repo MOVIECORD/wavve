@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[FBI 시즌4] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/27397989</link>
+            <guid>https://tv.naver.com/v/27397989</guid>
+            <pubDate>Fri, 17 Jun 2022 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_97/tbvVV_1655428204620vbqHD_PNG/1655428167853.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[베이사이드 얄개들 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/27397928</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[4:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220328_274/oOAfd_1648449649689lI8lO_PNG/1648449569785.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[트레이서 시즌2] 8화 숏주행: 완벽한 복수로 갓벽한 해피 엔딩🥰 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25832549</link>
-            <guid>https://tv.naver.com/v/25832549</guid>
-            <pubDate>Sat, 26 Mar 2022 14:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[15:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_162/aHtIo_1648110445413SkmXa_JPEG/1648110284470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

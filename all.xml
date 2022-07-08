@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 09:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 10:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://tv.naver.com/v/27809878</guid>
             <pubDate>Fri, 08 Jul 2022 09:09:28 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_261/4osTs_1657184764015gtF04_JPEG/1657184689895.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_258/WRRBV_1657272449547aBD1D_JPEG/1657272441845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메리퀴어] 3차 티저 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>

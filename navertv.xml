@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 07:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 08:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 씽 어바웃 팸] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/27824779</link>
+            <guid>https://tv.naver.com/v/27824779</guid>
+            <pubDate>Fri, 08 Jul 2022 08:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_267/YFHWX_1657258668713Atm2X_PNG/1657258621178.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[타이거 킹: 조와 캐롤] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/27824698</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 07:10:55 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_75/If7gG_1648788265663GHRNU_PNG/1648788228158.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[엑사세3] 메인 예고편 | 3년 만에 3배는 강력해져서 돌아왔다! | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/25963011</link>
-            <guid>https://tv.naver.com/v/25963011</guid>
-            <pubDate>Fri, 01 Apr 2022 02:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_246/Cw7V9_1648723022712zMcCJ_JPEG/1648722626873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

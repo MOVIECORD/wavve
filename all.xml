@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타이거 킹: 조와 캐롤] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/27824698</link>
+            <guid>https://tv.naver.com/v/27824698</guid>
+            <pubDate>Fri, 08 Jul 2022 07:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_135/7MOkQ_16572584252828msVl_PNG/1657258381440.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[메리퀴어] 3차 티저 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/27779115</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 02:51:00 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_246/Cw7V9_1648723022712zMcCJ_JPEG/1648722626873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남주혁, 수지ㅣ다시 만난 세계ㅣ역도요정 김복주 X 함부로 애틋하게ㅣ웨이브 뷰니버스 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/25895544</link>
-            <guid>https://tv.naver.com/v/25895544</guid>
-            <pubDate>Thu, 30 Jun 2022 08:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_274/oOAfd_1648449649689lI8lO_PNG/1648449569785.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

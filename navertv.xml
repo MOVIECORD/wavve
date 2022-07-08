@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 08:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 09:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 08 Jul 2022 07:09:16 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_135/7MOkQ_16572584252828msVl_PNG/1657258381440.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[남의연애] 티저 예고편 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/27809878</link>
+            <guid>https://tv.naver.com/v/27809878</guid>
+            <pubDate>Fri, 08 Jul 2022 09:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_261/4osTs_1657184764015gtF04_JPEG/1657184689895.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[메리퀴어] 3차 티저 예고편 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Apr 2022 02:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_37/4C45q_1648793631484pLaY5_JPEG/1648793521179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이블 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/25976203</link>
-            <guid>https://tv.naver.com/v/25976203</guid>
-            <pubDate>Fri, 01 Apr 2022 07:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_75/If7gG_1648788265663GHRNU_PNG/1648788228158.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

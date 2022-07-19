@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 03:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 05:00:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남의연애] 1회 하이라이트 클립 공개 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28030098</link>
+            <guid>https://tv.naver.com/v/28030098</guid>
+            <pubDate>Tue, 19 Jul 2022 05:00:56 GMT</pubDate>
+            <content:encoded><![CDATA[7:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_266/q5dNJ_16582063033569HdWK_PNG/1658206235565.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[와스프] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/27960198</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_96/AGGID_1650514545918hgf8U_PNG/1650514509204.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[하이 메인터넌스] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/26090428</link>
-            <guid>https://tv.naver.com/v/26090428</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_198/zulfB_1649304716273KGiL0_PNG/1649304675650.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

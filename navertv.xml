@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 00:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 20 Jul 2022 09:09:20 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_8/lB0uD_1658281903643owMHx_PNG/1658281851776.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애] 1회 하이라이트 클립 공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28031228</link>
-            <guid>https://tv.naver.com/v/28031228</guid>
-            <pubDate>Tue, 19 Jul 2022 05:46:06 GMT</pubDate>
-            <content:encoded><![CDATA[7:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_266/dAJaj_1658208785851C0I7a_PNG/1658208726225.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[와스프] 공식 예고편 | 웨이브 해외시리즈]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220428_281/dV8bF_1651127454355S4Qa8_PNG/1651127286077.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[인시큐어] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/26358746</link>
+            <guid>https://tv.naver.com/v/26358746</guid>
+            <pubDate>Fri, 22 Jul 2022 03:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_96/AGGID_1650514545918hgf8U_PNG/1650514509204.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

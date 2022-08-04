@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 07:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 08:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메리퀴어] 말끝마다 뽀뽀하는 커플 때문에 폭발한 홍석천 | 6회 선공개 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28369000</link>
+            <guid>https://tv.naver.com/v/28369000</guid>
+            <pubDate>Thu, 04 Aug 2022 08:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_138/TFKQr_16595985385004qCam_JPEG/1659593867133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[남의연애] 정현의 전화, 그의 마음속에 있는 남자는? | 5회 선공개 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/28366654</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_284/QrGA2_1655427910631Sy3Pl_PNG/1655427610578.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[플롯 어게인스트: 미국을 향한 음모] 공식 예고편 | HBO | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/27377848</link>
-            <guid>https://tv.naver.com/v/27377848</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_140/Sak5J_1655347398211W010U_PNG/1655347359788.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

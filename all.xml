@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 06:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남의연애] 정현의 전화, 그의 마음속에 있는 남자는? | 5회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28366654</link>
+            <guid>https://tv.naver.com/v/28366654</guid>
+            <pubDate>Thu, 04 Aug 2022 06:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_173/0Ikan_1659593208772VDjGX_PNG/1659593157060.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[위기의 X] 됐다...됐다! X됐다! 위기의 권상우가 온다! | 1차 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28336194</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_140/Sak5J_1655347398211W010U_PNG/1655347359788.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울괴담] 공포영화 맞추기ㅣ쫄보들의 승부욕🤣 | 웨이브 독점공개 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27273198</link>
-            <guid>https://tv.naver.com/v/27273198</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[5:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_11/bOqZE_165483869885482nFH_JPEG/1654838616305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

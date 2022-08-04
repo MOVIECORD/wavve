@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 00:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위기의 X] 됐다...됐다! X됐다! 위기의 권상우가 온다! | 1차 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28336194</link>
+            <guid>https://tv.naver.com/v/28336194</guid>
+            <pubDate>Thu, 04 Aug 2022 02:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_165/3AtqQ_1659493287033H5Xqy_JPEG/1659493281301.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[남의연애] 전화의 시간 직전 남들 사이 묘하게 바뀐 분위기 | 5회 선공개 |웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28319912</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[5:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_11/bOqZE_165483869885482nFH_JPEG/1654838616305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[서울괴담] 제시어 퀴즈ㅣ이수민X주학년 승부욕 발동! | 웨이브 독점공개 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27226860</link>
-            <guid>https://tv.naver.com/v/27226860</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_85/MskO0_1654662674835QMhlv_JPEG/1654662490511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

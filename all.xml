@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 08:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남의연애] 남의 집 불변의 인기남💕 창민의 선택은? | 5회 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28391751</link>
+            <guid>https://tv.naver.com/v/28391751</guid>
+            <pubDate>Fri, 05 Aug 2022 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[7:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_197/hNTnT_16596836719694P6a0_PNG/1659683629230.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[데빌스 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28384111</link>
+            <guid>https://tv.naver.com/v/28384111</guid>
+            <pubDate>Fri, 05 Aug 2022 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_160/v2LW8_1659664334855Hj41E_PNG/1659664331955.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영 락 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28383986</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_139/CmArJ_1656649353179mTkt1_JPEG/1656648959630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서현진, 손석구ㅣ그날 우리의 온도ㅣ사랑의 온도 X 최고의 이혼ㅣ웨이브 뷰니버스 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27474132</link>
-            <guid>https://tv.naver.com/v/27474132</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_50/41kws_1655803644166qqDoF_PNG/1655803540513.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[FBI 시즌4] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27397989</link>
-            <guid>https://tv.naver.com/v/27397989</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_97/tbvVV_1655428204620vbqHD_PNG/1655428167853.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

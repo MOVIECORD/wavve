@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영 락 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28383986</link>
+            <guid>https://tv.naver.com/v/28383986</guid>
+            <pubDate>Fri, 05 Aug 2022 07:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_173/0bi99_1659663946272riMOX_PNG/1659663896526.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[메리퀴어] 말끝마다 뽀뽀하는 커플 때문에 폭발한 홍석천 | 6회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28369000</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_97/tbvVV_1655428204620vbqHD_PNG/1655428167853.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[베이사이드 얄개들 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27397928</link>
-            <guid>https://tv.naver.com/v/27397928</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_284/QrGA2_1655427910631Sy3Pl_PNG/1655427610578.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

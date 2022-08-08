@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 08:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[메리퀴어] 가람❤승은의 생각을 바꾼 특별한 만남 | 6회 하이라이트 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28437475</link>
+            <guid>https://tv.naver.com/v/28437475</guid>
+            <pubDate>Mon, 08 Aug 2022 08:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_64/m4eNq_1659945695677PfUbx_JPEG/1659945543934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[남의연애] 남의 집 불변의 인기남💕 창민의 선택은? | 5회 하이라이트 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/28391751</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_180/ST1T4_1656927567659UBSF6_JPEG/1656927482476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 넥스트 보이스] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/27696422</link>
-            <guid>https://tv.naver.com/v/27696422</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_165/9mbx4_1656650686969zdBBW_PNG/1656650576412.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

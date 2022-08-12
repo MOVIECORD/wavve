@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스킨십 하고 싶은 사람 있다?! 진실의 젠가 게임! | 6-7회 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28533460</link>
+            <guid>https://tv.naver.com/v/28533460</guid>
+            <pubDate>Fri, 12 Aug 2022 07:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[10:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_285/k0AEw_1660287769639zGkR8_PNG/1660287706761.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[남의연애] 드립이 난무하는 남들의 저녁 시간🤣 | 7회 미공개 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28533401</link>
+            <guid>https://tv.naver.com/v/28533401</guid>
+            <pubDate>Fri, 12 Aug 2022 07:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_211/JKTwq_1660287655859RIHOl_JPEG/1660287520934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[메리퀴어] 가람을 위한 깜짝 이벤트 🎁 브라이덜 샤워 준비하기 | 7회 선공개 | 웨이브 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28526134</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_206/9x1BX_1657271334281ni9PC_JPEG/1657271282616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 씽 어바웃 팸] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27824779</link>
-            <guid>https://tv.naver.com/v/27824779</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_267/YFHWX_1657258668713Atm2X_PNG/1657258621178.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[타이거 킹: 조와 캐롤] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27824698</link>
-            <guid>https://tv.naver.com/v/27824698</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_135/7MOkQ_16572584252828msVl_PNG/1657258381440.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

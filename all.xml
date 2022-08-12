@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 12 Aug 2022 03:00:31 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_263/JeVIe_1660270869272QA2Xv_JPEG/1660270828638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시카고피디 시즌9] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28525383</link>
+            <guid>https://tv.naver.com/v/28525383</guid>
+            <pubDate>Fri, 12 Aug 2022 09:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_95/I74kz_16602685025340kKke_PNG/1660268470962.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[브로꼬181] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 09:09:35 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_82/23zVh_1657852921685Tnx3o_PNG/1657852878558.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[메리퀴어] 1-2화 하이라이트 클립 공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27943917</link>
-            <guid>https://tv.naver.com/v/27943917</guid>
-            <pubDate>Thu, 14 Jul 2022 09:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_39/WeHD1_1657785254742hRiI7_JPEG/1657785156001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

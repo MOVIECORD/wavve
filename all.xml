@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 08:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 12 Aug 2022 03:00:31 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_263/JeVIe_1660270869272QA2Xv_JPEG/1660270828638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브로꼬181] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28525367</link>
+            <guid>https://tv.naver.com/v/28525367</guid>
+            <pubDate>Fri, 12 Aug 2022 08:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_38/41BAQ_1660268454158r1ltg_PNG/1660268420658.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[남의연애] 4인실 침대 재배정을 향한 창민의 큰 그림…! | 6회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 09:10:05 GMT</pubDate>
             <content:encoded><![CDATA[4:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_39/WeHD1_1657785254742hRiI7_JPEG/1657785156001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애] 2차 티저 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/27830326</link>
-            <guid>https://tv.naver.com/v/27830326</guid>
-            <pubDate>Tue, 12 Jul 2022 04:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_206/9x1BX_1657271334281ni9PC_JPEG/1657271282616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

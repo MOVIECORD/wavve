@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 12:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 13:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창민-정현 사이 느껴지는 낯선 거리감..?🍂| 8회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28625755</link>
+            <guid>https://tv.naver.com/v/28625755</guid>
+            <pubDate>Wed, 17 Aug 2022 13:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_111/FJOj9_1660743330911cNNeb_JPEG/1660743272757.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[메리퀴어] 바디프로필에 도전한 지해 😳 그 결과는? | 7회 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28594510</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 08:14:10 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_24/Yj2rA_1658450373751fsIO4_PNG/1658450336949.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[친구들과의 대화] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28048966</link>
-            <guid>https://tv.naver.com/v/28048966</guid>
-            <pubDate>Wed, 20 Jul 2022 09:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_8/lB0uD_1658281903643owMHx_PNG/1658281851776.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

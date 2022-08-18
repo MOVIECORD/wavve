@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 06:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갑자기 분위기 마지막 밤?! 과연 남들은 어디로 가는 걸까? | 8회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28639290</link>
+            <guid>https://tv.naver.com/v/28639290</guid>
+            <pubDate>Thu, 18 Aug 2022 06:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_33/NeYkT_1660795805980Gqxul_JPEG/1660795760634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창민-정현 사이 느껴지는 낯선 거리감..?🍂| 8회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28625755</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 09:09:35 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_279/fXygE_1658450426350mzg9l_PNG/1658450387971.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[엔드게임] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28093789</link>
-            <guid>https://tv.naver.com/v/28093789</guid>
-            <pubDate>Fri, 22 Jul 2022 08:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_24/Yj2rA_1658450373751fsIO4_PNG/1658450336949.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

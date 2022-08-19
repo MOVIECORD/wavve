@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 08:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프리티 하드 케이스 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/28659553</link>
+            <guid>https://tv.naver.com/v/28659553</guid>
+            <pubDate>Fri, 19 Aug 2022 09:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_150/lCCGZ_1660868674418nyCyR_PNG/1660868634701.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[로앤오더 성범죄전담반 시즌23] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/28659535</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 03:29:02 GMT</pubDate>
             <content:encoded><![CDATA[7:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_183/dxrie_1659402403896NJh6E_PNG/1659402276972.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[킬링 잇] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/28238704</link>
-            <guid>https://tv.naver.com/v/28238704</guid>
-            <pubDate>Fri, 29 Jul 2022 09:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_154/Jz1cC_1659069299459nICxd_PNG/1659069266294.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

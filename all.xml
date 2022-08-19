@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 00:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위기의 X] 인생 떡상인 줄 알았는데 그저 X 됐다 이거예요~ | 2차 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28645639</link>
+            <guid>https://tv.naver.com/v/28645639</guid>
+            <pubDate>Fri, 19 Aug 2022 03:13:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_99/LLJ4z_1660808813322Jpco7_PNG/1660808718629.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[갑자기 분위기 마지막 밤?! 과연 남들은 어디로 가는 걸까? | 8회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28639290</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 08:12:46 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_268/Hkde1_1659069248187cjD64_PNG/1659069190669.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[플레인빌에서 온 소녀] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28093805</link>
-            <guid>https://tv.naver.com/v/28093805</guid>
-            <pubDate>Fri, 22 Jul 2022 09:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_279/fXygE_1658450426350mzg9l_PNG/1658450387971.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

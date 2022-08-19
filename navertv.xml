@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 07:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 08:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[로앤오더 성범죄전담반 시즌23] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/28659535</link>
+            <guid>https://tv.naver.com/v/28659535</guid>
+            <pubDate>Fri, 19 Aug 2022 08:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_224/klUjW_16608686130544ChjB_PNG/1660868575518.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[위기의 X] 인생 떡상인 줄 알았는데 그저 X 됐다 이거예요~ | 2차 예고편 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/28645639</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 09:09:49 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_154/Jz1cC_1659069299459nICxd_PNG/1659069266294.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[라이징] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/28238675</link>
-            <guid>https://tv.naver.com/v/28238675</guid>
-            <pubDate>Fri, 29 Jul 2022 08:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_268/Hkde1_1659069248187cjD64_PNG/1659069190669.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 00:56:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 03:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마지막 선택을 앞두고 편지를 써 내려가는 남들💌| 11회 선공개 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28807893</link>
+            <guid>https://tv.naver.com/v/28807893</guid>
+            <pubDate>Fri, 26 Aug 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_61/O0cev_1661475803604QExSn_JPEG/1661475750102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬규 영상보는 선율씨 눈에서 꿀 떨어지는데요🍯| 미공개 영상 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28807777</link>
+            <guid>https://tv.naver.com/v/28807777</guid>
+            <pubDate>Fri, 26 Aug 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_269/SLo9Z_1661475461564NPAnQ_JPEG/1661475418476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[※웨이팅 필수※ 정현살롱 오픈 소식에 몰려든 남들! | 미공개 영상 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28807729</link>
+            <guid>https://tv.naver.com/v/28807729</guid>
+            <pubDate>Fri, 26 Aug 2022 03:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[11:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_129/h4qhe_1661475337573IM2Ry_JPEG/1661475242671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남들의 마지막 저녁식사! 그런데 지금 쌈으로 썸 타는 중..?| 10회 선공개 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/28807626</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 03:29:02 GMT</pubDate>
             <content:encoded><![CDATA[4:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_11/VcTVA_1659404926791vVmgP_JPEG/1659404862988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메리퀴어] 커플들 긴장시키는 홍석천의 등장 | 5회 선공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28313176</link>
-            <guid>https://tv.naver.com/v/28313176</guid>
-            <pubDate>Tue, 02 Aug 2022 03:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_97/cnkuc_1659404840919kAtLe_JPEG/1659404736422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메리퀴어] 눈물 흘리다, 잇몸 마르게 웃는 중 | 4회 하이라이트 클립 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28313132</link>
-            <guid>https://tv.naver.com/v/28313132</guid>
-            <pubDate>Tue, 02 Aug 2022 03:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[5:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_201/VuICJ_1659404717181C7g3S_JPEG/1659404612651.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애] 마지막 입주자가 들어오자마자 여우짓을?! | 4회 하이라이트 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28312688</link>
-            <guid>https://tv.naver.com/v/28312688</guid>
-            <pubDate>Tue, 02 Aug 2022 03:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_191/tTS1G_1659403090641kzLMi_PNG/1659403046813.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

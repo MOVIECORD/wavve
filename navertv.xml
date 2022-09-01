@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 07:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[청춘블라썸] 고마워, 나를 빗속으로 데려가 줘서 | 1차 티저 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28951376</link>
+            <guid>https://tv.naver.com/v/28951376</guid>
+            <pubDate>Thu, 01 Sep 2022 07:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220901_242/BPByL_1662015010749tawx9_JPEG/1662014898827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[위기의 X] 멤버 짱짱하네! 근데 이제 광기를 곁들인😅 | 캐릭터 영상 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/28915868</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Aug 2022 07:09:13 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_173/0bi99_1659663946272riMOX_PNG/1659663896526.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[메리퀴어] 말끝마다 뽀뽀하는 커플 때문에 폭발한 홍석천 | 6회 선공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28369000</link>
-            <guid>https://tv.naver.com/v/28369000</guid>
-            <pubDate>Thu, 04 Aug 2022 08:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_138/TFKQr_16595985385004qCam_JPEG/1659593867133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

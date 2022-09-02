@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 00:54:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 03:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위기의 X] 충격!! 회사짤림😵 부정-분노-타협-우울 단계대로 요동치는 a저씨의 감정 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28966122</link>
+            <guid>https://tv.naver.com/v/28966122</guid>
+            <pubDate>Fri, 02 Sep 2022 03:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_108/aG3Dq_1662079046518EFuIy_JPEG/1662078431134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[청춘블라썸] 고마워, 나를 빗속으로 데려가 줘서 | 1차 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28951376</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_160/v2LW8_1659664334855Hj41E_PNG/1659664331955.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영 락 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28383986</link>
-            <guid>https://tv.naver.com/v/28383986</guid>
-            <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_173/0bi99_1659663946272riMOX_PNG/1659663896526.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

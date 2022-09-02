@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 08:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위기의 X] a저ㅆl는 우울할 때 ㄷl스코 팡팡을 ㅌr...☆★ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/28966152</link>
+            <guid>https://tv.naver.com/v/28966152</guid>
+            <pubDate>Fri, 02 Sep 2022 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_199/4Kpz0_1662079195620Mcv5j_JPEG/1662079087113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[위기의 X] 충격!! 회사짤림😵 부정-분노-타협-우울 단계대로 요동치는 a저씨의 감정 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/28966122</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_287/62Bxy_1659664541152GpSL9_PNG/1659664508728.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데빌스 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28384111</link>
-            <guid>https://tv.naver.com/v/28384111</guid>
-            <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_160/v2LW8_1659664334855Hj41E_PNG/1659664331955.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 08:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 09:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위기의 X] 주식 투자 껌이네ㅋ 부자들 따라 폭풍 매수하면 생기는 일 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/28966309</link>
+            <guid>https://tv.naver.com/v/28966309</guid>
+            <pubDate>Sat, 03 Sep 2022 09:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_249/sdxgB_1662079654710ggpn8_JPEG/1662079574337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[위기의 X] "그게 왜 안 되지?" 판다에게 동질감 느끼고 제2의 소라게가 된 a저씨🥲]]></title>
             <link>https://tv.naver.com/v/28966221</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Aug 2022 08:14:14 GMT</pubDate>
             <content:encoded><![CDATA[5:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_64/m4eNq_1659945695677PfUbx_JPEG/1659945543934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애] 남의 집 불변의 인기남💕 창민의 선택은? | 5회 하이라이트 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28391751</link>
-            <guid>https://tv.naver.com/v/28391751</guid>
-            <pubDate>Fri, 05 Aug 2022 08:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[7:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_197/hNTnT_16596836719694P6a0_PNG/1659683629230.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

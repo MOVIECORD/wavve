@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 08:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 09:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[위기의 X] 청약 롤러코스터, 다음 역은 천국... 아니 지옥입니다🎢│웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/29027569</link>
+            <guid>https://tv.naver.com/v/29027569</guid>
+            <pubDate>Tue, 06 Sep 2022 09:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_68/D9kRb_1662369773675EXsEY_PNG/1662369568417.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[위기의 X] 극심한 불면증 앓던 a저씨😰 Dr. 허준 만나고 완치? | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/28974706</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 08:11:50 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_38/41BAQ_1660268454158r1ltg_PNG/1660268420658.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애] 4인실 침대 재배정을 향한 창민의 큰 그림…! | 6회 선공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28482151</link>
-            <guid>https://tv.naver.com/v/28482151</guid>
-            <pubDate>Wed, 10 Aug 2022 08:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_12/LKTYj_1660115685742OcMYi_JPEG/1660115190048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

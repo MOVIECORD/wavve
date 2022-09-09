@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 03:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 05:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 06 Sep 2022 10:11:12 GMT</pubDate>
             <content:encoded><![CDATA[1:01:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_194/WcjaJ_1662457306375ndDix_JPEG/1662456186738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시카고 메드 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/29039727</link>
+            <guid>https://tv.naver.com/v/29039727</guid>
+            <pubDate>Fri, 09 Sep 2022 05:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_122/b7Q2b_16624291149397u64w_PNG/1662429085857.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[위기의 X]  a저씨 각성한 썰 푼다. 그러니까 그건... ❤️│웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 08:10:31 GMT</pubDate>
             <content:encoded><![CDATA[5:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_82/wtrfU_16606368496522DvVw_JPEG/1660636740144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스킨십 하고 싶은 사람 있다?! 진실의 젠가 게임! | 6-7회 하이라이트 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28533460</link>
-            <guid>https://tv.naver.com/v/28533460</guid>
-            <pubDate>Fri, 12 Aug 2022 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[10:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_285/k0AEw_1660287769639zGkR8_PNG/1660287706761.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

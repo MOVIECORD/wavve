@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 00:58:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 03:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 06 Sep 2022 10:11:12 GMT</pubDate>
             <content:encoded><![CDATA[1:01:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_194/WcjaJ_1662457306375ndDix_JPEG/1662456186738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기의 X]  a저씨 각성한 썰 푼다. 그러니까 그건... ❤️│웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29027635</link>
+            <guid>https://tv.naver.com/v/29027635</guid>
+            <pubDate>Fri, 09 Sep 2022 03:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_148/b6I6h_1662369981712lxiUL_PNG/1662369917374.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[위기의 X] 크지 말아야 할 것이 계속 커지고 있다...│웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
             <content:encoded><![CDATA[10:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_285/k0AEw_1660287769639zGkR8_PNG/1660287706761.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애] 드립이 난무하는 남들의 저녁 시간🤣 | 7회 미공개 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28533401</link>
-            <guid>https://tv.naver.com/v/28533401</guid>
-            <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[5:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_211/JKTwq_1660287655859RIHOl_JPEG/1660287520934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

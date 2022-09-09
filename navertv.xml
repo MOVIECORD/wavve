@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 08:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 09:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 09 Sep 2022 05:08:07 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_122/b7Q2b_16624291149397u64w_PNG/1662429085857.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기의 X] 루시도 첫 출근에 X됐음을 느낀 a저씨 ㅎ│웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/29027655</link>
+            <guid>https://tv.naver.com/v/29027655</guid>
+            <pubDate>Fri, 09 Sep 2022 09:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_105/57qPk_166237003355468nYp_PNG/1662369989198.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[위기의 X]  a저씨 각성한 썰 푼다. 그러니까 그건... ❤️│웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 17 Aug 2022 13:41:08 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_111/FJOj9_1660743330911cNNeb_JPEG/1660743272757.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메리퀴어] 바디프로필에 도전한 지해 😳 그 결과는? | 7회 하이라이트 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28594510</link>
-            <guid>https://tv.naver.com/v/28594510</guid>
-            <pubDate>Tue, 16 Aug 2022 08:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[5:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_82/wtrfU_16606368496522DvVw_JPEG/1660636740144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

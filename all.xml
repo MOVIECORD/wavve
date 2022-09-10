@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 00:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 03:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 09 Sep 2022 05:08:07 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_122/b7Q2b_16624291149397u64w_PNG/1662429085857.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기의 X] 고래싸움에 등이 터지는 건... 그러니까 a저씨 입니다 │웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29027670</link>
+            <guid>https://tv.naver.com/v/29027670</guid>
+            <pubDate>Sat, 10 Sep 2022 03:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_144/U5Ma4_16623700822647eVUm_PNG/1662370044715.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[위기의 X] 루시도 첫 출근에 X됐음을 느낀 a저씨 ㅎ│웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_33/NeYkT_1660795805980Gqxul_JPEG/1660795760634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창민-정현 사이 느껴지는 낯선 거리감..?🍂| 8회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28625755</link>
-            <guid>https://tv.naver.com/v/28625755</guid>
-            <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_111/FJOj9_1660743330911cNNeb_JPEG/1660743272757.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 09:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 06 Sep 2022 09:10:32 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220905_68/D9kRb_1662369773675EXsEY_PNG/1662369568417.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기의 X] 역대급 '작은 손'이 나타났다..! FIRE족 박진주의 절약정신💰]]></title>
+            <link>https://tv.naver.com/v/29019601</link>
+            <guid>https://tv.naver.com/v/29019601</guid>
+            <pubDate>Sun, 11 Sep 2022 09:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_111/kcNEG_1662351992831YHez0_JPEG/1662351794627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위기의 X] 나 홀로 댄스 타임에 초대하지 않은 관객이..?🙈│웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 Aug 2022 08:12:37 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_224/klUjW_16608686130544ChjB_PNG/1660868575518.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[위기의 X] 인생 떡상인 줄 알았는데 그저 X 됐다 이거예요~ | 2차 예고편 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28645639</link>
-            <guid>https://tv.naver.com/v/28645639</guid>
-            <pubDate>Fri, 19 Aug 2022 03:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_99/LLJ4z_1660808813322Jpco7_PNG/1660808718629.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

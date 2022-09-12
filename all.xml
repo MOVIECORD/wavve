@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 08:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 06 Sep 2022 09:10:32 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220905_68/D9kRb_1662369773675EXsEY_PNG/1662369568417.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기의 X] 소울 리스 1인자 박진주가 영업사원이 된다면?│웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29019941</link>
+            <guid>https://tv.naver.com/v/29019941</guid>
+            <pubDate>Mon, 12 Sep 2022 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_224/6Eis9_1662356328206bg6Tc_JPEG/1662356325576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위기의 X] 역대급 '작은 손'이 나타났다..! FIRE족 박진주의 절약정신💰 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_150/lCCGZ_1660868674418nyCyR_PNG/1660868634701.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[로앤오더 성범죄전담반 시즌23] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28659535</link>
-            <guid>https://tv.naver.com/v/28659535</guid>
-            <pubDate>Mon, 22 Aug 2022 16:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_224/klUjW_16608686130544ChjB_PNG/1660868575518.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

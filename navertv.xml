@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 08:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 09:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 06 Sep 2022 10:11:12 GMT</pubDate>
             <content:encoded><![CDATA[1:01:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_194/WcjaJ_1662457306375ndDix_JPEG/1662456186738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기의 X] 지식in 의사들이 진단해 줌ㅠ 내가 담낭암 말기라니..!😭😭│웨이브 오리지]]></title>
+            <link>https://tv.naver.com/v/29046000</link>
+            <guid>https://tv.naver.com/v/29046000</guid>
+            <pubDate>Tue, 13 Sep 2022 09:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[5:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_279/q2ed3_1662443256058au2Mh_JPEG/1662443066623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시카고 메드 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 14:10:31 GMT</pubDate>
             <content:encoded><![CDATA[5:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220825_296/VkKGw_16614354259039ie54_JPEG/1661435206300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프리티 하드 케이스 시즌2] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/28659553</link>
-            <guid>https://tv.naver.com/v/28659553</guid>
-            <pubDate>Fri, 19 Aug 2022 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_150/lCCGZ_1660868674418nyCyR_PNG/1660868634701.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

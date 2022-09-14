@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 09:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 06 Sep 2022 10:11:12 GMT</pubDate>
             <content:encoded><![CDATA[1:01:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_194/WcjaJ_1662457306375ndDix_JPEG/1662456186738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[위기의 X] 최후의 일탈을 꿈꾼 a저씨.. 열심히 먹고 달린 최후는..🤮│웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/29046384</link>
+            <guid>https://tv.naver.com/v/29046384</guid>
+            <pubDate>Wed, 14 Sep 2022 09:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[5:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_5/ENicc_1662453559645HGXaM_JPEG/1662453552867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[위기의 X] 지식in 의사들이 진단해 줌ㅠ 내가 담낭암 말기라니..!😭😭│웨이브 오리지 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 14:10:31 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220825_293/sE1QH_1661435591331rNDxS_JPEG/1661435447417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메리퀴어] 동성 결혼! 한국에서 안 되면 뉴욕으로🗽 | 8회 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/28800908</link>
-            <guid>https://tv.naver.com/v/28800908</guid>
-            <pubDate>Thu, 25 Aug 2022 14:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_296/VkKGw_16614354259039ie54_JPEG/1661435206300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

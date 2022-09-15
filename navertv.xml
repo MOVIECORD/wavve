@@ -4,9 +4,25 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 12:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 13:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[청춘블라썸] 나랑 사귀면 되잖아  나랑 사귀어 주면 안 될까? | 3차 티저 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/29229835</link>
+            <guid>https://tv.naver.com/v/29229835</guid>
+            <pubDate>Thu, 15 Sep 2022 13:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_173/xTBtt_1663248533467hiwl1_JPEG/1663248529542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청춘블라썸] 아니, 하민이는 내 첫사랑이었어 | 2차 티저 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/29229795</link>
+            <guid>https://tv.naver.com/v/29229795</guid>
+            <pubDate>Thu, 15 Sep 2022 13:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_70/FvF63_16632483475531DEKU_PNG/1663248194162.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[위기의 X] 웨이브 오리지널 <위기의 X> 제작발표회 다시보기]]></title>
             <link>https://tv.naver.com/v/29052811</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 26 Aug 2022 03:39:33 GMT</pubDate>
             <content:encoded><![CDATA[11:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_129/h4qhe_1661475337573IM2Ry_JPEG/1661475242671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남들의 마지막 저녁식사! 그런데 지금 쌈으로 썸 타는 중..?| 10회 선공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28807626</link>
-            <guid>https://tv.naver.com/v/28807626</guid>
-            <pubDate>Fri, 26 Aug 2022 00:56:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_275/UIBX3_1661475010939LWu2h_JPEG/1661474931194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 스킨십이 폭발했다!! 남들의 심쿵 데이트 | 8-9회 하이라이트 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/28807520</link>
-            <guid>https://tv.naver.com/v/28807520</guid>
-            <pubDate>Fri, 26 Aug 2022 00:56:23 GMT</pubDate>
-            <content:encoded><![CDATA[13:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_12/yq9u1_1661474686260hlyyS_JPEG/1661474571159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

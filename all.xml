@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 11:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 12:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Thu, 17 Nov 2022 10:10:00 GMT</pubDate>
             <content:encoded><![CDATA[5:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_185/v401R_1668648551124H2kMJ_PNG/1668647814795.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[버튼게임] 3화 요약 - 배신과 탈락 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30838394</link>
+            <guid>https://tv.naver.com/v/30838394</guid>
+            <pubDate>Thu, 17 Nov 2022 12:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[9:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_198/5bTbJ_1668648485226MU35P_PNG/1668647693000.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[버튼게임] 3화 요약 - 우리 깐부 맞지? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30838188</link>
+            <guid>https://tv.naver.com/v/30838188</guid>
+            <pubDate>Thu, 17 Nov 2022 12:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[7:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_3/LNWrG_1668648018103zPHex_PNG/1668647652685.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[버튼게임] 2화 요약 - 술과 도박 (wavve ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221104_129/GU6ic_16675447142671vlLO_JPEG/1667544199068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라자루스 프로젝트] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30449774</link>
-            <guid>https://tv.naver.com/v/30449774</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_96/dk7aX_1667434568119zYgH3_PNG/1667434511910.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 취향 가-득 담긴 추천작 플레이리스트 | 웨이브 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30307509</link>
-            <guid>https://tv.naver.com/v/30307509</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_46/rAdzw_1666928758755pN8mi_JPEG/1666928671470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 05:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 06:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 네이버 나우에서 약영즈와 야간자율학습?!👩🏫 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/30844731</link>
+            <guid>https://tv.naver.com/v/30844731</guid>
+            <pubDate>Thu, 17 Nov 2022 06:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_211/G7rk6_1668660885305C6sGF_JPEG/1668660301615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[버튼게임] 2화 요약 - 술과 도박]]></title>
             <link>https://tv.naver.com/v/30812555</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[5:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221026_70/rpBjY_1666771201479OwH3d_PNG/1666771155405.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 순항중인 도욱 X 일레인, 그들의 첫 밤 데이트는?]]></title>
-            <link>https://tv.naver.com/v/30251362</link>
-            <guid>https://tv.naver.com/v/30251362</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_150/ePiM7_1666771258580KvTz1_PNG/1666771216391.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

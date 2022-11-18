@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 08:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_270/ubMKr_1668739059852BmBhm_PNG/1668739057518.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[언디클리어드 워] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30782889</link>
+            <guid>https://tv.naver.com/v/30782889</guid>
+            <pubDate>Fri, 18 Nov 2022 09:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_106/7J9Io_1668491368019SETeC_PNG/1668491342039.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[잠만 자는 사이] 답답한 바하, 한영에게 속마음을 터놓다. (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/30775797</link>
             <guid>https://tv.naver.com/v/30775797</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[6:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221109_224/erqUz_1667987521165fc3IY_PNG/1667987361821.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 타투이스트] 이석훈X모니카 힐링 타투샵 매니저 취뽀?! | 1차 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30591479</link>
-            <guid>https://tv.naver.com/v/30591479</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_227/JIK56_1667898924679ue7Ww_JPEG/1667898236546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

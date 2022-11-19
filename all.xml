@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 00:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 02:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 수호의 슬기로운 액션 생활 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30879608</link>
+            <guid>https://tv.naver.com/v/30879608</guid>
+            <pubDate>Sat, 19 Nov 2022 02:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_56/qykVK_1668751733661XILVB_JPEG/1668751596782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이브 오리지널 [약한영웅 Class 1] D-DAY! 웨이브 독점 전편 공개 완료!🔥 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/30879224</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[6:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221109_267/KOivU_1667988225696h2hTG_PNG/1667988224222.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 일레인의 돌직구에 입을 여는 형범, "어제 왜 간거야?" (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30625152</link>
-            <guid>https://tv.naver.com/v/30625152</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[6:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221109_224/erqUz_1667987521165fc3IY_PNG/1667987361821.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 02:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 03:55:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] *EVENT* 문제 맞추다 우는 약영즈? | 약영즈 고사 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/30916295</link>
+            <guid>https://tv.naver.com/v/30916295</guid>
+            <pubDate>Sun, 20 Nov 2022 03:55:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_292/2GQRs_1668909806703jf4WW_JPEG/1668909499992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 수호의 슬기로운 액션 생활 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/30879608</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_206/pkR2u_1668041583834KD4lb_JPEG/1668041576534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 일레인의 미소에 절망하는 도욱. 형범X일레인의 첫 밤 데이트...!]]></title>
-            <link>https://tv.naver.com/v/30625345</link>
-            <guid>https://tv.naver.com/v/30625345</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[6:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221109_267/KOivU_1667988225696h2hTG_PNG/1667988224222.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

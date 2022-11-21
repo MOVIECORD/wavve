@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1]  "영혼이 안 다치는 놈, 연시은" | 1화 하이라이트 - 1 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30950275</link>
+            <guid>https://tv.naver.com/v/30950275</guid>
+            <pubDate>Mon, 21 Nov 2022 10:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_134/7cRm3_16690163101995S5b3_PNG/1669016203848.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] *EVENT* 문제 맞추다 우는 약영즈? | 약영즈 고사 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/30916295</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_144/7eNfd_1668041649153XPmls_JPEG/1668041595609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 버튼을 누르면 누군가에게 피해가 간다?!💥| 2차 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30641696</link>
-            <guid>https://tv.naver.com/v/30641696</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_206/pkR2u_1668041583834KD4lb_JPEG/1668041576534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

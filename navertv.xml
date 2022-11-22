@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 09:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 10:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1]  난생 처음 신경 쓰이는 놈들이 생겼다. | 1화 하이라이트 | 웨이브 오리지]]></title>
+            <link>https://tv.naver.com/v/30984089</link>
+            <guid>https://tv.naver.com/v/30984089</guid>
+            <pubDate>Tue, 22 Nov 2022 10:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_273/zergp_1669103993859ufSbq_JPEG/1669103775941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[버튼게임] 4화 요약 - 탈락자, 6번  | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/30950281</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[4:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221110_51/JWzsX_1668061561721NnSc6_PNG/1668061535634.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 당신은 어떤 버튼을 누르시겠습니까? | 1차 티저 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30641942</link>
-            <guid>https://tv.naver.com/v/30641942</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_274/xLz7Q_1668042076504obsBO_JPEG/1668042007770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

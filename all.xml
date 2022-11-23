@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 12:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 13:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 전설 아닌 레전드의 시작✨약영즈 첫 만남 최초 공개!! | 대본 리딩 영상 | (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31029502</link>
+            <guid>https://tv.naver.com/v/31029502</guid>
+            <pubDate>Wed, 23 Nov 2022 13:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_133/7MbVI_1669209125248dFa9F_JPEG/1669209002567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[버튼게임] 6화 선공개 - 미친X이라고 생각합니다 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31019717</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[7:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221114_204/W8RPv_1668420217003KNFUr_PNG/1668419896698.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 1화 클립 - "버튼 게임이 시작되었습니다" 그들의 첫 만남 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30760278</link>
-            <guid>https://tv.naver.com/v/30760278</guid>
-            <pubDate>Wed, 23 Nov 2022 12:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_204/EJfIB_1668419929584Q4CfR_PNG/1668419861635.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

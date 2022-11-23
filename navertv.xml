@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[버튼게임] 6화 선공개 - 미친X이라고 생각합니다 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/31019717</link>
+            <guid>https://tv.naver.com/v/31019717</guid>
+            <pubDate>Wed, 23 Nov 2022 09:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_74/9vJRY_1669191731096TGs7w_PNG/1669191697219.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 연시은이 그만하라고 할 땐 진.짜. 그만해야 하는 이유🙏| 1-4회 요약 |]]></title>
             <link>https://tv.naver.com/v/31017341</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[4:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221114_100/OmrJp_1668419728639nyfHW_PNG/1668419600548.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 경악의 밤 데이트 카드 뽑기, 그리고 절망하는 정언]]></title>
-            <link>https://tv.naver.com/v/30760209</link>
-            <guid>https://tv.naver.com/v/30760209</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_111/3HQb6_1668419693502swJo3_JPEG/202faa05-6402-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

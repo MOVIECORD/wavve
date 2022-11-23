@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 09:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 10:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 23 Nov 2022 08:12:18 GMT</pubDate>
             <content:encoded><![CDATA[34:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_73/TsxoB_1669188074879I1xnt_JPEG/1669187471306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 연시은의 새로운 싸움법, "파블로프의 개 실험" | 2화 하이라이트 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31014734</link>
+            <guid>https://tv.naver.com/v/31014734</guid>
+            <pubDate>Wed, 23 Nov 2022 10:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_202/6rpmx_166918407814670eCD_PNG/1669183985620.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]좋아하면 울리는 어플 설치 하시겠습니까?ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[4:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221114_204/EJfIB_1668419929584Q4CfR_PNG/1668419861635.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 일레인과 도욱의 오해는 풀리는가...? 아슬아슬한 두 사람의 진실토크 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30760220</link>
-            <guid>https://tv.naver.com/v/30760220</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_100/OmrJp_1668419728639nyfHW_PNG/1668419600548.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

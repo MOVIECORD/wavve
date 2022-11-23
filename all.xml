@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 10:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 11:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 23 Nov 2022 08:12:18 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_230/qBro9_1669170808500cQShL_JPEG/1669169826994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 소름 돋게 따뜻한 연시은의 츤데레 모먼트 모음 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/30985978</link>
+            <guid>https://tv.naver.com/v/30985978</guid>
+            <pubDate>Wed, 23 Nov 2022 11:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_156/SzvXj_166910705603025ESK_JPEG/1669106995244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1]  난생 처음 신경 쓰이는 놈들이 생겼다. | 1화 하이라이트 | 웨이브 오리지 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[7:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221114_204/W8RPv_1668420217003KNFUr_PNG/1668419896698.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 1화 클립 - "버튼 게임이 시작되었습니다" 그들의 첫 만남 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30760278</link>
-            <guid>https://tv.naver.com/v/30760278</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_204/EJfIB_1668419929584Q4CfR_PNG/1668419861635.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 07:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 08:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 연시은이 그만하라고 할 땐 진.짜. 그만해야 하는 이유🙏| 1-4회 요약 | (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31017341</link>
+            <guid>https://tv.naver.com/v/31017341</guid>
+            <pubDate>Wed, 23 Nov 2022 08:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[34:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_73/TsxoB_1669188074879I1xnt_JPEG/1669187471306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]좋아하면 울리는 어플 설치 하시겠습니까?ㅣ웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31007478</link>
+            <guid>https://tv.naver.com/v/31007478</guid>
+            <pubDate>Wed, 23 Nov 2022 08:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_230/qBro9_1669170808500cQShL_JPEG/1669169826994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1]  난생 처음 신경 쓰이는 놈들이 생겼다. | 1화 하이라이트 | 웨이브 오리지 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/30984089</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[5:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221114_111/3HQb6_1668419693502swJo3_JPEG/202faa05-6402-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 한영, 타로마스터에게 딱 걸리다? "이중성이 문제예요" (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30760208</link>
-            <guid>https://tv.naver.com/v/30760208</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_267/tqgei_1668419693121KdwK3_PNG/1668419632712.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 디핵 - 병정이되어 (With. 1번, 7번) | OST Live Video | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30669440</link>
-            <guid>https://tv.naver.com/v/30669440</guid>
-            <pubDate>Wed, 23 Nov 2022 02:30:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221110_81/UkXgA_1668086571753gOEJ8_JPEG/1668086473014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

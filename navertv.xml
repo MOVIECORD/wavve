@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 09:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 10:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 25 Nov 2022 09:09:11 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_160/a5K4u_1669366945362z5PK4_JPEG/1669366838381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 친구가 되는 법 ➡️ 위기에서 구출하기?!  | 3화 하이라이트 | 웨이브 오]]></title>
+            <link>https://tv.naver.com/v/31078975</link>
+            <guid>https://tv.naver.com/v/31078975</guid>
+            <pubDate>Fri, 25 Nov 2022 10:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_290/ajoj1_1669354797075vVxAE_PNG/1669354677766.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[버튼게임] 7화 선공개 - 건전지의 행방 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 09:10:29 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221115_106/7J9Io_1668491368019SETeC_PNG/1668491342039.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 답답한 바하, 한영에게 속마음을 터놓다.]]></title>
-            <link>https://tv.naver.com/v/30775797</link>
-            <guid>https://tv.naver.com/v/30775797</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_15/EbFGA_1668476489679JCUfG_PNG/1668476457560.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

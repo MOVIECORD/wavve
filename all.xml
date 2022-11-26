@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 06:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 07:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 난 몰랐어, 수호 매력이 이리 다채로운지~💓 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31089420</link>
+            <guid>https://tv.naver.com/v/31089420</guid>
+            <pubDate>Sat, 26 Nov 2022 07:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[7:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_21/HgASm_1669372860187v9voV_JPEG/1669372733663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[젠틀맨] 주지훈이 흥신소 사장이래? 검사라는데??!😮ㅣ티저 예고편 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31086384</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[4:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_270/ubMKr_1668739059852BmBhm_PNG/1668739057518.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[언디클리어드 워] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30782889</link>
-            <guid>https://tv.naver.com/v/30782889</guid>
-            <pubDate>Fri, 18 Nov 2022 09:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_106/7J9Io_1668491368019SETeC_PNG/1668491342039.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

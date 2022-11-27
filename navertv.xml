@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 06:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 07:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 약영즈 첫 만남 썰부터 TMI 다 풀어드립니다. (feat.댄디즈 약영즈) | TMI 인]]></title>
+            <link>https://tv.naver.com/v/31089535</link>
+            <guid>https://tv.naver.com/v/31089535</guid>
+            <pubDate>Sun, 27 Nov 2022 07:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[6:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_180/97ibs_1669373073098IbxrA_JPEG/1669372947852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 난 몰랐어, 수호 매력이 이리 다채로운지~💓 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/31089420</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[8:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221116_65/kXGS7_1668575177017JAJUm_PNG/1668575173837.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 세령의 진심과 눈물 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30812386</link>
-            <guid>https://tv.naver.com/v/30812386</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_270/ubMKr_1668739059852BmBhm_PNG/1668739057518.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

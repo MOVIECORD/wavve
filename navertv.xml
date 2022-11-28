@@ -4,25 +4,9 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 00:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 02:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 약영즈 첫 만남 썰부터 TMI 다 풀어드립니다. (feat.댄디즈 약영즈) | TMI 인]]></title>
-            <link>https://tv.naver.com/v/31089535</link>
-            <guid>https://tv.naver.com/v/31089535</guid>
-            <pubDate>Sun, 27 Nov 2022 07:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[6:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_180/97ibs_1669373073098IbxrA_JPEG/1669372947852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 난 몰랐어, 수호 매력이 이리 다채로운지~💓 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/31089420</link>
-            <guid>https://tv.naver.com/v/31089420</guid>
-            <pubDate>Sat, 26 Nov 2022 07:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[7:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_21/HgASm_1669372860187v9voV_JPEG/1669372733663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[젠틀맨] 주지훈이 흥신소 사장이래? 검사라는데??!😮ㅣ티저 예고편]]></title>
             <link>https://tv.naver.com/v/31086384</link>
@@ -70,14 +54,6 @@
             <pubDate>Wed, 23 Nov 2022 10:09:48 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_202/6rpmx_166918407814670eCD_PNG/1669183985620.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]좋아하면 울리는 어플 설치 하시겠습니까?ㅣ웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/31007478</link>
-            <guid>https://tv.naver.com/v/31007478</guid>
-            <pubDate>Wed, 23 Nov 2022 08:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_230/qBro9_1669170808500cQShL_JPEG/1669169826994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 소름 돋게 따뜻한 연시은의 츤데레 모먼트 모음 | 웨이브 오리지널]]></title>
@@ -246,6 +222,30 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[8:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221116_65/kXGS7_1668575177017JAJUm_PNG/1668575173837.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[잠만 자는 사이] 세령의 진심과 눈물 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/30812386</link>
+            <guid>https://tv.naver.com/v/30812386</guid>
+            <pubDate>Mon, 28 Nov 2022 02:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_270/ubMKr_1668739059852BmBhm_PNG/1668739057518.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[언디클리어드 워] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/30782889</link>
+            <guid>https://tv.naver.com/v/30782889</guid>
+            <pubDate>Mon, 28 Nov 2022 02:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_106/7J9Io_1668491368019SETeC_PNG/1668491342039.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[잠만 자는 사이] 답답한 바하, 한영에게 속마음을 터놓다.]]></title>
+            <link>https://tv.naver.com/v/30775797</link>
+            <guid>https://tv.naver.com/v/30775797</guid>
+            <pubDate>Mon, 28 Nov 2022 02:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_15/EbFGA_1668476489679JCUfG_PNG/1668476457560.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

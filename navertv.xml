@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 09:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 10:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 전생부부 케미란 이런 것..? 이 츤데레 우정을 어쩐담😏|4화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/31140869</link>
+            <guid>https://tv.naver.com/v/31140869</guid>
+            <pubDate>Mon, 28 Nov 2022 10:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_60/YBjLc_1669612336295uu75p_PNG/1669612287036.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[젠틀맨] 주지훈이 흥신소 사장이래? 검사라는데??!😮ㅣ티저 예고편]]></title>
             <link>https://tv.naver.com/v/31086384</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 02:24:07 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221115_106/7J9Io_1668491368019SETeC_PNG/1668491342039.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 답답한 바하, 한영에게 속마음을 터놓다.]]></title>
-            <link>https://tv.naver.com/v/30775797</link>
-            <guid>https://tv.naver.com/v/30775797</guid>
-            <pubDate>Mon, 28 Nov 2022 02:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[5:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_15/EbFGA_1668476489679JCUfG_PNG/1668476457560.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 11:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 12:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 28 Nov 2022 12:17:10 GMT</pubDate>
             <content:encoded><![CDATA[8:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221128_2/rIV4b_1669612390508HCgtD_PNG/1669612343996.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[버튼게임] 7화 요약 - 불신과 배신  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31140939</link>
+            <guid>https://tv.naver.com/v/31140939</guid>
+            <pubDate>Tue, 29 Nov 2022 12:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[6:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_255/y3dmG_1669612423241HsJ5k_JPEG/3393f0f6-6edb-11ed-8977-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[젠틀맨] 주지훈이 흥신소 사장이래? 검사라는데??!😮ㅣ티저 예고편 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 02:24:07 GMT</pubDate>
             <content:encoded><![CDATA[4:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_270/ubMKr_1668739059852BmBhm_PNG/1668739057518.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[언디클리어드 워] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30782889</link>
-            <guid>https://tv.naver.com/v/30782889</guid>
-            <pubDate>Tue, 29 Nov 2022 07:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_106/7J9Io_1668491368019SETeC_PNG/1668491342039.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

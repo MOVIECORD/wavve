@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 02:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 03:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에스파의 싱크로드] 에스파 이즈 커밍✨| 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/31202593</link>
+            <guid>https://tv.naver.com/v/31202593</guid>
+            <pubDate>Wed, 30 Nov 2022 03:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_235/ds0GR_1669774852659OwVC1_JPEG/1669774674235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[버튼게임] 6화 요약 - 정의는 승리한다 ! | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/31140920</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
             <content:encoded><![CDATA[8:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221116_65/kXGS7_1668575177017JAJUm_PNG/1668575173837.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[잠만 자는 사이] 세령의 진심과 눈물 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30812386</link>
-            <guid>https://tv.naver.com/v/30812386</guid>
-            <pubDate>Mon, 28 Nov 2022 02:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[4:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_270/ubMKr_1668739059852BmBhm_PNG/1668739057518.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

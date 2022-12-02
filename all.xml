@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 08:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 09:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[퀴어 애즈 포크] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31213293</link>
+            <guid>https://tv.naver.com/v/31213293</guid>
+            <pubDate>Fri, 02 Dec 2022 09:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_28/BaTQr_1669791888890v3z4g_PNG/1669791886028.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[버튼게임] 8화 선공개 - 저거 페이크지? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31210605</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 12:18:36 GMT</pubDate>
             <content:encoded><![CDATA[7:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_3/LNWrG_1668648018103zPHex_PNG/1668647652685.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 2화 요약 - 술과 도박 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30812555</link>
-            <guid>https://tv.naver.com/v/30812555</guid>
-            <pubDate>Wed, 16 Nov 2022 17:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[6:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_256/oa3oh_1668574418113HBJx8_PNG/1668574253212.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

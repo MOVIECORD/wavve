@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 00:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 02:06:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 30 Nov 2022 09:09:24 GMT</pubDate>
             <content:encoded><![CDATA[5:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_292/k8qoS_1669788109373POy76_PNG/1669788043318.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[버튼게임] 마지막 화 요약 - 마지막 탈락자  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31210591</link>
+            <guid>https://tv.naver.com/v/31210591</guid>
+            <pubDate>Sat, 03 Dec 2022 02:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[8:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_191/gR4HO_1669788079244siBDR_PNG/1669787947120.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[에스파의 싱크로드] 에스파 이즈 커밍✨| 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 12:18:36 GMT</pubDate>
             <content:encoded><![CDATA[9:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_198/5bTbJ_1668648485226MU35P_PNG/1668647693000.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 3화 요약 - 우리 깐부 맞지? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30838188</link>
-            <guid>https://tv.naver.com/v/30838188</guid>
-            <pubDate>Thu, 17 Nov 2022 12:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[7:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_3/LNWrG_1668648018103zPHex_PNG/1668647652685.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

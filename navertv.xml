@@ -4,9 +4,25 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웨이브] 너튜브가 먼저 알아본 2022 해외드라마 띵작👍]]></title>
+            <link>https://tv.naver.com/v/31417356</link>
+            <guid>https://tv.naver.com/v/31417356</guid>
+            <pubDate>Wed, 07 Dec 2022 09:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_83/QLoU6_1670401091738APLuv_JPEG/1670401012394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 물 오르는 찐친 바이브와 개그 욕심🔥 | 5-6화 메이킹 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/31410896</link>
+            <guid>https://tv.naver.com/v/31410896</guid>
+            <pubDate>Wed, 07 Dec 2022 09:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_129/m7WT4_1670392120722YbxRs_JPEG/1670392020955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[에스파의 싱크로드] 첫 리얼리티부터 예능감 터진 에스파 | 메인 티저 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/31402235</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 06:13:14 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_132/1bfk8_1668750318846q5x0a_JPEG/1668750180593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 안수호 상담실로 소환!👩‍🏫 | 웅쪽상담소 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30878602</link>
-            <guid>https://tv.naver.com/v/30878602</guid>
-            <pubDate>Fri, 18 Nov 2022 06:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_230/V6Wef_1668750138120qM8hi_JPEG/1668749884213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 오범석 상담실로 소환!👩‍🏫 | 웅쪽상담소 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30878410</link>
-            <guid>https://tv.naver.com/v/30878410</guid>
-            <pubDate>Fri, 18 Nov 2022 06:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_153/x2wfp_1668749813556V2hGY_JPEG/1668749330293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

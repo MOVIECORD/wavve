@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 06:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 07:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 09 Dec 2022 02:15:17 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_10/q6qil_1670550203226vQB03_JPEG/1670550068204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뱀파이어 아카데미] 공식 예고편 | 웨이브 해외시즈]]></title>
+            <link>https://tv.naver.com/v/31440586</link>
+            <guid>https://tv.naver.com/v/31440586</guid>
+            <pubDate>Fri, 09 Dec 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_191/aRrP2_1670476481168QHlUk_PNG/1670476433863.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[웨이브] 너튜브가 먼저 알아본 2022 해외드라마 띵작👍]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 06:13:14 GMT</pubDate>
             <content:encoded><![CDATA[0:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_181/4LDoN_1668751155693LdAVt_JPEG/1668750938165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 약한영웅으로 뭉치다! | 스페셜 클래스 : 제작기 영상 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30879043</link>
-            <guid>https://tv.naver.com/v/30879043</guid>
-            <pubDate>Fri, 18 Nov 2022 06:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_58/dMaHA_1668750868845vCw5K_JPEG/1668750537572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 08:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 09:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 병원씬 메이킹 모셔왔읍니다 | 3-4화 스페셜 메이킹 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31480524</link>
+            <guid>https://tv.naver.com/v/31480524</guid>
+            <pubDate>Sun, 11 Dec 2022 09:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_52/14Fp8_1670573940216yA2Vs_JPEG/1670573371520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[젠틀맨] 내가? 갑자기? 검사? 왜?🤪 나쁜놈 일단 잡아보겠습니다ㅣ메인 예고편 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31469048</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Nov 2022 03:55:28 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221120_292/2GQRs_1668909806703jf4WW_JPEG/1668909499992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 수호의 슬기로운 액션 생활 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30879608</link>
-            <guid>https://tv.naver.com/v/30879608</guid>
-            <pubDate>Sat, 19 Nov 2022 02:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_56/qykVK_1668751733661XILVB_JPEG/1668751596782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

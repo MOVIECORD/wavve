@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 08:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 눈물이라는 것이 폭.발.했.다..💦| 7-8화 메이킹 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/31543080</link>
+            <guid>https://tv.naver.com/v/31543080</guid>
+            <pubDate>Mon, 12 Dec 2022 09:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[5:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_283/1HQD7_167083486588000wqp_JPEG/1670834753851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[에스파의 싱크로드] 에스파와 함께 Synk In 하시겠습니까? | 캐릭터 티저 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/31481381</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 12:17:55 GMT</pubDate>
             <content:encoded><![CDATA[8:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_228/tBoBc_1669016317750p0QhF_PNG/1669016260700.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1]  "영혼이 안 다치는 놈, 연시은" | 1화 하이라이트 - 1 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30950275</link>
-            <guid>https://tv.naver.com/v/30950275</guid>
-            <pubDate>Mon, 21 Nov 2022 10:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_134/7cRm3_16690163101995S5b3_PNG/1669016203848.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

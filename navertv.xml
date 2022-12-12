@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 00:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 02:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에스파의 싱크로드] 에스파와 함께 Synk In 하시겠습니까? | 캐릭터 티저 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/31481381</link>
+            <guid>https://tv.naver.com/v/31481381</guid>
+            <pubDate>Mon, 12 Dec 2022 02:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_61/ohoLR_1670575399810woer9_JPEG/1670575304659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 병원씬 메이킹 모셔왔읍니다 | 3-4화 스페셜 메이킹 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/31480524</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 10:10:52 GMT</pubDate>
             <content:encoded><![CDATA[4:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_134/7cRm3_16690163101995S5b3_PNG/1669016203848.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] *EVENT* 문제 맞추다 우는 약영즈? | 약영즈 고사 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30916295</link>
-            <guid>https://tv.naver.com/v/30916295</guid>
-            <pubDate>Sun, 20 Nov 2022 03:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_292/2GQRs_1668909806703jf4WW_JPEG/1668909499992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

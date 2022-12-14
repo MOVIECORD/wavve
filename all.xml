@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 00:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 02:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에스파의 싱크로드] WELCOME TO 싱크로드💖| 선공개 1차 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31592399</link>
+            <guid>https://tv.naver.com/v/31592399</guid>
+            <pubDate>Wed, 14 Dec 2022 02:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[8:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_124/AZAQF_1670982908280vF2Bn_JPEG/1670982811579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 눈물이라는 것이 폭.발.했.다..💦| 7-8화 메이킹 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31543080</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Nov 2022 12:18:55 GMT</pubDate>
             <content:encoded><![CDATA[7:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_291/o11dC_1669098433215Ljngc_PNG/1669098153468.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 4화 요약 - 탈락자, 6번  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30950281</link>
-            <guid>https://tv.naver.com/v/30950281</guid>
-            <pubDate>Mon, 21 Nov 2022 12:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[8:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_228/tBoBc_1669016317750p0QhF_PNG/1669016260700.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

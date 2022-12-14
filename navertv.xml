@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 08:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 14 Dec 2022 02:18:53 GMT</pubDate>
             <content:encoded><![CDATA[8:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_124/AZAQF_1670982908280vF2Bn_JPEG/1670982811579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 처음엔 설레다가... 마지막엔 충격 반전까지? 여기 다.있.음 !]]></title>
+            <link>https://tv.naver.com/v/31589781</link>
+            <guid>https://tv.naver.com/v/31589781</guid>
+            <pubDate>Wed, 14 Dec 2022 09:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[10:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_186/ztoAu_1670974991676jOPzD_PNG/1670974933442.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 눈물이라는 것이 폭.발.했.다..💦| 7-8화 메이킹 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Nov 2022 10:10:56 GMT</pubDate>
             <content:encoded><![CDATA[4:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_273/zergp_1669103993859ufSbq_JPEG/1669103775941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 5화 요약 - 우리가 병X도 아니고  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/30980909</link>
-            <guid>https://tv.naver.com/v/30980909</guid>
-            <pubDate>Tue, 22 Nov 2022 12:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[7:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_291/o11dC_1669098433215Ljngc_PNG/1669098153468.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

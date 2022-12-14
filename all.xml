@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 11:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 12:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 약영즈의 대혜자 리액션&비하인드 썰까지!| 코멘터리 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31610675</link>
+            <guid>https://tv.naver.com/v/31610675</guid>
+            <pubDate>Wed, 14 Dec 2022 12:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[19:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_24/zn7yA_1671016380793oTgsR_JPEG/1671016248156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[에스파의 싱크로드] WELCOME TO 싱크로드💖| 선공개 1차 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31592399</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 11:08:14 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_156/SzvXj_166910705603025ESK_JPEG/1669106995244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1]  난생 처음 신경 쓰이는 놈들이 생겼다. | 1화 하이라이트 | 웨이브 오리지 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30984089</link>
-            <guid>https://tv.naver.com/v/30984089</guid>
-            <pubDate>Tue, 22 Nov 2022 10:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_273/zergp_1669103993859ufSbq_JPEG/1669103775941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

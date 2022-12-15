@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 14 Dec 2022 02:18:53 GMT</pubDate>
             <content:encoded><![CDATA[8:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_124/AZAQF_1670982908280vF2Bn_JPEG/1670982811579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 꼼작마... 여기 꽃사슴 이상형 있다... 그리고 시작된 쟁.탈.전 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31589786</link>
+            <guid>https://tv.naver.com/v/31589786</guid>
+            <pubDate>Thu, 15 Dec 2022 09:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_114/AdE8K_1670975032614ry9pE_JPEG/bdeaa140-7b3f-11ed-9ff0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 처음엔 설레다가... 마지막엔 충격 반전까지? 여기 다.있.음 ! (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 10:09:48 GMT</pubDate>
             <content:encoded><![CDATA[4:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_202/6rpmx_166918407814670eCD_PNG/1669183985620.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 소름 돋게 따뜻한 연시은의 츤데레 모먼트 모음 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/30985978</link>
-            <guid>https://tv.naver.com/v/30985978</guid>
-            <pubDate>Wed, 23 Nov 2022 11:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_156/SzvXj_166910705603025ESK_JPEG/1669106995244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

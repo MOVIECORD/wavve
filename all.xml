@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 22:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 23:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[젠틀맨] 싹 털어드린다더니 내 맘까지 싹 털렸읍니다..ㅣ캐릭터 영상 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31643141</link>
+            <guid>https://tv.naver.com/v/31643141</guid>
+            <pubDate>Thu, 15 Dec 2022 23:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_78/njRbY_16711059359857kCmB_JPEG/1671105926896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 약영즈의 대혜자 리액션&비하인드 썰까지!| 코멘터리 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31610675</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_74/9vJRY_1669191731096TGs7w_PNG/1669191697219.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 연시은의 새로운 싸움법, "파블로프의 개 실험" | 2화 하이라이트 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31014734</link>
-            <guid>https://tv.naver.com/v/31014734</guid>
-            <pubDate>Wed, 23 Nov 2022 10:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_202/6rpmx_166918407814670eCD_PNG/1669183985620.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

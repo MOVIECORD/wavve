@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 02:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 03:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 쟈갑던 시은에게 생긴 첫 친구| 약영즈 우정 서사 1편 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/31667239</link>
+            <guid>https://tv.naver.com/v/31667239</guid>
+            <pubDate>Sun, 18 Dec 2022 03:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[16:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_15/rD5tG_16711798562698YieG_JPEG/1671179670595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[젠틀맨] 싹 털어드린다더니 내 맘까지 싹 털렸읍니다..ㅣ캐릭터 영상]]></title>
             <link>https://tv.naver.com/v/31643141</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 13:23:40 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_133/7MbVI_1669209125248dFa9F_JPEG/1669209002567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 6화 선공개 - 미친X이라고 생각합니다 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/31019717</link>
-            <guid>https://tv.naver.com/v/31019717</guid>
-            <pubDate>Thu, 24 Nov 2022 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_74/9vJRY_1669191731096TGs7w_PNG/1669191697219.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

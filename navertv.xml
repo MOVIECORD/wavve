@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_173/Is7oL_1670579280798nNmS1_JPEG/1670579244085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 뭘 해도 안되는 날이 있는데.. 그게 오늘이더라..하하ㅣ판타지]]></title>
+            <link>https://tv.naver.com/v/31483258</link>
+            <guid>https://tv.naver.com/v/31483258</guid>
+            <pubDate>Mon, 19 Dec 2022 03:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_221/TCPcl_1670579235829SI1XH_JPEG/1670579204223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 갑자기 재력..아니 매력 발산하는 타잔😎 ㅣ판타지 연애 게]]></title>
+            <link>https://tv.naver.com/v/31483148</link>
+            <guid>https://tv.naver.com/v/31483148</guid>
+            <pubDate>Mon, 19 Dec 2022 03:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_228/ECa0b_1670578994311Lk58F_JPEG/1670578963196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 달라도 너무 다른 매력! 하트의 주인은 과연!?ㅣ판타지 연애]]></title>
+            <link>https://tv.naver.com/v/31483081</link>
+            <guid>https://tv.naver.com/v/31483081</guid>
+            <pubDate>Mon, 19 Dec 2022 03:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_163/b8NQH_1670578863755LaOno_JPEG/1670578807739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[에스파의 싱크로드] 에스파와 함께 Synk In 하시겠습니까? | 캐릭터 티저 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/31481381</link>
             <guid>https://tv.naver.com/v/31481381</guid>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 05 Dec 2022 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_298/7e9sy_1670208135192Eqhzc_JPEG/1670206384304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퀴어 애즈 포크] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/31213293</link>
-            <guid>https://tv.naver.com/v/31213293</guid>
-            <pubDate>Fri, 02 Dec 2022 09:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_28/BaTQr_1669791888890v3z4g_PNG/1669791886028.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 8화 선공개 - 저거 페이크지? | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/31210605</link>
-            <guid>https://tv.naver.com/v/31210605</guid>
-            <pubDate>Wed, 30 Nov 2022 09:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_292/k8qoS_1669788109373POy76_PNG/1669788043318.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[버튼게임] 마지막 화 요약 - 마지막 탈락자  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/31210591</link>
-            <guid>https://tv.naver.com/v/31210591</guid>
-            <pubDate>Sat, 03 Dec 2022 02:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[8:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_191/gR4HO_1669788079244siBDR_PNG/1669787947120.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

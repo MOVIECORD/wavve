@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 07:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 08:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 수갑차고 데이트 해봤어요?! 난 몰랑 ..ㅎ🤭 ㅣ4화 선공개]]></title>
+            <link>https://tv.naver.com/v/31780219</link>
+            <guid>https://tv.naver.com/v/31780219</guid>
+            <pubDate>Thu, 22 Dec 2022 08:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_231/TFKWC_1671599581459Ls6JQ_PNG/1671599578449.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 우정에서 경쟁자로? 차차의 알람은 어디로...ㅣ3화 하이라이트]]></title>
             <link>https://tv.naver.com/v/31780164</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Dec 2022 09:09:23 GMT</pubDate>
             <content:encoded><![CDATA[3:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_185/eLvC6_1670215168000MWS82_JPEG/1670214952531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 약영즈 카메라 뒤에서 장꾸미 폭발💥 | 1-2화 메이킹 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/31340604</link>
-            <guid>https://tv.naver.com/v/31340604</guid>
-            <pubDate>Mon, 05 Dec 2022 05:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_204/KVkxI_1670214918878fWnCW_JPEG/1670214916790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 20 Dec 2022 07:08:17 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_59/Oxios_1671517409397ecEAy_JPEG/1671517068871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[코드 404 시즌3] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31749471</link>
+            <guid>https://tv.naver.com/v/31749471</guid>
+            <pubDate>Fri, 23 Dec 2022 08:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_13/KHZc0_1671511685051CrmWc_PNG/1671511635281.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 노빠꾸 타잔이 아이템 카드로 만들어 낸 찬스😎 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 02:20:04 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_196/7ddOi_1670376683527KOXEG_JPEG/1670376531325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 약영즈는 사실 개그맨이었다 🤣| 3-4화 메이킹 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31340755</link>
-            <guid>https://tv.naver.com/v/31340755</guid>
-            <pubDate>Mon, 05 Dec 2022 09:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_185/eLvC6_1670215168000MWS82_JPEG/1670214952531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

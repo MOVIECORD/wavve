@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 02:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 03:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[약한영웅 Class 1] 약영즈 폼 미쳤다;;💥| 약한영웅 액션 모음.ZIP | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/31858616</link>
+            <guid>https://tv.naver.com/v/31858616</guid>
+            <pubDate>Sat, 24 Dec 2022 03:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[8:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_219/pxL7n_16718433504700U35K_JPEG/1671842969815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 주인 찾아 손 내민 (대형)댕댕이 재질 안새로이🐶🐶]]></title>
             <link>https://tv.naver.com/v/31805905</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Dec 2022 08:11:15 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_119/zl9nd_1670476250887CtcFm_PNG/1670476208410.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[웨이브] 너튜브가 먼저 알아본 2022 해외드라마 띵작👍]]></title>
-            <link>https://tv.naver.com/v/31417356</link>
-            <guid>https://tv.naver.com/v/31417356</guid>
-            <pubDate>Wed, 07 Dec 2022 09:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_83/QLoU6_1670401091738APLuv_JPEG/1670401012394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

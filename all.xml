@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 04:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 05:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 24 Dec 2022 03:08:57 GMT</pubDate>
             <content:encoded><![CDATA[8:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221224_219/pxL7n_16718433504700U35K_JPEG/1671842969815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 또로롱♪ 언제 들어도 좋은 확신의 '좋알람' 소리❤️ (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31805938</link>
+            <guid>https://tv.naver.com/v/31805938</guid>
+            <pubDate>Sat, 24 Dec 2022 05:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_102/OuQmj_1671673692226hhksX_JPEG/1671673639592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 주인 찾아 손 내민 (대형)댕댕이 재질 안새로이🐶🐶 (wavve ─ NAVER TV)]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Fri, 23 Dec 2022 10:08:52 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_259/jjL5J_16716735194450970k_JPEG/1671673469079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 타이밍 미쳐버린 스틸 카드에 미쳐버린22 꽃사슴 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31805774</link>
+            <guid>https://tv.naver.com/v/31805774</guid>
+            <pubDate>Sat, 24 Dec 2022 05:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_294/LC9p6_1671673360369gADsR_JPEG/1671673287717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 수갑차고 데이트 해봤어요?! 난 몰랑 ..ㅎ🤭 ㅣ4화 선공개 (wavve ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 09 Dec 2022 02:15:17 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_10/q6qil_1670550203226vQB03_JPEG/1670550068204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뱀파이어 아카데미] 공식 예고편 | 웨이브 해외시즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31440586</link>
-            <guid>https://tv.naver.com/v/31440586</guid>
-            <pubDate>Fri, 09 Dec 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_191/aRrP2_1670476481168QHlUk_PNG/1670476433863.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[더 캡처 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31440425</link>
-            <guid>https://tv.naver.com/v/31440425</guid>
-            <pubDate>Fri, 09 Dec 2022 08:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_119/zl9nd_1670476250887CtcFm_PNG/1670476208410.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

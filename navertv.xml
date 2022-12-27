@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 07:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 08:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는짝!짝!짝!]팅커벨일지 귀여운 악마일지 그의 두 얼굴🤐ㅣ4화하이라이트]]></title>
+            <link>https://tv.naver.com/v/31920413</link>
+            <guid>https://tv.naver.com/v/31920413</guid>
+            <pubDate>Tue, 27 Dec 2022 08:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[10:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_128/f8eNM_1672118408562SMooj_PNG/1672118253146.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올 연말은 젠틀맨으로 결정👩 ⚖️ㅣ제작기 영상]]></title>
             <link>https://tv.naver.com/v/31916685</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Dec 2022 09:08:28 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_52/14Fp8_1670573940216yA2Vs_JPEG/1670573371520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[젠틀맨] 내가? 갑자기? 검사? 왜?🤪 나쁜놈 일단 잡아보겠습니다ㅣ메인 예고편]]></title>
-            <link>https://tv.naver.com/v/31469048</link>
-            <guid>https://tv.naver.com/v/31469048</guid>
-            <pubDate>Fri, 09 Dec 2022 03:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_213/ar2AL_1670554802428qtLrc_JPEG/1670554495898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

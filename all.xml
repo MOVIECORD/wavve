@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 09:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 10:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 노래까지..이로서 꽃사슴 유죄인간 확.정 | 5-6화 선공개 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31957216</link>
+            <guid>https://tv.naver.com/v/31957216</guid>
+            <pubDate>Wed, 28 Dec 2022 10:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_52/t9Gco_1672219320932gQdl0_PNG/1672219250366.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는짝!짝!짝!]팅커벨일지 귀여운 악마일지 그의 두 얼굴🤐ㅣ4화하이라이트 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31920413</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 12 Dec 2022 02:16:04 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_61/ohoLR_1670575399810woer9_JPEG/1670575304659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 병원씬 메이킹 모셔왔읍니다 | 3-4화 스페셜 메이킹 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31480524</link>
-            <guid>https://tv.naver.com/v/31480524</guid>
-            <pubDate>Sun, 11 Dec 2022 09:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_52/14Fp8_1670573940216yA2Vs_JPEG/1670573371520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

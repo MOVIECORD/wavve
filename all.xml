@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 09:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 10:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_128/f8eNM_1672118408562SMooj_PNG/1672118253146.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 우린 이런 상황을 자업자득이라 부르기로 했어요.. (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31919311</link>
+            <guid>https://tv.naver.com/v/31919311</guid>
+            <pubDate>Fri, 30 Dec 2022 10:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_295/N52SB_1672116332927DHUEt_JPEG/1672116257907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올 연말은 젠틀맨으로 결정👩 ⚖️ㅣ제작기 영상 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/31916685</link>
             <guid>https://tv.naver.com/v/31916685</guid>
             <pubDate>Tue, 27 Dec 2022 03:09:25 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_107/BRJb4_1672110008803VjFRV_JPEG/1672109615389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 감미로운 노래에서 감 잃은 노래까지^^ 좋알람 장기자랑 타임 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31915867</link>
+            <guid>https://tv.naver.com/v/31915867</guid>
+            <pubDate>Fri, 30 Dec 2022 10:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[4:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_50/7wsvJ_1672108072212TL8zP_JPEG/1672107958470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[약한영웅 Class 1] 약영즈 폼 미쳤다;;💥| 약한영웅 액션 모음.ZIP | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 03:09:24 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_228/ECa0b_1670578994311Lk58F_JPEG/1670578963196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 달라도 너무 다른 매력! 하트의 주인은 과연!?ㅣ판타지 연애 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31483081</link>
-            <guid>https://tv.naver.com/v/31483081</guid>
-            <pubDate>Mon, 19 Dec 2022 03:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_163/b8NQH_1670578863755LaOno_JPEG/1670578807739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에스파의 싱크로드] 에스파와 함께 Synk In 하시겠습니까? | 캐릭터 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31481381</link>
-            <guid>https://tv.naver.com/v/31481381</guid>
-            <pubDate>Mon, 12 Dec 2022 02:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_61/ohoLR_1670575399810woer9_JPEG/1670575304659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 00:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 02:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 28 Dec 2022 10:09:16 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_52/t9Gco_1672219320932gQdl0_PNG/1672219250366.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 진실은 아닌데 거짓말도 아니야..! 혼란하다 혼란해🤦🤦 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31953687</link>
+            <guid>https://tv.naver.com/v/31953687</guid>
+            <pubDate>Sat, 31 Dec 2022 02:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_175/TA0oE_1672216521894WJj6E_JPEG/1672216519384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는짝!짝!짝!]팅커벨일지 귀여운 악마일지 그의 두 얼굴🤐ㅣ4화하이라이트 (wavve ─ NAVER TV)]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Fri, 30 Dec 2022 10:08:47 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_295/N52SB_1672116332927DHUEt_JPEG/1672116257907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 너 어제 나 찍었더라? 팅커벨과 꽃사슴의 솔직한 오밤중 토크 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/31919238</link>
+            <guid>https://tv.naver.com/v/31919238</guid>
+            <pubDate>Sat, 31 Dec 2022 02:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_51/VCAdK_16721161703042Mkx7_JPEG/1672116070330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올 연말은 젠틀맨으로 결정👩 ⚖️ㅣ제작기 영상 (wavve ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 02:03:33 GMT</pubDate>
             <content:encoded><![CDATA[4:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_173/Is7oL_1670579280798nNmS1_JPEG/1670579244085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 뭘 해도 안되는 날이 있는데.. 그게 오늘이더라..하하ㅣ판타지 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31483258</link>
-            <guid>https://tv.naver.com/v/31483258</guid>
-            <pubDate>Mon, 19 Dec 2022 03:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_221/TCPcl_1670579235829SI1XH_JPEG/1670579204223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 갑자기 재력..아니 매력 발산하는 타잔😎 ㅣ판타지 연애 게 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31483148</link>
-            <guid>https://tv.naver.com/v/31483148</guid>
-            <pubDate>Mon, 19 Dec 2022 03:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_228/ECa0b_1670578994311Lk58F_JPEG/1670578963196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 07:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 08:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 03 Jan 2023 07:08:04 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_34/WsnhC_1672728265770qreS0_JPEG/1672728062060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 시작된 하트쟁탈전, 자스민의 전략은?ㅣ5-6화 하이라이트 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32082133</link>
+            <guid>https://tv.naver.com/v/32082133</guid>
+            <pubDate>Tue, 03 Jan 2023 08:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[10:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_41/gJjId_1672725005030PalpM_PNG/1672724650369.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 노래까지..이로서 꽃사슴 유죄인간 확.정 | 5-6화 선공개 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 09:09:19 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_114/AdE8K_1670975032614ry9pE_JPEG/bdeaa140-7b3f-11ed-9ff0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 처음엔 설레다가... 마지막엔 충격 반전까지? 여기 다.있.음 ! (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31589781</link>
-            <guid>https://tv.naver.com/v/31589781</guid>
-            <pubDate>Wed, 14 Dec 2022 09:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[10:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_186/ztoAu_1670974991676jOPzD_PNG/1670974933442.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

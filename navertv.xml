@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 06:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 07:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[젠틀맨] 의도하진 않았더라도 신분세탁 완👌]]></title>
+            <link>https://tv.naver.com/v/32084224</link>
+            <guid>https://tv.naver.com/v/32084224</guid>
+            <pubDate>Tue, 03 Jan 2023 07:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_34/WsnhC_1672728265770qreS0_JPEG/1672728062060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 노래까지..이로서 꽃사슴 유죄인간 확.정 | 5-6화 선공개]]></title>
             <link>https://tv.naver.com/v/31957216</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Dec 2022 09:09:19 GMT</pubDate>
             <content:encoded><![CDATA[10:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_186/ztoAu_1670974991676jOPzD_PNG/1670974933442.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 눈물이라는 것이 폭.발.했.다..💦| 7-8화 메이킹 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/31543080</link>
-            <guid>https://tv.naver.com/v/31543080</guid>
-            <pubDate>Mon, 12 Dec 2022 09:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[5:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_283/1HQD7_167083486588000wqp_JPEG/1670834753851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

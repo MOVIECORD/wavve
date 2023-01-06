@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 00:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 02:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 랜덤 카드에서 나온 무시무시한 선택권..! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32167053</link>
+            <guid>https://tv.naver.com/v/32167053</guid>
+            <pubDate>Fri, 06 Jan 2023 02:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_273/s4faL_1672968252470BgHsr_JPEG/1672968205112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 바보 커플 타잔&꽃사슴 비밀 회동에 밝혀지는 거짓말..! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32167017</link>
+            <guid>https://tv.naver.com/v/32167017</guid>
+            <pubDate>Fri, 06 Jan 2023 02:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[5:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_224/6gcmW_1672968181328mApuP_JPEG/1672968102148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "자스민님, 탈락자를 선정하세요" | 7-8화 선공개 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32116209</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 18 Dec 2022 03:09:00 GMT</pubDate>
             <content:encoded><![CDATA[16:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_15/rD5tG_16711798562698YieG_JPEG/1671179670595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 약영즈의 대혜자 리액션&비하인드 썰까지!| 코멘터리 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31610675</link>
-            <guid>https://tv.naver.com/v/31610675</guid>
-            <pubDate>Wed, 14 Dec 2022 12:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[19:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_24/zn7yA_1671016380793oTgsR_JPEG/1671016248156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에스파의 싱크로드] WELCOME TO 싱크로드💖| 선공개 1차 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31592399</link>
-            <guid>https://tv.naver.com/v/31592399</guid>
-            <pubDate>Wed, 14 Dec 2022 02:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[8:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_124/AZAQF_1670982908280vF2Bn_JPEG/1670982811579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

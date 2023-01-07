@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 00:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 02:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 재규어가 실존한다!??! 존잘 메기의 등장에 술렁이는 호텔 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32167378</link>
+            <guid>https://tv.naver.com/v/32167378</guid>
+            <pubDate>Sat, 07 Jan 2023 02:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_13/Bdstf_1672969153516eglzX_JPEG/1672969117426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] '좁은 감옥'에서 단 둘이 솔직할 수 있었던 시간😏 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32167297</link>
+            <guid>https://tv.naver.com/v/32167297</guid>
+            <pubDate>Sat, 07 Jan 2023 02:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_110/NrgFQ_1672968952728Uwcvr_JPEG/1672968918333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 랜덤 카드에서 나온 무시무시한 선택권..! (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32167053</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 02:03:33 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_88/jfN4V_1671412488689ehvxu_JPEG/1671412365746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 우정에 눈물 흘리는 거 가능? 😭| 약영즈 우정 서사 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31669542</link>
-            <guid>https://tv.naver.com/v/31669542</guid>
-            <pubDate>Sun, 18 Dec 2022 04:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[19:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_159/DgEae_1671184755163pi2ua_JPEG/1671183756954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[약한영웅 Class 1] 쟈갑던 시은에게 생긴 첫 친구| 약영즈 우정 서사 1편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31667239</link>
-            <guid>https://tv.naver.com/v/31667239</guid>
-            <pubDate>Sun, 18 Dec 2022 03:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[16:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_15/rD5tG_16711798562698YieG_JPEG/1671179670595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

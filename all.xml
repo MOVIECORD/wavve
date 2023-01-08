@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 22:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 23:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[젠틀맨] 본캐 ON💡하자마자 웃음 가득😁ㅣ비하인드 영상 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32185554</link>
+            <guid>https://tv.naver.com/v/32185554</guid>
+            <pubDate>Sun, 08 Jan 2023 23:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_55/x5eBx_1673005100890VLs7D_JPEG/1673005082231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]어리둥절😳안새로이 본인만 빼고 다 파악한 차차의 마음 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32167513</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 02:03:33 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_116/yl2NW_1671412993227wWmbW_JPEG/1671412949760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 외판원 모르모트 PD! 아이템 카드 팔러 왔다 다소곳해져서 돌 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31714104</link>
-            <guid>https://tv.naver.com/v/31714104</guid>
-            <pubDate>Mon, 19 Dec 2022 02:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_36/J4HcC_1671412850956YKzS6_JPEG/1671412806962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

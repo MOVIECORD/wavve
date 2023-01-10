@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 04:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 05:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에스파의 싱크로드] 수상한 숙소 밖?! 승부욕 풀충전!🔥| 5-6회 선공개 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/32262624</link>
+            <guid>https://tv.naver.com/v/32262624</guid>
+            <pubDate>Tue, 10 Jan 2023 05:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[8:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_291/EAV16_1673324674215S7pg9_JPEG/1673318627968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[젠틀맨] 본캐 ON💡하자마자 웃음 가득😁ㅣ비하인드 영상]]></title>
             <link>https://tv.naver.com/v/32185554</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Dec 2022 08:11:05 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_13/KHZc0_1671511685051CrmWc_PNG/1671511635281.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 노빠꾸 타잔이 아이템 카드로 만들어 낸 찬스😎]]></title>
-            <link>https://tv.naver.com/v/31714156</link>
-            <guid>https://tv.naver.com/v/31714156</guid>
-            <pubDate>Mon, 19 Dec 2022 02:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_116/yl2NW_1671412993227wWmbW_JPEG/1671412949760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

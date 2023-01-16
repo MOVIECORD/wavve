@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 11:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 12:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[젠틀맨] 저는 이게 불법이라고 생각하지 않아요ㅣ나쁜 놈이 잡는 나쁜 놈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32423891</link>
+            <guid>https://tv.naver.com/v/32423891</guid>
+            <pubDate>Mon, 16 Jan 2023 12:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_62/vuWiO_1673867458026yoi3c_JPEG/1673867291782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "내가 꽃사슴만 좋아한다고 생각하지 마" 자스민의 시그널을 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32328801</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Dec 2022 03:09:25 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_107/BRJb4_1672110008803VjFRV_JPEG/1672109615389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 감미로운 노래에서 감 잃은 노래까지^^ 좋알람 장기자랑 타임 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31915867</link>
-            <guid>https://tv.naver.com/v/31915867</guid>
-            <pubDate>Fri, 30 Dec 2022 10:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_50/7wsvJ_1672108072212TL8zP_JPEG/1672107958470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

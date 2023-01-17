@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 07:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 08:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 긴장하세요... 좋알람 소용돌이 들어갑니다...;; | 9-10화 하이라 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32441142</link>
+            <guid>https://tv.naver.com/v/32441142</guid>
+            <pubDate>Tue, 17 Jan 2023 08:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[10:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_135/hcuhM_1673931835901nYxMs_PNG/1673931785859.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[에스파의 싱크로드] 먹스파가 먹다 말고 놀란 이유는? | 7-8회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32435765</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Dec 2022 10:08:47 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_295/N52SB_1672116332927DHUEt_JPEG/1672116257907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 너 어제 나 찍었더라? 팅커벨과 꽃사슴의 솔직한 오밤중 토크 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/31919238</link>
-            <guid>https://tv.naver.com/v/31919238</guid>
-            <pubDate>Sat, 31 Dec 2022 02:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_51/VCAdK_16721161703042Mkx7_JPEG/1672116070330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

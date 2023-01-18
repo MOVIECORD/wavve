@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 08:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 09:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "나는 너랑 데이트 하고싶어..." | 11화 선공개]]></title>
+            <link>https://tv.naver.com/v/32474960</link>
+            <guid>https://tv.naver.com/v/32474960</guid>
+            <pubDate>Wed, 18 Jan 2023 09:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_82/nxipd_1674028642355xpteJ_PNG/1674028592297.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[젠틀맨] 배우들도 서로 몰랐던 비하인드ㄴㅇㄱㅣ코멘터리]]></title>
             <link>https://tv.naver.com/v/32448842</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 02:05:15 GMT</pubDate>
             <content:encoded><![CDATA[3:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_175/TA0oE_1672216521894WJj6E_JPEG/1672216519384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는짝!짝!짝!]팅커벨일지 귀여운 악마일지 그의 두 얼굴🤐ㅣ4화하이라이트]]></title>
-            <link>https://tv.naver.com/v/31920413</link>
-            <guid>https://tv.naver.com/v/31920413</guid>
-            <pubDate>Tue, 27 Dec 2022 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[10:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_128/f8eNM_1672118408562SMooj_PNG/1672118253146.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 00:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 02:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 21 Jan 2023 09:08:40 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_213/MyQon_1674202132045Sshtl_JPEG/1674201848094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "차차야 니 땀이 향수다" 멘트 장인이 부러운 얼굴 천재😚]]></title>
+            <link>https://tv.naver.com/v/32500141</link>
+            <guid>https://tv.naver.com/v/32500141</guid>
+            <pubDate>Sun, 22 Jan 2023 02:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_235/UGy3t_1674108345266ttfDq_JPEG/1674108286623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "하트는 이제 나한테 의미 없어" 모든 걸 준 백장미🌹]]></title>
@@ -30,6 +38,14 @@
             <pubDate>Fri, 20 Jan 2023 02:16:30 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_24/5jtVv_1674108227451TVTqn_JPEG/1674108140167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "왜 거짓말을 했어" 화가 잔뜩 나버린 꽃사슴🦌😣]]></title>
+            <link>https://tv.naver.com/v/32500027</link>
+            <guid>https://tv.naver.com/v/32500027</guid>
+            <pubDate>Sun, 22 Jan 2023 02:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_120/PyGGj_1674108128716MgRQJ_JPEG/1674108018092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 자스민이 누구보다 장미한테 진심이었던 순간들😭😭]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 06 Jan 2023 02:14:53 GMT</pubDate>
             <content:encoded><![CDATA[5:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_224/6gcmW_1672968181328mApuP_JPEG/1672968102148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "자스민님, 탈락자를 선정하세요" | 7-8화 선공개]]></title>
-            <link>https://tv.naver.com/v/32116209</link>
-            <guid>https://tv.naver.com/v/32116209</guid>
-            <pubDate>Wed, 04 Jan 2023 08:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_25/EAJDL_1672819361171LyFUM_PNG/1672819297034.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[젠틀맨] 의도하진 않았더라도 신분세탁 완👌]]></title>
-            <link>https://tv.naver.com/v/32084224</link>
-            <guid>https://tv.naver.com/v/32084224</guid>
-            <pubDate>Tue, 03 Jan 2023 07:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_34/WsnhC_1672728265770qreS0_JPEG/1672728062060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

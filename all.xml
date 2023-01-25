@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 망설이는 모든 말들에 대하여...🥺 | 12화 선공개 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32610599</link>
+            <guid>https://tv.naver.com/v/32610599</guid>
+            <pubDate>Wed, 25 Jan 2023 09:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_80/Z5bKG_1674631368763JGGU5_PNG/1674631298495.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[에스파의 싱크로드]한밤의 안무 연습까지?!💃💃| 9-10회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32600588</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 02:09:44 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_13/Bdstf_1672969153516eglzX_JPEG/1672969117426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] '좁은 감옥'에서 단 둘이 솔직할 수 있었던 시간😏 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32167297</link>
-            <guid>https://tv.naver.com/v/32167297</guid>
-            <pubDate>Sat, 07 Jan 2023 02:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_110/NrgFQ_1672968952728Uwcvr_JPEG/1672968918333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

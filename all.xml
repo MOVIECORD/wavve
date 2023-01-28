@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 00:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 02:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] '백장미 좋아' 드디어 용기낸 자스민!!👩🏻‍❤️‍👩 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32641865</link>
+            <guid>https://tv.naver.com/v/32641865</guid>
+            <pubDate>Sat, 28 Jan 2023 02:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[5:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_152/d1hfd_1674720520108vGIoL_JPEG/1674720438737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 끝을 알고도 숨김없이 고백한 줄리엣의 속마음 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32641802</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 08 Jan 2023 23:08:14 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_55/x5eBx_1673005100890VLs7D_JPEG/1673005082231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]어리둥절😳안새로이 본인만 빼고 다 파악한 차차의 마음 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32167513</link>
-            <guid>https://tv.naver.com/v/32167513</guid>
-            <pubDate>Sun, 08 Jan 2023 02:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_186/UNGkW_16729694780346JjjM_JPEG/1672969474216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

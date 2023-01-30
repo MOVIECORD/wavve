@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 00:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 02:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 모퉁이를 돌아서 너에게 가다 ... 장미의 마지막 ❤️😿]]></title>
+            <link>https://tv.naver.com/v/32722508</link>
+            <guid>https://tv.naver.com/v/32722508</guid>
+            <pubDate>Mon, 30 Jan 2023 02:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_272/6BITd_1675041683264I1QWW_PNG/1675041680905.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] ※1화-10화 요약※ 좋알람에 지독하게 얽혀버린 이유.mp4]]></title>
             <link>https://tv.naver.com/v/32675642</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 11:09:24 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_89/teTK4_1673432104012NCp6h_PNG/1673432101015.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] ※미방분※ 꽃사슴은 언제부터 자스민이 마음에 들었나 ~ ㅎ]]></title>
-            <link>https://tv.naver.com/v/32270617</link>
-            <guid>https://tv.naver.com/v/32270617</guid>
-            <pubDate>Tue, 10 Jan 2023 12:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_209/TLD2k_1673339130216qEUDu_PNG/1673339127628.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

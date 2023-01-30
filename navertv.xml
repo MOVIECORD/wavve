@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 08:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 09:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]  N행시를 중심으로 알아보는 안새로이표 사랑이야기 ❤️‍]]></title>
+            <link>https://tv.naver.com/v/32735275</link>
+            <guid>https://tv.naver.com/v/32735275</guid>
+            <pubDate>Mon, 30 Jan 2023 09:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[7:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_45/Amo6t_1675068435488JcGzK_PNG/1675068396984.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 모퉁이를 돌아서 너에게 가다 ... 장미의 마지막 ❤️😿]]></title>
             <link>https://tv.naver.com/v/32722508</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 12:16:12 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_31/SOhkO_1673490087323BE9Mo_PNG/1673490084615.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "거짓말이면 스민이 안볼거야" | 9-10화 선공개]]></title>
-            <link>https://tv.naver.com/v/32302946</link>
-            <guid>https://tv.naver.com/v/32302946</guid>
-            <pubDate>Wed, 11 Jan 2023 11:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_89/teTK4_1673432104012NCp6h_PNG/1673432101015.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

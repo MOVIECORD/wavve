@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 08:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 09:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "그 친구의 선택을 존중합니다"😭😭 | 12화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32764073</link>
+            <guid>https://tv.naver.com/v/32764073</guid>
+            <pubDate>Tue, 31 Jan 2023 09:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[9:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_42/bsDnd_1675153476839gvndd_PNG/1675153465571.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]  N행시를 중심으로 알아보는 안새로이표 사랑이야기 ❤️‍]]></title>
             <link>https://tv.naver.com/v/32735275</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 03:18:32 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_87/lG4TD_1673510596901CD0JG_JPEG/1673510537235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 나도 이젠 모르겠어.. 미안해ㅠㅣ판타지 연애 게임 | 웨이브]]></title>
-            <link>https://tv.naver.com/v/32328442</link>
-            <guid>https://tv.naver.com/v/32328442</guid>
-            <pubDate>Fri, 13 Jan 2023 03:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_182/jc2fo_1673510500083G1li3_JPEG/1673510301739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

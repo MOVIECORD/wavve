@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 00:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 02:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 30 Jan 2023 09:09:47 GMT</pubDate>
             <content:encoded><![CDATA[7:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_45/Amo6t_1675068435488JcGzK_PNG/1675068396984.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[에스파의 싱크로드] 데뷔 후 최초로 피해 보는 카메라 | 11-12회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32734332</link>
+            <guid>https://tv.naver.com/v/32734332</guid>
+            <pubDate>Tue, 31 Jan 2023 02:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_126/3akei_1675066595776ksNQ3_JPEG/1675066235678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 모퉁이를 돌아서 너에게 가다 ... 장미의 마지막 ❤️😿 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 03:18:32 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_182/jc2fo_1673510500083G1li3_JPEG/1673510301739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프렌드 오브 더 패밀리] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32317552</link>
-            <guid>https://tv.naver.com/v/32317552</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_31/SOhkO_1673490087323BE9Mo_PNG/1673490084615.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 08:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 09:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]  ※항마력 주의※  개그모먼트로 알아보는 타잔표 사랑이야기 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32825409</link>
+            <guid>https://tv.naver.com/v/32825409</guid>
+            <pubDate>Thu, 02 Feb 2023 09:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[14:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_59/7jByb_1675326901248xWDvd_PNG/1675326839241.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 이제 마지막 좋알람을 울려야 할 때 | 최종화 선공개 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32792037</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 02:05:37 GMT</pubDate>
             <content:encoded><![CDATA[3:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_236/afLhR_1673510871674hGMS9_JPEG/1673510819610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 술자리에 빠질 수 없는 진실 게임! 자스민의 선택은?ㅣ판타지 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32328544</link>
-            <guid>https://tv.naver.com/v/32328544</guid>
-            <pubDate>Sat, 14 Jan 2023 02:05:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_55/sioSy_1673510803545A7wHv_JPEG/1673510796161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

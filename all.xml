@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 00:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 02:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 장미에게 전한 솔직한 마음과 돌아온 응원 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32854718</link>
+            <guid>https://tv.naver.com/v/32854718</guid>
+            <pubDate>Sat, 04 Feb 2023 02:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[5:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_223/kGgUH_1675409603920scrHn_JPEG/1675409574329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 그동안 내 모든 표는 꽃사슴 너였으니까.. (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32854687</link>
+            <guid>https://tv.naver.com/v/32854687</guid>
+            <pubDate>Sat, 04 Feb 2023 02:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_281/sNq6u_1675409735175Sc4Ua_JPEG/1675409731004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 소중한 사람에게 마음을 담아 울리는 마지막 하트 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32854632</link>
+            <guid>https://tv.naver.com/v/32854632</guid>
+            <pubDate>Sat, 04 Feb 2023 02:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_135/CVWiC_1675409489857Rgld2_JPEG/1675409438467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]  ※항마력 주의※  개그모먼트로 알아보는 타잔표 사랑이야기 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32825409</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 08:11:51 GMT</pubDate>
             <content:encoded><![CDATA[10:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_135/hcuhM_1673931835901nYxMs_PNG/1673931785859.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[에스파의 싱크로드] 먹스파가 먹다 말고 놀란 이유는? | 7-8회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32435765</link>
-            <guid>https://tv.naver.com/v/32435765</guid>
-            <pubDate>Tue, 17 Jan 2023 02:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_271/D3JEH_1673920615996sozUv_JPEG/1673920473043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[젠틀맨] 저는 이게 불법이라고 생각하지 않아요ㅣ나쁜 놈이 잡는 나쁜 놈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32423891</link>
-            <guid>https://tv.naver.com/v/32423891</guid>
-            <pubDate>Mon, 16 Jan 2023 12:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_62/vuWiO_1673867458026yoi3c_JPEG/1673867291782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "내가 꽃사슴만 좋아한다고 생각하지 마" 자스민의 시그널을 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32328801</link>
-            <guid>https://tv.naver.com/v/32328801</guid>
-            <pubDate>Sun, 15 Jan 2023 02:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[5:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_263/o7kFB_1673511081987hQIrr_JPEG/1673511022488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

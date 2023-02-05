@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 00:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 02:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "좋아해" 한 마디로 꽉꽉 눌러 담은 자스민의 진심..! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32854783</link>
+            <guid>https://tv.naver.com/v/32854783</guid>
+            <pubDate>Sun, 05 Feb 2023 02:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_133/V92Kj_1675409711460yyCKB_JPEG/1675409671003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 돌고 돌아 선택한 사람.. 운명남 너💕 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/32854749</link>
+            <guid>https://tv.naver.com/v/32854749</guid>
+            <pubDate>Sun, 05 Feb 2023 02:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_177/sE1a1_1675409647262xvBjS_JPEG/1675409623122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 장미에게 전한 솔직한 마음과 돌아온 응원 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/32854718</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 18 Jan 2023 09:08:58 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_82/nxipd_1674028642355xpteJ_PNG/1674028592297.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[젠틀맨] 배우들도 서로 몰랐던 비하인드ㄴㅇㄱㅣ코멘터리 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32448842</link>
-            <guid>https://tv.naver.com/v/32448842</guid>
-            <pubDate>Tue, 17 Jan 2023 09:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[6:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_68/Y6omO_1673945379137CeE5e_JPEG/1673942973720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 긴장하세요... 좋알람 소용돌이 들어갑니다...;; | 9-10화 하이라 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32441142</link>
-            <guid>https://tv.naver.com/v/32441142</guid>
-            <pubDate>Tue, 17 Jan 2023 08:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[10:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_135/hcuhM_1673931835901nYxMs_PNG/1673931785859.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 08:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 09:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 당신의 좋알람은 누구를 향해있나요?  | 최종화 하이라이트]]></title>
+            <link>https://tv.naver.com/v/32989095</link>
+            <guid>https://tv.naver.com/v/32989095</guid>
+            <pubDate>Wed, 08 Feb 2023 09:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[11:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_243/v2i1v_16758459908794hjyQ_PNG/1675845857466.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "좋아해" 한 마디로 꽉꽉 눌러 담은 자스민의 진심..!]]></title>
             <link>https://tv.naver.com/v/32854783</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 Jan 2023 02:11:09 GMT</pubDate>
             <content:encoded><![CDATA[8:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_146/F5XrG_1674106423403LqeBz_PNG/1674106339718.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "나는 너랑 데이트 하고싶어..." | 11화 선공개]]></title>
-            <link>https://tv.naver.com/v/32474960</link>
-            <guid>https://tv.naver.com/v/32474960</guid>
-            <pubDate>Wed, 18 Jan 2023 09:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_82/nxipd_1674028642355xpteJ_PNG/1674028592297.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

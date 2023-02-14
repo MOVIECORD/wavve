@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 00:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 02:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[새로운 좋알람이 울렸습니다!]연쇄 동공 지진마(?) 꽃사슴&눈웃음 장인 자스민의 코멘터리]]></title>
+            <link>https://tv.naver.com/v/33108064</link>
+            <guid>https://tv.naver.com/v/33108064</guid>
+            <pubDate>Tue, 14 Feb 2023 02:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[15:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_278/xnZyx_1676336762320nobU4_JPEG/1676336617964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 당신의 좋알람은 누구를 향해있나요?  | 최종화 하이라이트]]></title>
             <link>https://tv.naver.com/v/32989095</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 08:11:34 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_179/QFTIx_1674107221419vAFnU_PNG/1674107137026.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!} "하트는 이제 의미가 없어요" | 11화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32499237</link>
-            <guid>https://tv.naver.com/v/32499237</guid>
-            <pubDate>Tue, 24 Jan 2023 02:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[8:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_146/F5XrG_1674106423403LqeBz_PNG/1674106339718.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

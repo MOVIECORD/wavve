@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 00:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 02:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부 | 선공개 ] "우리팀은 빠꾸가 없죠" 방망이와 작대기편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33582605</link>
+            <guid>https://tv.naver.com/v/33582605</guid>
+            <pubDate>Thu, 02 Mar 2023 02:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_9/h8OxS_1677719238273EC9qE_JPEG/1677719184495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부 | 선공개 ] "타살이죠, 타살" 양정모녀 살인사건 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33582581</link>
+            <guid>https://tv.naver.com/v/33582581</guid>
+            <pubDate>Thu, 02 Mar 2023 02:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_2/9evMj_1677719164332K0Eje_PNG/1677719038155.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부] 쫓는 자와 쫓기는 자의 숨막히는 싸움! 분명히 단서는 나온다💥|2차 티저 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33513631</link>
@@ -38,14 +54,6 @@
             <pubDate>Mon, 20 Feb 2023 03:15:51 GMT</pubDate>
             <content:encoded><![CDATA[12:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_207/2RLRh_1676859852110MW11F_JPEG/1676859762722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부]단 한 번도 공개된 적 없는 100% 리얼 수사 다큐멘터리가 온다 | 1차 티저 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33199825</link>
-            <guid>https://tv.naver.com/v/33199825</guid>
-            <pubDate>Fri, 17 Feb 2023 00:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_190/TQhTs_1676544431254IKhsM_JPEG/1676544251184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[새로운 좋알람이 울렸습니다!]연쇄 동공 지진마(?) 꽃사슴&눈웃음 장인 자스민의 코멘터리 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_80/Z5bKG_1674631368763JGGU5_PNG/1674631298495.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[에스파의 싱크로드]한밤의 안무 연습까지?!💃💃| 9-10회 선공개 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32600588</link>
-            <guid>https://tv.naver.com/v/32600588</guid>
-            <pubDate>Wed, 25 Jan 2023 02:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_176/HNBEn_1674610100723IlMEx_JPEG/1674609836227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

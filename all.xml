@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 04:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부] 정의는 이긴다. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33637322</link>
+            <guid>https://tv.naver.com/v/33637322</guid>
+            <pubDate>Sat, 04 Mar 2023 05:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_73/LeQgD_1677840072626sk8IV_JPEG/1677840045723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부] 가족을 잃은 아이를 범인으로 지목하는 피의자 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33637291</link>
+            <guid>https://tv.naver.com/v/33637291</guid>
+            <pubDate>Sat, 04 Mar 2023 05:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_73/ethrz_1677840004008KC6uT_JPEG/1677839976959.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부] 약이 똑같은 거 나왔다고 해도 나는 아닙니다 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33637274</link>
+            <guid>https://tv.naver.com/v/33637274</guid>
+            <pubDate>Sat, 04 Mar 2023 05:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_239/CG351_1677839948077M46aW_JPEG/1677839907218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부] 야산에 쓰레기 봉투까지 확인했는데 아무것도 없었어요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33637244</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 30 Jan 2023 02:08:45 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_272/6BITd_1675041683264I1QWW_PNG/1675041680905.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] ※1화-10화 요약※ 좋알람에 지독하게 얽혀버린 이유.mp4 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32675642</link>
-            <guid>https://tv.naver.com/v/32675642</guid>
-            <pubDate>Sat, 28 Jan 2023 04:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:02:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_93/Xds2i_1674814084482S916l_JPEG/1674813702730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 타잔이 또?! 마지막 데이트까지 어록 쓰고 떠난 쾌남😎 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32642036</link>
-            <guid>https://tv.naver.com/v/32642036</guid>
-            <pubDate>Sun, 29 Jan 2023 02:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_179/lbD8j_1674720784067Q6w8Y_JPEG/1674720621997.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 보는 사람까지 민망한 안새로이의 만점짜리 자책골🤦‍♀ (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32641927</link>
-            <guid>https://tv.naver.com/v/32641927</guid>
-            <pubDate>Sun, 29 Jan 2023 02:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[5:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_109/fzawG_1674720612466a2p3O_JPEG/1674720578120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

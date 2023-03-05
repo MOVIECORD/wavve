@@ -4,9 +4,33 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 00:52:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 02:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부] 5시간 잠복, 뻔뻔한 피의자의 등장 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/33637395</link>
+            <guid>https://tv.naver.com/v/33637395</guid>
+            <pubDate>Sun, 05 Mar 2023 02:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_238/X7pgA_16778402632181CTCK_JPEG/1677840233540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부] 피의자 입맛대로 해줄 생각 전-혀 없는 형사님들! | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/33637376</link>
+            <guid>https://tv.naver.com/v/33637376</guid>
+            <pubDate>Sun, 05 Mar 2023 02:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_57/QumXz_1677840209997IuYRB_JPEG/1677840189637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부] 저희가 추적하고 있다는 사실을 알고 휴대폰을 꺼버렸어요.. | 웨이브 오리]]></title>
+            <link>https://tv.naver.com/v/33637358</link>
+            <guid>https://tv.naver.com/v/33637358</guid>
+            <pubDate>Sun, 05 Mar 2023 02:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[5:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_211/Az6p7_1677840150751cLo9h_JPEG/1677840120147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부] 정의는 이긴다. | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/33637322</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 08:11:41 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_9/tkJa0_1675126912320firzD_PNG/1675126854734.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]  N행시를 중심으로 알아보는 안새로이표 사랑이야기 ❤️‍]]></title>
-            <link>https://tv.naver.com/v/32735275</link>
-            <guid>https://tv.naver.com/v/32735275</guid>
-            <pubDate>Mon, 30 Jan 2023 09:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[7:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_45/Amo6t_1675068435488JcGzK_PNG/1675068396984.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[에스파의 싱크로드] 데뷔 후 최초로 피해 보는 카메라 | 11-12회 선공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/32734332</link>
-            <guid>https://tv.naver.com/v/32734332</guid>
-            <pubDate>Tue, 31 Jan 2023 02:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_126/3akei_1675066595776ksNQ3_JPEG/1675066235678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 모퉁이를 돌아서 너에게 가다 ... 장미의 마지막 ❤️😿]]></title>
-            <link>https://tv.naver.com/v/32722508</link>
-            <guid>https://tv.naver.com/v/32722508</guid>
-            <pubDate>Mon, 30 Jan 2023 02:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_272/6BITd_1675041683264I1QWW_PNG/1675041680905.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

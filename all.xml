@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 00:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 02:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부 | EP.5 선공개 ] '용이'를 잡기 위한 숨 막히는 추격전! 용이한 거짓말 편 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33798258</link>
+            <guid>https://tv.naver.com/v/33798258</guid>
+            <pubDate>Thu, 09 Mar 2023 02:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_204/fQ7GC_1678325070729yrWbj_PNG/1678325037601.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부 | EP.4 선공개] 4시간의 잠복 끝, 소리없는 일격을 가하다! 설계자들 편 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/33798230</link>
+            <guid>https://tv.naver.com/v/33798230</guid>
+            <pubDate>Thu, 09 Mar 2023 02:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_103/0eodH_1678325021964R0bHj_PNG/1678325019628.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부 | 5화 예고] 악질 중의 악질 "용이", 용이를 쫒기 시작했다 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/33759407</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 02 Feb 2023 09:09:45 GMT</pubDate>
             <content:encoded><![CDATA[14:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_59/7jByb_1675326901248xWDvd_PNG/1675326839241.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!]  ※미방분 클립※  숨겨왔던...♪ ~ 장미의 마지막 프리 데이트 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32822303</link>
-            <guid>https://tv.naver.com/v/32822303</guid>
-            <pubDate>Thu, 02 Feb 2023 12:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_73/GumLY_1675321643393aaF0k_PNG/1675321592596.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 이제 마지막 좋알람을 울려야 할 때 | 최종화 선공개 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/32792037</link>
-            <guid>https://tv.naver.com/v/32792037</guid>
-            <pubDate>Wed, 01 Feb 2023 08:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_235/zRbYJ_167523837602453pqv_PNG/1675238298270.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

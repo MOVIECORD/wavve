@@ -4,9 +4,33 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 00:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 02:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.5] 요구사항만 많고 반성은 없는 피의자의 태도 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/33845405</link>
+            <guid>https://tv.naver.com/v/33845405</guid>
+            <pubDate>Sun, 12 Mar 2023 02:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_202/UgYd0_1678424661572WWEoX_JPEG/1678424637644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.5] 피의자 가족들 앞에선 수갑을 채우지 않습니다 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/33845376</link>
+            <guid>https://tv.naver.com/v/33845376</guid>
+            <pubDate>Sun, 12 Mar 2023 02:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[6:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_46/scf4i_1678424618147EPY5n_JPEG/1678424584773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.5] 교도소 경력자 빵잡이가 경찰의 추적을 피하는 방법]]></title>
+            <link>https://tv.naver.com/v/33845333</link>
+            <guid>https://tv.naver.com/v/33845333</guid>
+            <pubDate>Sun, 12 Mar 2023 02:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_40/75xSl_1678424552912Vcx2l_JPEG/1678424514504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부│EP.4] 기다렸어요 빨리 문이 열리기를 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/33845296</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 08:12:10 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_279/xbzlM_16762708380871eob9_PNG/1676270804167.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 당신의 좋알람은 누구를 향해있나요?  | 최종화 하이라이트]]></title>
-            <link>https://tv.naver.com/v/32989095</link>
-            <guid>https://tv.naver.com/v/32989095</guid>
-            <pubDate>Wed, 08 Feb 2023 09:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[11:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_243/v2i1v_16758459908794hjyQ_PNG/1675845857466.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] "좋아해" 한 마디로 꽉꽉 눌러 담은 자스민의 진심..!]]></title>
-            <link>https://tv.naver.com/v/32854783</link>
-            <guid>https://tv.naver.com/v/32854783</guid>
-            <pubDate>Sun, 05 Feb 2023 02:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_133/V92Kj_1675409711460yyCKB_JPEG/1675409671003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[좋아하면 울리는 짝!짝!짝!] 돌고 돌아 선택한 사람.. 운명남 너💕]]></title>
-            <link>https://tv.naver.com/v/32854749</link>
-            <guid>https://tv.naver.com/v/32854749</guid>
-            <pubDate>Sun, 05 Feb 2023 02:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[4:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_177/sE1a1_1675409647262xvBjS_JPEG/1675409623122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

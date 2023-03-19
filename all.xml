@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 00:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 02:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.7] 문을 열자 가득한 담배 냄새 "금방 잡겠다"  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34041349</link>
+            <guid>https://tv.naver.com/v/34041349</guid>
+            <pubDate>Sun, 19 Mar 2023 02:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_196/sl09P_1678955317161OQ6fm_JPEG/1678955291531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.7] 가족을 잃은 유가족을 조사한다는 게.. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34041294</link>
+            <guid>https://tv.naver.com/v/34041294</guid>
+            <pubDate>Sun, 19 Mar 2023 02:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_257/jZEgo_16789552535991cbUG_JPEG/1678955177973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.7] 우리가 한발 늦었어요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34041195</link>
+            <guid>https://tv.naver.com/v/34041195</guid>
+            <pubDate>Sun, 19 Mar 2023 02:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_212/7u51l_1678955137801mLt9c_JPEG/1678955104557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부│EP.6] 한번 중독되면 못 끊어요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34041148</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 02 Mar 2023 06:12:59 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230302_187/jnl7A_1677736416757Ra3fQ_JPEG/1677736320061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부 | 선공개 ] "타살이죠, 타살" 양정모녀 살인사건 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33582581</link>
-            <guid>https://tv.naver.com/v/33582581</guid>
-            <pubDate>Thu, 02 Mar 2023 02:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_2/9evMj_1677719164332K0Eje_PNG/1677719038155.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 쫓는 자와 쫓기는 자의 숨막히는 싸움! 분명히 단서는 나온다💥|2차 티저 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33513631</link>
-            <guid>https://tv.naver.com/v/33513631</guid>
-            <pubDate>Mon, 27 Feb 2023 23:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_110/7ioiA_1677492986878bj1iG_JPEG/1677492888609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 끝을 보는 사람들의 100% 리얼 수사 다큐멘터리 | 스토리 티저 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33505405</link>
-            <guid>https://tv.naver.com/v/33505405</guid>
-            <pubDate>Mon, 27 Feb 2023 07:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_239/V7c1r_1677479804295l6nNC_JPEG/1677479733092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

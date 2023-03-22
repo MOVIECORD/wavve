@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 07:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 08:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 22 Mar 2023 00:40:04 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_39/cEASa_16794454022740KOf1_JPEG/1679445365088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부 | 8화 예고] 누군가 계단 밑에 마약을 숨겼다... 끝까지 잡는다, 끝까지 간다! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34185099</link>
+            <guid>https://tv.naver.com/v/34185099</guid>
+            <pubDate>Wed, 22 Mar 2023 08:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_18/ScIWP_1679381625210nqjhD_PNG/1679381598687.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부 | 9화 예고] 산 자의 마지막 순간까지 지켜봐야하는 형사의 낮과 밤...! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34180350</link>
+            <guid>https://tv.naver.com/v/34180350</guid>
+            <pubDate>Wed, 22 Mar 2023 08:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_74/IhiFr_1679375887321YRfmV_PNG/1679375849682.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[국가수사본부│EP.7] 문을 열자 가득한 담배 냄새 "금방 잡겠다"  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 02:15:23 GMT</pubDate>
             <content:encoded><![CDATA[4:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_83/WBfXM_1677839802031lwVuY_JPEG/1677839775828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 어린 고등학생 여자애 얼굴을 태웠다는 것 자체가 저는.. | 웨이브 오리지 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33637179</link>
-            <guid>https://tv.naver.com/v/33637179</guid>
-            <pubDate>Sat, 04 Mar 2023 02:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_9/dXgcb_16778397334143HKjD_JPEG/1677839668790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부 | 선공개 ] "우리 팀은 빠꾸가 없죠" 방망이와 작대기편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33597840</link>
-            <guid>https://tv.naver.com/v/33597840</guid>
-            <pubDate>Thu, 02 Mar 2023 09:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_137/9LC7u_1677746072354yhjl4_JPEG/1677746040316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

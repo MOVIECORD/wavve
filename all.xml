@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 22:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 23:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 22 Mar 2023 08:11:14 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_18/ScIWP_1679381625210nqjhD_PNG/1679381598687.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부 | EP.9 선공개 ] 경주의 호랑이들, 강력계 형사들의 낮과 밤을 살펴보다! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34180460</link>
+            <guid>https://tv.naver.com/v/34180460</guid>
+            <pubDate>Wed, 22 Mar 2023 23:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_151/lY6kM_1679376014876DhbFJ_PNG/1679375976817.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[국가수사본부 | 9화 예고] 산 자의 마지막 순간까지 지켜봐야하는 형사의 낮과 밤...! (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 02:15:23 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_138/Zeyi1_1677839875392am4HD_JPEG/1677839848976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 정신이 해롱해롱하고 말을 거의 못했어요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33637211</link>
-            <guid>https://tv.naver.com/v/33637211</guid>
-            <pubDate>Sat, 04 Mar 2023 02:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[4:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_83/WBfXM_1677839802031lwVuY_JPEG/1677839775828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

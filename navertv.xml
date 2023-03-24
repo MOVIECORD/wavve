@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 07:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 08:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소울] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/34245712</link>
+            <guid>https://tv.naver.com/v/34245712</guid>
+            <pubDate>Fri, 24 Mar 2023 08:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_42/JelGu_1679644943929nOgHG_JPEG/1679644936307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023년 상반기 웨이브 라인업 공개 | 웨이브]]></title>
             <link>https://tv.naver.com/v/34208675</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 05:09:11 GMT</pubDate>
             <content:encoded><![CDATA[3:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_239/CG351_1677839948077M46aW_JPEG/1677839907218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 야산에 쓰레기 봉투까지 확인했는데 아무것도 없었어요 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/33637244</link>
-            <guid>https://tv.naver.com/v/33637244</guid>
-            <pubDate>Sat, 04 Mar 2023 02:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_138/Zeyi1_1677839875392am4HD_JPEG/1677839848976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

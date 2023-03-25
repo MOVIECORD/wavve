@@ -4,9 +4,33 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 00:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 02:01:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.8] 찾으면 다 나오는데 왜 거짓말해요 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/34294117</link>
+            <guid>https://tv.naver.com/v/34294117</guid>
+            <pubDate>Sat, 25 Mar 2023 02:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_131/LpC2e_16796341681913rRHS_JPEG/1679634090713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.8] 단순히 금전적인 목적은 아니었어요  | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/34294030</link>
+            <guid>https://tv.naver.com/v/34294030</guid>
+            <pubDate>Sat, 25 Mar 2023 02:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_150/ucnCa_1679634036418U2Ygw_JPEG/1679633983938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.8] 그간 편히 잠을 못 잤어요.. 처벌받아야죠 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/34293960</link>
+            <guid>https://tv.naver.com/v/34293960</guid>
+            <pubDate>Sat, 25 Mar 2023 02:01:05 GMT</pubDate>
+            <content:encoded><![CDATA[5:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_116/bNKPq_1679633956841b8lRG_JPEG/1679633897622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소울] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/34245712</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 05 Mar 2023 02:30:55 GMT</pubDate>
             <content:encoded><![CDATA[5:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_211/Az6p7_1677840150751cLo9h_JPEG/1677840120147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 정의는 이긴다. | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/33637322</link>
-            <guid>https://tv.naver.com/v/33637322</guid>
-            <pubDate>Sat, 04 Mar 2023 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_73/LeQgD_1677840072626sk8IV_JPEG/1677840045723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 가족을 잃은 아이를 범인으로 지목하는 피의자 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/33637291</link>
-            <guid>https://tv.naver.com/v/33637291</guid>
-            <pubDate>Sat, 04 Mar 2023 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_73/ethrz_1677840004008KC6uT_JPEG/1677839976959.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 약이 똑같은 거 나왔다고 해도 나는 아닙니다 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/33637274</link>
-            <guid>https://tv.naver.com/v/33637274</guid>
-            <pubDate>Sat, 04 Mar 2023 05:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_239/CG351_1677839948077M46aW_JPEG/1677839907218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

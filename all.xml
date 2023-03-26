@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 00:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 02:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.9] 누군가의 죽음이 남 일 같지 않으니까..  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34294486</link>
+            <guid>https://tv.naver.com/v/34294486</guid>
+            <pubDate>Sun, 26 Mar 2023 02:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_223/Tgzti_16796347080306fCeP_JPEG/1679634629874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.9] 형사님을 형님이라 생각하고 다 털어낼게요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34294432</link>
+            <guid>https://tv.naver.com/v/34294432</guid>
+            <pubDate>Sun, 26 Mar 2023 02:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_38/wA0My_1679634619184b4iCr_JPEG/1679634550436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.9] "범인 잡는 날이 오늘이네" | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34294337</link>
+            <guid>https://tv.naver.com/v/34294337</guid>
+            <pubDate>Sun, 26 Mar 2023 02:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_171/Wpauj_1679634494001rlK0J_JPEG/1679634456773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부│EP.8] 찾으면 다 나오는데 왜 거짓말해요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34294117</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Mar 2023 08:12:18 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230306_14/6VK0Z_1678091275622odeKD_PNG/1678091231755.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 5시간 잠복, 뻔뻔한 피의자의 등장 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33637395</link>
-            <guid>https://tv.naver.com/v/33637395</guid>
-            <pubDate>Sun, 05 Mar 2023 02:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_238/X7pgA_16778402632181CTCK_JPEG/1677840233540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 피의자 입맛대로 해줄 생각 전-혀 없는 형사님들! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33637376</link>
-            <guid>https://tv.naver.com/v/33637376</guid>
-            <pubDate>Sun, 05 Mar 2023 02:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_57/QumXz_1677840209997IuYRB_JPEG/1677840189637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부] 저희가 추적하고 있다는 사실을 알고 휴대폰을 꺼버렸어요.. | 웨이브 오리 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33637358</link>
-            <guid>https://tv.naver.com/v/33637358</guid>
-            <pubDate>Sun, 05 Mar 2023 02:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[5:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_211/Az6p7_1677840150751cLo9h_JPEG/1677840120147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 00:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 02:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.10] 기존에 썼던 수법을 변형 시켰네요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34518931</link>
+            <guid>https://tv.naver.com/v/34518931</guid>
+            <pubDate>Sat, 01 Apr 2023 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_168/rZ7eu_1680253010614F1IhA_JPEG/1680252962705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.10] '아 다 잡았다' 했는데 또.. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34518897</link>
+            <guid>https://tv.naver.com/v/34518897</guid>
+            <pubDate>Sat, 01 Apr 2023 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_165/J0wDM_16802529519939GrrJ_JPEG/1680252908797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.10] 저희가 할 수 있는 게 오로지 뒤따라가는 수밖에 없어요 | 웨이브 오 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34518867</link>
+            <guid>https://tv.naver.com/v/34518867</guid>
+            <pubDate>Sat, 01 Apr 2023 02:00:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_111/2afjb_1680252900882vd0oF_JPEG/1680252825741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부 | 11화 예고] 말 그대로 사회악! 보이스피싱, 뿌리를 뽑다 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34414439</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 02:05:24 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_41/y0Xfm_16784245020468N9kv_JPEG/1678424472040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.4] 하지만 검거할 자신이 있었습니다 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33845263</link>
-            <guid>https://tv.naver.com/v/33845263</guid>
-            <pubDate>Sat, 11 Mar 2023 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_75/gGWJq_167842446217772oP6_JPEG/1678424424425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.4] 돈 없는 조폭들의 과시욕이 만들어 낸 결과물 = 불법 도박 사이트 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33845219</link>
-            <guid>https://tv.naver.com/v/33845219</guid>
-            <pubDate>Sat, 11 Mar 2023 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_41/ikB5G_1678424407312mbX1c_JPEG/1678424321888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부 | EP.5 선공개 ] '용이'를 잡기 위한 숨 막히는 추격전! 용이한 거짓말 편 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33798258</link>
-            <guid>https://tv.naver.com/v/33798258</guid>
-            <pubDate>Thu, 09 Mar 2023 02:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[4:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_204/fQ7GC_1678325070729yrWbj_PNG/1678325037601.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

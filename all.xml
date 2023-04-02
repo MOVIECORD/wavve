@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 00:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 02:01:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.11] 보이스피싱 현금 인출 수거책의 정체 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34519011</link>
+            <guid>https://tv.naver.com/v/34519011</guid>
+            <pubDate>Sun, 02 Apr 2023 02:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_66/O17p3_16802531544009KSmT_JPEG/1680253099689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국가수사본부│EP.11] 압박감을 못 이기고 결국.. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/34518979</link>
+            <guid>https://tv.naver.com/v/34518979</guid>
+            <pubDate>Sun, 02 Apr 2023 02:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_63/VCrpo_1680253069321ClJ8M_JPEG/1680253024160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국가수사본부│EP.10] 기존에 썼던 수법을 변형 시켰네요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/34518931</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 12 Mar 2023 02:18:24 GMT</pubDate>
             <content:encoded><![CDATA[6:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_46/scf4i_1678424618147EPY5n_JPEG/1678424584773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.5] 교도소 경력자 빵잡이가 경찰의 추적을 피하는 방법 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33845333</link>
-            <guid>https://tv.naver.com/v/33845333</guid>
-            <pubDate>Sun, 12 Mar 2023 02:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_40/75xSl_1678424552912Vcx2l_JPEG/1678424514504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.4] 기다렸어요 빨리 문이 열리기를 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/33845296</link>
-            <guid>https://tv.naver.com/v/33845296</guid>
-            <pubDate>Sat, 11 Mar 2023 02:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_41/y0Xfm_16784245020468N9kv_JPEG/1678424472040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 09:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 10:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2]'모' 아니면 '도'야 | 2차 인물 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35117722</link>
+            <guid>https://tv.naver.com/v/35117722</guid>
+            <pubDate>Wed, 19 Apr 2023 10:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_96/IAzov_16818963369043gVkw_JPEG/1681896218463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임 - 덱스 명장면 #1 ] 러브라인부터... 피지컬 모먼트까지! 덱스의 보물상자 💎 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35074326</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 19 Mar 2023 02:17:30 GMT</pubDate>
             <content:encoded><![CDATA[3:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_196/sl09P_1678955317161OQ6fm_JPEG/1678955291531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.7] 가족을 잃은 유가족을 조사한다는 게.. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34041294</link>
-            <guid>https://tv.naver.com/v/34041294</guid>
-            <pubDate>Sun, 19 Mar 2023 02:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_257/jZEgo_16789552535991cbUG_JPEG/1678955177973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

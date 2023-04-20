@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 04:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임 -  덱스 명장면 #2 ] 사실... 칼 춤의 원조는 덱스였다고요...ㅠㅠ !!  | 피의 게임1 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35143750</link>
+            <guid>https://tv.naver.com/v/35143750</guid>
+            <pubDate>Thu, 20 Apr 2023 04:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[14:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_297/usx4M_16819633287789Mwlw_PNG/1681960420657.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2]'모' 아니면 '도'야 | 2차 인물 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35117722</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 08:11:14 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_74/IhiFr_1679375887321YRfmV_PNG/1679375849682.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.7] 문을 열자 가득한 담배 냄새 "금방 잡겠다"  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34041349</link>
-            <guid>https://tv.naver.com/v/34041349</guid>
-            <pubDate>Sun, 19 Mar 2023 02:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_196/sl09P_1678955317161OQ6fm_JPEG/1678955291531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

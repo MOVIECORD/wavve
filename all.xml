@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 10:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 11:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 판을 뒤흔들 브레인 최강자 | 3차 인물 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35159512</link>
+            <guid>https://tv.naver.com/v/35159512</guid>
+            <pubDate>Thu, 20 Apr 2023 11:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_205/hK2at_1681985488502mDhge_JPEG/1681985413935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임 -  덱스 명장면 #2 ] 사실... 칼 춤의 원조는 덱스였다고요...ㅠㅠ !!  | 피의 게임1 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35143750</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 23:07:19 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_151/lY6kM_1679376014876DhbFJ_PNG/1679375976817.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부 | 9화 예고] 산 자의 마지막 순간까지 지켜봐야하는 형사의 낮과 밤...! (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34180350</link>
-            <guid>https://tv.naver.com/v/34180350</guid>
-            <pubDate>Thu, 20 Apr 2023 10:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_74/IhiFr_1679375887321YRfmV_PNG/1679375849682.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

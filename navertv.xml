@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 02:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 03:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 17 Apr 2023 15:09:28 GMT</pubDate>
             <content:encoded><![CDATA[14:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_187/uivZf_1681740510579z2mBe_JPEG/1681740456419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[배드 비해이비어] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/35026471</link>
+            <guid>https://tv.naver.com/v/35026471</guid>
+            <pubDate>Fri, 21 Apr 2023 03:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_218/PYxDx_16817088802539v1Tn_PNG/1681708846715.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[피의 게임2] 각 분야 최고의 플레이어 | 1차 인물 티저 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 08:11:14 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_18/ScIWP_1679381625210nqjhD_PNG/1679381598687.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부 | EP.9 선공개 ] 경주의 호랑이들, 강력계 형사들의 낮과 밤을 살펴보다!]]></title>
-            <link>https://tv.naver.com/v/34180460</link>
-            <guid>https://tv.naver.com/v/34180460</guid>
-            <pubDate>Wed, 22 Mar 2023 23:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_151/lY6kM_1679376014876DhbFJ_PNG/1679375976817.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

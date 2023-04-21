@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 07:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 08:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 20 Apr 2023 04:10:15 GMT</pubDate>
             <content:encoded><![CDATA[14:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_297/usx4M_16819633287789Mwlw_PNG/1681960420657.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임 - 박지민 명장면 #1 ] 게임 예능 중 이런 캐릭터는 없었다... 진정한 정치 여왕 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35143768</link>
+            <guid>https://tv.naver.com/v/35143768</guid>
+            <pubDate>Fri, 21 Apr 2023 08:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[9:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_165/Zzxku_1681963373688xzyBq_PNG/1681960412534.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[피의 게임2]'모' 아니면 '도'야 | 2차 인물 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 09:09:02 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_42/JelGu_1679644943929nOgHG_JPEG/1679644936307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 상반기 웨이브 라인업 공개 | 웨이브 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34208675</link>
-            <guid>https://tv.naver.com/v/34208675</guid>
-            <pubDate>Wed, 22 Mar 2023 00:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_39/cEASa_16794454022740KOf1_JPEG/1679445365088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 00:38:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 02:01:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 20 Apr 2023 11:08:10 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_205/hK2at_1681985488502mDhge_JPEG/1681985413935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임 1-2회 요약] 레전드 게임 예능의 시작, P의 의미는 무엇인가? | 피의 게임1]]></title>
+            <link>https://tv.naver.com/v/35143861</link>
+            <guid>https://tv.naver.com/v/35143861</guid>
+            <pubDate>Sat, 22 Apr 2023 02:01:09 GMT</pubDate>
+            <content:encoded><![CDATA[24:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_61/Kcw03_1681963570348DDpvn_PNG/1681960402930.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[피의 게임 -  덱스 명장면 #2 ] 사실... 칼 춤의 원조는 덱스였다고요...ㅠㅠ !!  | 피의 게임1]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 02:01:05 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_116/bNKPq_1679633956841b8lRG_JPEG/1679633897622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[소울] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/34245712</link>
-            <guid>https://tv.naver.com/v/34245712</guid>
-            <pubDate>Fri, 24 Mar 2023 09:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_42/JelGu_1679644943929nOgHG_JPEG/1679644936307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

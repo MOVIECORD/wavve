@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[FBI 시즌5] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/35262766</link>
+            <guid>https://tv.naver.com/v/35262766</guid>
+            <pubDate>Mon, 24 Apr 2023 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_146/3Bu4c_1682316012193UhQeS_PNG/1682315943360.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 얽히고 설킨 서바이벌 먹이사슬 | 관계성 티저 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/35178735</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 02:01:05 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_131/LpC2e_16796341681913rRHS_JPEG/1679634090713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.8] 단순히 금전적인 목적은 아니었어요  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/34294030</link>
-            <guid>https://tv.naver.com/v/34294030</guid>
-            <pubDate>Sat, 25 Mar 2023 02:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[4:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_150/ucnCa_1679634036418U2Ygw_JPEG/1679633983938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

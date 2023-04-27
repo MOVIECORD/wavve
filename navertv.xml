@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 02:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박하경 여행기] 이나영과 딱 하루! 떠나요🌸 | 1차 예고 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/35354179</link>
+            <guid>https://tv.naver.com/v/35354179</guid>
+            <pubDate>Thu, 27 Apr 2023 03:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_288/APQT9_1682512402133meEGv_PNG/1682512105561.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[FBI 시즌5] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/35262766</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Mar 2023 02:10:22 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_171/Wpauj_1679634494001rlK0J_JPEG/1679634456773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.8] 찾으면 다 나오는데 왜 거짓말해요 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/34294117</link>
-            <guid>https://tv.naver.com/v/34294117</guid>
-            <pubDate>Sat, 25 Mar 2023 02:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_131/LpC2e_16796341681913rRHS_JPEG/1679634090713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 02:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 피의 저택으로 오신 걸 환영합니다🩸🩸│1화 선공개 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/35408383</link>
+            <guid>https://tv.naver.com/v/35408383</guid>
+            <pubDate>Fri, 28 Apr 2023 03:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[10:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_61/mwtch_1682648542835mehYV_JPEG/1682648371032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박하경 여행기] 이나영과 딱 하루! 떠나요🌸 | 1차 예고 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/35354179</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Mar 2023 02:10:22 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_38/wA0My_1679634619184b4iCr_JPEG/1679634550436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.9] "범인 잡는 날이 오늘이네" | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/34294337</link>
-            <guid>https://tv.naver.com/v/34294337</guid>
-            <pubDate>Sun, 26 Mar 2023 02:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_171/Wpauj_1679634494001rlK0J_JPEG/1679634456773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

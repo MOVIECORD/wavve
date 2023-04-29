@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 02:31:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 03:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 죽여야만 살아남는 세상으로 들어간 플레이어들🩸│1화 하이라이트 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35424347</link>
+            <guid>https://tv.naver.com/v/35424347</guid>
+            <pubDate>Sat, 29 Apr 2023 03:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[22:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_278/RojQ0_1682674843191wr8Lj_JPEG/1682674839300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 각 분야 T.O.P 피겜 2 플레이어들 나무위키로 집합하다? 입벌려 팩트 들어간다~ (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35420732</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Mar 2023 08:11:56 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_44/byxaG_1679993602956ptl6R_PNG/1679993599984.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부 | 10화 예고] 절도범과의 롤러코스터 수사가 시작되다..! | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34414366</link>
-            <guid>https://tv.naver.com/v/34414366</guid>
-            <pubDate>Wed, 29 Mar 2023 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_254/DgFxX_1679993470226Qnjht_PNG/1679993465575.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

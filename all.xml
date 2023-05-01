@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 00:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 02:01:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Sat, 29 Apr 2023 02:00:54 GMT</pubDate>
             <content:encoded><![CDATA[12:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_27/UsvVN_16826906489851PNzs_PNG/1682690645774.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 시즌 2에는 물건만 훔치지 않아 이제 알겠어? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35413826</link>
+            <guid>https://tv.naver.com/v/35413826</guid>
+            <pubDate>Mon, 01 May 2023 02:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_136/NWuvO_16826589122311kIXV_JPEG/1682658855119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 세계 포커 대회만큼 떨리는 리얼 타임 챌린지⌚ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35413789</link>
+            <guid>https://tv.naver.com/v/35413789</guid>
+            <pubDate>Mon, 01 May 2023 02:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_58/U1N8o_1682658843669KP8jE_JPEG/1682658788894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[피의 게임2] 잡아야지~ 못 잡겠지~? 닭이랑 밀당하는 덱스🤣 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 02:01:29 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_63/VCrpo_1680253069321ClJ8M_JPEG/1680253024160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.10] 기존에 썼던 수법을 변형 시켰네요 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34518931</link>
-            <guid>https://tv.naver.com/v/34518931</guid>
-            <pubDate>Sat, 01 Apr 2023 02:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_168/rZ7eu_1680253010614F1IhA_JPEG/1680252962705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.10] '아 다 잡았다' 했는데 또.. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34518897</link>
-            <guid>https://tv.naver.com/v/34518897</guid>
-            <pubDate>Sat, 01 Apr 2023 02:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_165/J0wDM_16802529519939GrrJ_JPEG/1680252908797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 09:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 10:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 극과 극 생존 환경 | 1-2화 하이라이트 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/35530299</link>
+            <guid>https://tv.naver.com/v/35530299</guid>
+            <pubDate>Tue, 02 May 2023 10:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[13:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_226/p1FHi_16830196315618oTDu_JPEG/1683019481862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 죽여야만 살아남는 세상으로 들어간 플레이어들🩸│1화 하이라이트]]></title>
             <link>https://tv.naver.com/v/35424347</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 02:01:29 GMT</pubDate>
             <content:encoded><![CDATA[3:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_66/O17p3_16802531544009KSmT_JPEG/1680253099689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.11] 압박감을 못 이기고 결국.. | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/34518979</link>
-            <guid>https://tv.naver.com/v/34518979</guid>
-            <pubDate>Sun, 02 Apr 2023 02:01:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_63/VCrpo_1680253069321ClJ8M_JPEG/1680253024160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

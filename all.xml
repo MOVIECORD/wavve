@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 10:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 11:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2│미공개 영상🩸] 라스베이거스,강원도 절대 출입 금지당한 💩손 덱스,, (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35608629</link>
+            <guid>https://tv.naver.com/v/35608629</guid>
+            <pubDate>Thu, 04 May 2023 11:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[11:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_58/06XGR_1683192542364k2KF1_JPEG/1683192496614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2│미공개 영상🩸] 덱스도 느낀 감자의 참맛 BUT... 얼마가지 못한 행복.... (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35608590</link>
+            <guid>https://tv.naver.com/v/35608590</guid>
+            <pubDate>Thu, 04 May 2023 11:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_216/BaoS8_1683192485348ueltp_JPEG/1683192429846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[박하경 여행기] 서울에서 제주까지, 이나영과 떠나는 딱 하루의 여행 | 2차 예고 | 웨이브 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35591211</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 00:36:21 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_177/eUoAc_1680825437751xLanF_JPEG/1680825434584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.12] 서로가 시켜서 어쩔 수 없이 저질렀다는 범행 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34683732</link>
-            <guid>https://tv.naver.com/v/34683732</guid>
-            <pubDate>Sat, 08 Apr 2023 01:53:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_19/csVb1_1680756316320XwgFz_JPEG/1680756280373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국가수사본부│EP.12] 차를 쫓는 과정에서 수상한 걸 발견했습니다 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/34683714</link>
-            <guid>https://tv.naver.com/v/34683714</guid>
-            <pubDate>Sat, 08 Apr 2023 01:53:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230406_140/qDfag_1680756272388fPom4_JPEG/1680756228235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

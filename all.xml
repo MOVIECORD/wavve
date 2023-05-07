@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 00:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 02:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 스파이를 찾아냈지만 승부는 이미 끝난 뒤.. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35628266</link>
+            <guid>https://tv.naver.com/v/35628266</guid>
+            <pubDate>Sun, 07 May 2023 02:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_268/cW1s7_1683262325479dFuc0_JPEG/1683262288726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] ♨♨도파민 폭발♨♨ 봐도 봐도 소름 돋는 피지컬 정면 승부!! | 웨이브 오리 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35628251</link>
+            <guid>https://tv.naver.com/v/35628251</guid>
+            <pubDate>Sun, 07 May 2023 02:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_70/eAdn0_1683262280146cxPc0_JPEG/1683262248379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 저택의 상징은 부셨고.. 다음은 너야 진형아 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35628229</link>
+            <guid>https://tv.naver.com/v/35628229</guid>
+            <pubDate>Sun, 07 May 2023 02:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_5/xDSTp_1683262239662kr8aw_JPEG/1683262212751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 윤비 저 사람 제 정신인가..? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35628205</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 08:13:45 GMT</pubDate>
             <content:encoded><![CDATA[9:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_165/Zzxku_1681963373688xzyBq_PNG/1681960412534.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2]'모' 아니면 '도'야 | 2차 인물 티저 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35117722</link>
-            <guid>https://tv.naver.com/v/35117722</guid>
-            <pubDate>Wed, 19 Apr 2023 10:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_96/IAzov_16818963369043gVkw_JPEG/1681896218463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임 - 덱스 명장면 #1 ] 러브라인부터... 피지컬 모먼트까지! 덱스의 보물상자 💎 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35074326</link>
-            <guid>https://tv.naver.com/v/35074326</guid>
-            <pubDate>Tue, 18 Apr 2023 09:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[13:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_86/6DKJa_1681805166369YUv5b_PNG/1681805114448.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] '똑똑클럽 유망주' 덱스가 말하는 P의 의미 & 역대급 사고는?!!│웨이브 오리지 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35049178</link>
-            <guid>https://tv.naver.com/v/35049178</guid>
-            <pubDate>Mon, 17 Apr 2023 15:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[14:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_187/uivZf_1681740510579z2mBe_JPEG/1681740456419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

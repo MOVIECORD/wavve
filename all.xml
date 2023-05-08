@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 00:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 02:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 홍진호와 "2"와의 질긴 악연을 파헤치다? 피겜2 출연자들의 나무위키 썰 푼다~ (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35694033</link>
+            <guid>https://tv.naver.com/v/35694033</guid>
+            <pubDate>Mon, 08 May 2023 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[13:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_210/si86Y_1683507666932vffE4_JPEG/1683507583849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 뒤는 없는 다윗과 골리앗... 격돌하는 덱스와 하승진! 습격의 날이 밝다│4화 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35693994</link>
+            <guid>https://tv.naver.com/v/35693994</guid>
+            <pubDate>Mon, 08 May 2023 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[10:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_215/qDMWg_1683507571617n3BEx_JPEG/765c3fe8-ed35-11ed-a676-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 🚪문이 열리네요... 파이가 들어오죠... 어... 네?│3화 하이라이트 | 웨이브 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35693980</link>
+            <guid>https://tv.naver.com/v/35693980</guid>
+            <pubDate>Mon, 08 May 2023 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[13:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_200/D3Igv_1683507531558moFFo_PNG/1683507479951.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 스파이를 찾아냈지만 승부는 이미 끝난 뒤.. | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/35628266</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 23 Apr 2023 02:10:21 GMT</pubDate>
             <content:encoded><![CDATA[29:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_109/1Ewmd_1681963703123HUdzd_PNG/1681960433520.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임 1-2회 요약] 레전드 게임 예능의 시작, P의 의미는 무엇인가? | 피의 게임1 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35143861</link>
-            <guid>https://tv.naver.com/v/35143861</guid>
-            <pubDate>Sat, 22 Apr 2023 02:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[24:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_61/Kcw03_1681963570348DDpvn_PNG/1681960402930.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임 -  덱스 명장면 #2 ] 사실... 칼 춤의 원조는 덱스였다고요...ㅠㅠ !!  | 피의 게임1 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35143750</link>
-            <guid>https://tv.naver.com/v/35143750</guid>
-            <pubDate>Thu, 20 Apr 2023 04:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[14:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_297/usx4M_16819633287789Mwlw_PNG/1681960420657.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임 - 박지민 명장면 #1 ] 게임 예능 중 이런 캐릭터는 없었다... 진정한 정치 여왕 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35143768</link>
-            <guid>https://tv.naver.com/v/35143768</guid>
-            <pubDate>Fri, 21 Apr 2023 08:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[9:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_165/Zzxku_1681963373688xzyBq_PNG/1681960412534.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

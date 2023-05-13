@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 01:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 02:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Fri, 12 May 2023 02:27:01 GMT</pubDate>
             <content:encoded><![CDATA[12:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_84/f7hAW_1683855680880212NQ_PNG/1683855656657.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 감옥 나갈 수 있긴 한데 나가지 말라고 해서 그냥 있었어(?) | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/35811440</link>
+            <guid>https://tv.naver.com/v/35811440</guid>
+            <pubDate>Sat, 13 May 2023 02:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_208/NZjHX_1683767824717F0yE2_JPEG/1683767787855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 이겼지만 졌고.. 졌지만 이긴 게임😣🃏 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/35811415</link>
+            <guid>https://tv.naver.com/v/35811415</guid>
+            <pubDate>Sat, 13 May 2023 02:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_187/TeOc1_1683767778472ANvHi_JPEG/1683767640612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 상대의 함정까지 파악하는 홍진호의 미친 플레이..ㄷㄷ | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/35811331</link>
+            <guid>https://tv.naver.com/v/35811331</guid>
+            <pubDate>Sat, 13 May 2023 02:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_109/9GrRn_1683767599623C2i7c_JPEG/1683767286828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ 피의 게임2│미공개 영상🩸] 저택팀의 금손은 과연 누구? 저택팀의 유령카지노!]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 29 Apr 2023 02:00:54 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_189/mM8LI_1682658690239I391S_JPEG/1682658656965.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 대화를 시도했으나 듣다 보니 개소리네?  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/35413659</link>
-            <guid>https://tv.naver.com/v/35413659</guid>
-            <pubDate>Sat, 29 Apr 2023 02:00:54 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_200/TIXoY_1682658648986cVtle_JPEG/1682658614457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 아직 감도 못잡은 다른 플레이어들과 그 모습이 당황스러운 멘사 회원 유리사]]></title>
-            <link>https://tv.naver.com/v/35413626</link>
-            <guid>https://tv.naver.com/v/35413626</guid>
-            <pubDate>Sat, 29 Apr 2023 02:00:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_173/TSPpt_1682658605560F8nws_JPEG/1682658329162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 피의 저택으로 오신 걸 환영합니다🩸🩸│1화 선공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/35408383</link>
-            <guid>https://tv.naver.com/v/35408383</guid>
-            <pubDate>Fri, 28 Apr 2023 03:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[10:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_61/mwtch_1682648542835mehYV_JPEG/1682648371032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

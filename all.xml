@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 00:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 02:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,30 @@
             <pubDate>Fri, 12 May 2023 02:27:01 GMT</pubDate>
             <content:encoded><![CDATA[12:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_84/f7hAW_1683855680880212NQ_PNG/1683855656657.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 어떻게 저런 말들을 아무 거리낌 없이 뱉지? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35811525</link>
+            <guid>https://tv.naver.com/v/35811525</guid>
+            <pubDate>Sun, 14 May 2023 02:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_298/zQsSb_1683767986604Dbgb8_JPEG/1683767951381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 종료 30초 전까지 멈추지 않은 도전 그리고 냉정한 결과 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35811500</link>
+            <guid>https://tv.naver.com/v/35811500</guid>
+            <pubDate>Sun, 14 May 2023 02:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_74/SlBYe_1683767942764jBs1E_JPEG/1683767917543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] ➕➖홍진호도 관전한 미쳐버린 서출구✖️➗ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35811482</link>
+            <guid>https://tv.naver.com/v/35811482</guid>
+            <pubDate>Sun, 14 May 2023 02:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_68/r7I0I_16837679044949dJKk_JPEG/1683767852985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[피의 게임2] 감옥 나갈 수 있긴 한데 나가지 말라고 해서 그냥 있었어(?) | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 29 Apr 2023 02:00:54 GMT</pubDate>
             <content:encoded><![CDATA[12:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_27/UsvVN_16826906489851PNzs_PNG/1682690645774.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 시즌 2에는 물건만 훔치지 않아 이제 알겠어? | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35413826</link>
-            <guid>https://tv.naver.com/v/35413826</guid>
-            <pubDate>Mon, 01 May 2023 02:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_136/NWuvO_16826589122311kIXV_JPEG/1682658855119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 세계 포커 대회만큼 떨리는 리얼 타임 챌린지⌚ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35413789</link>
-            <guid>https://tv.naver.com/v/35413789</guid>
-            <pubDate>Mon, 01 May 2023 02:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_58/U1N8o_1682658843669KP8jE_JPEG/1682658788894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 잡아야지~ 못 잡겠지~? 닭이랑 밀당하는 덱스🤣 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35413744</link>
-            <guid>https://tv.naver.com/v/35413744</guid>
-            <pubDate>Sun, 30 Apr 2023 02:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_47/w1Foi_1682658779724SWu6o_JPEG/1682658744815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

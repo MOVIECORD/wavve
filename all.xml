@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:00:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 02:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 피의 게임2│미공개 영상🩸] 히든팀의 새로운 다크호스? 덱스의 중.꺾.마! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36045850</link>
+            <guid>https://tv.naver.com/v/36045850</guid>
+            <pubDate>Thu, 18 May 2023 02:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[13:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_68/ZgHnv_1684374986043Be72e_PNG/1684374984228.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2 | 7-8화 예고 ] 긴장을 놓칠 수 없는... 게임의 연속!!! "게임을 X같이 만들었네..." (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36018258</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 May 2023 02:28:30 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_171/F5SX5_1683165631318C2YX1_JPEG/1683165348486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라 브레아 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35551998</link>
-            <guid>https://tv.naver.com/v/35551998</guid>
-            <pubDate>Fri, 12 May 2023 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230509_130/ddPR9_1683596834322uq3oC_PNG/1683596831365.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

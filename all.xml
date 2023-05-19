@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 02:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 16 May 2023 02:02:54 GMT</pubDate>
             <content:encoded><![CDATA[25:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230515_93/lDYGu_1684132300346jYhG3_JPEG/1684131747277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[퀀텀 리프] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/35927194</link>
+            <guid>https://tv.naver.com/v/35927194</guid>
+            <pubDate>Fri, 19 May 2023 03:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_266/PgCFm_1684114671951ehGFz_PNG/1684114631096.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[박하경 여행기] 8인 8색! 뭘 좋아할지 몰라서 다 준비했어🤗 | 캐릭터 인터랙티브 영상 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 May 2023 11:08:01 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_216/BaoS8_1683192485348ueltp_JPEG/1683192429846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기] 서울에서 제주까지, 이나영과 떠나는 딱 하루의 여행 | 2차 예고 | 웨이브 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35591211</link>
-            <guid>https://tv.naver.com/v/35591211</guid>
-            <pubDate>Thu, 04 May 2023 02:28:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_171/F5SX5_1683165631318C2YX1_JPEG/1683165348486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

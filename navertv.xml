@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 02:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 거절하면? 데스매치 다음은 너야 | 7-8화 하이라이트 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/36178968</link>
+            <guid>https://tv.naver.com/v/36178968</guid>
+            <pubDate>Tue, 23 May 2023 03:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[27:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_295/WUWK0_16847359364498hrot_JPEG/1684735833455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일, 과제, 야근...😱 사라져버리고 싶을 땐? [박하경 여행기] 5월 24일 Wavve 공개]]></title>
             <link>https://tv.naver.com/v/36176340</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 May 2023 02:02:00 GMT</pubDate>
             <content:encoded><![CDATA[13:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_200/D3Igv_1683507531558moFFo_PNG/1683507479951.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 스파이를 찾아냈지만 승부는 이미 끝난 뒤.. | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/35628266</link>
-            <guid>https://tv.naver.com/v/35628266</guid>
-            <pubDate>Sun, 07 May 2023 02:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_268/cW1s7_1683262325479dFuc0_JPEG/1683262288726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

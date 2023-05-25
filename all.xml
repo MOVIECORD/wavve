@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 22:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 00:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박하경 여행기] 뜻밖의 인연들과의 뜻밖의 웃참ㅋㅋ| 제작기 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36272305</link>
+            <guid>https://tv.naver.com/v/36272305</guid>
+            <pubDate>Thu, 25 May 2023 00:39:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_300/BfJGW_1684923257315oQ69x_JPEG/1684923183987.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 거절하면? 데스매치 다음은 너야 | 7-8화 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36178968</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 May 2023 02:02:00 GMT</pubDate>
             <content:encoded><![CDATA[10:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_215/qDMWg_1683507571617n3BEx_JPEG/765c3fe8-ed35-11ed-a676-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 🚪문이 열리네요... 파이가 들어오죠... 어... 네?│3화 하이라이트 | 웨이브 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35693980</link>
-            <guid>https://tv.naver.com/v/35693980</guid>
-            <pubDate>Mon, 08 May 2023 02:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[13:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_200/D3Igv_1683507531558moFFo_PNG/1683507479951.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

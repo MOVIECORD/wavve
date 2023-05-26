@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 05:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 06:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 피의 게임 살벌하다던데... 본캐는 개쫄이네요(?) | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/36341751</link>
+            <guid>https://tv.naver.com/v/36341751</guid>
+            <pubDate>Fri, 26 May 2023 06:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[10:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_14/U8rEl_1685078134009UnWNB_JPEG/1685078025518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ 피의 게임2│9-10화 선공개 영상🩸] 하승진의 깽판플랜(?)이 시작되다?]]></title>
             <link>https://tv.naver.com/v/36307717</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
             <content:encoded><![CDATA[10:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_186/abxV6_168376529581495cgp_PNG/1683765080053.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2 | 5-6화 예고 ] 두뇌 최강자들의 핏빛혈투가 시작된다...!  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/35784549</link>
-            <guid>https://tv.naver.com/v/35784549</guid>
-            <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_151/Y3AP1_1683711487709Mb6V6_PNG/1683711483966.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

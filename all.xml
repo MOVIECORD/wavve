@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 09:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 10:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 피의 게임2│미공개 영상🩸] 데스매치? = 수다 타임!! (feat. 야식) | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36463566</link>
+            <guid>https://tv.naver.com/v/36463566</guid>
+            <pubDate>Tue, 30 May 2023 10:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[10:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_297/8k6Hg_16854382058092GrOU_JPEG/1685438160753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 승리를 위한 끊임없는 배신 | 9-10화 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36412771</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_181/SVYVr_1684306218929zTbmt_PNG/1684306214879.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 팀 운명이 걸린 머니 챌린지 | 5-6화 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/35937253</link>
-            <guid>https://tv.naver.com/v/35937253</guid>
-            <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[25:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_93/lDYGu_1684132300346jYhG3_JPEG/1684131747277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

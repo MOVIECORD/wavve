@@ -4,9 +4,33 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 00:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 02:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 피의 게임2│11-12화 선공개 영상🩸] 사실상 혼자 남은 상태죠 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/36567343</link>
+            <guid>https://tv.naver.com/v/36567343</guid>
+            <pubDate>Fri, 02 Jun 2023 02:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[9:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_206/PZARb_1685668181321Brp2H_JPEG/1685668054060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박하경 여행기 | 6화 ] "쌤! 꼭 갚으세요!" 학생에게 빌린 만원 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/36539263</link>
+            <guid>https://tv.naver.com/v/36539263</guid>
+            <pubDate>Fri, 02 Jun 2023 02:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_146/IMvsv_1685600832388WDIhT_JPEG/1685600644676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박하경 여행기 | 5화 ] 이나영과는 평생 아무 상관없을 줄 알았던 '춤' | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/36539106</link>
+            <guid>https://tv.naver.com/v/36539106</guid>
+            <pubDate>Fri, 02 Jun 2023 02:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_218/uno97_1685600634610UOmTg_JPEG/1685600485410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ 피의 게임2│미공개 영상🩸] 데스매치? = 수다 타임!! (feat. 야식) | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/36463566</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
             <content:encoded><![CDATA[5:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_236/QhEnx_1684320368970mupaN_JPEG/1684320334467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 덱스 = 가.몸.지(가오가 몸을 지배한 남자) 출동🏃 🏃 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36027359</link>
-            <guid>https://tv.naver.com/v/36027359</guid>
-            <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_179/Z1pGE_1684320287861Bud1s_JPEG/1684320247384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 넉스를 뱀새끼로 단단히 오해한 서출구..!😖 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36027315</link>
-            <guid>https://tv.naver.com/v/36027315</guid>
-            <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[6:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_9/cUP5w_1684320224054aOaLf_JPEG/1684320159228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 누나한테 미안해서 찾아왔어요.. | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36027248</link>
-            <guid>https://tv.naver.com/v/36027248</guid>
-            <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_239/w01JL_1684320126405RN8Ab_JPEG/1684320080361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

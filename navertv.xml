@@ -4,9 +4,25 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 02:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 03:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 피의 게임 2│12화 하이라이트 ]  오빠 진짜 싹수가 노랗구나...? 이진형에 현지... 대분노..]]></title>
+            <link>https://tv.naver.com/v/36577305</link>
+            <guid>https://tv.naver.com/v/36577305</guid>
+            <pubDate>Sat, 03 Jun 2023 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[16:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_267/RMgtH_1685684719776C9Uq5_PNG/1685684717826.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 피의 게임 2│11화 하이라이트 ]"너 그걸 배신이라고 하는거야" 불순의 움직임을 포착하]]></title>
+            <link>https://tv.naver.com/v/36577262</link>
+            <guid>https://tv.naver.com/v/36577262</guid>
+            <pubDate>Sat, 03 Jun 2023 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[16:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_231/dbNfz_1685684731345arFYG_PNG/1685684728238.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 그래서.. 단물만 쏙 빨아먹고 가겠다? | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/36567468</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
             <content:encoded><![CDATA[27:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230522_295/WUWK0_16847359364498hrot_JPEG/1684735833455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일, 과제, 야근...😱 사라져버리고 싶을 땐? [박하경 여행기] 5월 24일 Wavve 공개]]></title>
-            <link>https://tv.naver.com/v/36176340</link>
-            <guid>https://tv.naver.com/v/36176340</guid>
-            <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_87/WYT3N_1684732564488ecz4q_JPEG/3f13d85b-f85f-11ed-b7b7-48df37e2c014_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 피의 게임 2│8화 하이라이트 ] 지옥에서 돌아온 XXX, "그러니까 누나 말 들으라 했잖아"]]></title>
-            <link>https://tv.naver.com/v/36107721</link>
-            <guid>https://tv.naver.com/v/36107721</guid>
-            <pubDate>Fri, 26 May 2023 02:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[11:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_147/JfLYY_1684491198905yKq32_PNG/1684491073484.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

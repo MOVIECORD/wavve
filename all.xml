@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 05:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 06:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 06 Jun 2023 02:24:05 GMT</pubDate>
             <content:encoded><![CDATA[8:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230606_162/dHmRf_1686010121987h8zPJ_PNG/1686010068029.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 영원한 연합은 없다 | 11-12화 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36669261</link>
+            <guid>https://tv.naver.com/v/36669261</guid>
+            <pubDate>Tue, 06 Jun 2023 06:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[29:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_97/ExVku_1685956469658ppatQ_JPEG/1685956181228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ 피의 게임2│미공개 영상🩸] 팔굽혀펴기 400번하고 성대모사 하는 덱스의 하루..ㅋㅋㅋ (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 May 2023 02:31:04 GMT</pubDate>
             <content:encoded><![CDATA[4:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_145/hgE86_1685090964515WbagD_JPEG/1685090932929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 피의 게임 2│9-10화 하이라이트 ]  유령의 "유리사" , 서출구표 최강빌런 "하승진" ?!  | 웨 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36346954</link>
-            <guid>https://tv.naver.com/v/36346954</guid>
-            <pubDate>Sat, 27 May 2023 02:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[19:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_158/37OYp_1685084713504IHO3V_JPEG/795f0d72-fb93-11ed-8bd0-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

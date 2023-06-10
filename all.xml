@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 00:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 02:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 피의 게임 2│13화 하이라이트 ] "피의 게임이 종료되었습니다."  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36819517</link>
+            <guid>https://tv.naver.com/v/36819517</guid>
+            <pubDate>Sat, 10 Jun 2023 02:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[17:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_76/V2mVq_1686294929713Vrp8G_JPEG/1686294875503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 상대가 눈치채지 못한 순간에 내 길을 뚫고 있었죠 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36817476</link>
+            <guid>https://tv.naver.com/v/36817476</guid>
+            <pubDate>Sat, 10 Jun 2023 02:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_288/HgehP_1686292143533jWUv6_JPEG/1686292057065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 우승자의 특권이 독이 된 순간  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36817405</link>
+            <guid>https://tv.naver.com/v/36817405</guid>
+            <pubDate>Sat, 10 Jun 2023 02:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_162/8Lkzb_1686292038870l8960_JPEG/1686291956789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피의 게임2] 홍진호만 기억한 모두가 놓친 룰 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36817341</link>
+            <guid>https://tv.naver.com/v/36817341</guid>
+            <pubDate>Sat, 10 Jun 2023 02:12:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_267/0qwkp_1686291937536DF7oE_JPEG/1686291852012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2 | 14화 예고 ] 끝난 줄 알았지?! 하드까지 다 턴 미방분이 온다..! | 웨이브 오리 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36816379</link>
@@ -214,38 +246,6 @@
             <pubDate>Sun, 28 May 2023 02:13:01 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230527_80/12lYe_1685160104970ibOsX_JPEG/1685160045262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기 | 2화 ] 자신의 작품 "초상화"를 두고 언쟁을 높히는 한예리....!  | 웨이브 오 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36355536</link>
-            <guid>https://tv.naver.com/v/36355536</guid>
-            <pubDate>Sat, 27 May 2023 02:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_132/1dFB6_1685097527165hz4HV_JPEG/3252706f-fbb1-11ed-954b-a0369ffac1d8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기 | 1화 ] 이상한 사람들 투성인 템플스테이에 온 박하경...  |웨이브 오리지 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36355505</link>
-            <guid>https://tv.naver.com/v/36355505</guid>
-            <pubDate>Fri, 26 May 2023 12:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_281/7tUsy_16850974675237rgiN_JPEG/1685097442222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 연합이 늘어날수록 누군가는 버려져야 한다 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36352266</link>
-            <guid>https://tv.naver.com/v/36352266</guid>
-            <pubDate>Sun, 28 May 2023 02:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_126/XKpLz_1685091336344jhP4t_JPEG/1685091306977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 윤비가 홍진호를 협박하는데 성공했다고? ㄷㄷ | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36352242</link>
-            <guid>https://tv.naver.com/v/36352242</guid>
-            <pubDate>Sun, 28 May 2023 02:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_146/UAoK2_1685091299417sn9qx_JPEG/1685091261646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

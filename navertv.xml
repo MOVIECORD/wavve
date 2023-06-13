@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 05:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 06:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피의 게임2] 드디어 공개된 최후의 1인 | 13화 하이라이트 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/36935271</link>
+            <guid>https://tv.naver.com/v/36935271</guid>
+            <pubDate>Tue, 13 Jun 2023 06:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[20:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_22/hlV2l_1686632511995WDUYn_JPEG/1686632400705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ 피의 게임 2│13화 하이라이트 ] "피의 게임이 종료되었습니다."  | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/36819517</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 May 2023 03:09:07 GMT</pubDate>
             <content:encoded><![CDATA[29:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230529_248/91JXi_1685317560672iGNDH_JPEG/1685317311571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기 | 4화 ] 우연히 만난 'Gone Days' 선생님ㅠ 제가 진짜 선생인데요..| 웨이브 오]]></title>
-            <link>https://tv.naver.com/v/36371781</link>
-            <guid>https://tv.naver.com/v/36371781</guid>
-            <pubDate>Mon, 29 May 2023 02:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_140/cw3ND_1685160258550LGqlu_JPEG/1685160113406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

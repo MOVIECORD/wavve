@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 07:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 08:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박하경 여행기] 쓸데없이 싸우고 이유없이 즐거운 찐친과의 여행🚆 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/36945816</link>
+            <guid>https://tv.naver.com/v/36945816</guid>
+            <pubDate>Wed, 14 Jun 2023 08:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_62/OxT0F_1686646035395KGFu7_JPEG/1686645988158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피의 게임2] 드디어 공개된 최후의 1인 | 13화 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/36935271</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 May 2023 02:21:45 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_72/qJDsY_1685435241750nW726_JPEG/1685435175801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 승리를 위한 끊임없는 배신 | 9-10화 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36412771</link>
-            <guid>https://tv.naver.com/v/36412771</guid>
-            <pubDate>Mon, 29 May 2023 03:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[29:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_248/91JXi_1685317560672iGNDH_JPEG/1685317311571.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

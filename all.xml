@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 10:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 11:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[남의 연애2] "이런 기분이었구나" 다시 시작되는 그들의 이야기 💞 | 2차 티저 | 웨이브 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/37311461</link>
+            <guid>https://tv.naver.com/v/37311461</guid>
+            <pubDate>Fri, 23 Jun 2023 11:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_72/rdswv_1687516874868ByzX2_JPEG/1687516845679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[남의 연애2] "엄청 떨려요" 생애 첫 소개팅이 시작됩니다❣ | 3차 티저 | 웨이브 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/37191607</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 02:14:57 GMT</pubDate>
             <content:encoded><![CDATA[4:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_192/asriK_1685601022605UnNGk_JPEG/1685600841666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기 | 6화 ] "쌤! 꼭 갚으세요!" 학생에게 빌린 만원 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36539263</link>
-            <guid>https://tv.naver.com/v/36539263</guid>
-            <pubDate>Fri, 02 Jun 2023 02:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_146/IMvsv_1685600832388WDIhT_JPEG/1685600644676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

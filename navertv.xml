@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 02:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 03:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[타운 콜 말리스] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/38158960</link>
+            <guid>https://tv.naver.com/v/38158960</guid>
+            <pubDate>Fri, 21 Jul 2023 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_182/Pp3Vr_1689654748057BhmVo_PNG/1689654703446.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[데드드리프트] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/37740963</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[4:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_183/r4jSH_1685668516834g0651_JPEG/1685668480045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 그래서.. 단물만 쏙 빨아먹고 가겠다? | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36567468</link>
-            <guid>https://tv.naver.com/v/36567468</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_180/82bK6_1685668449621nUtyT_JPEG/1685668419679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 07:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 08:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12 몽키즈 시즌1] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/38390824</link>
+            <guid>https://tv.naver.com/v/38390824</guid>
+            <pubDate>Fri, 28 Jul 2023 08:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_219/FGIrM_1690264404784riJyU_JPEG/1690264300834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[타운 콜 말리스] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/38158960</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_105/eUqeZ_1685668562952obGBR_JPEG/1685668529420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 길동무 찾으러 온 유령 플레이어들 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36567491</link>
-            <guid>https://tv.naver.com/v/36567491</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_183/r4jSH_1685668516834g0651_JPEG/1685668480045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

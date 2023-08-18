@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 08:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 09:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씰팀 시즌6] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39046228</link>
+            <guid>https://tv.naver.com/v/39046228</guid>
+            <pubDate>Fri, 18 Aug 2023 09:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_279/fBRla_1691992964779hs1YB_JPEG/1691992875562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[벨 에어 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/38957999</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[16:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_267/RMgtH_1685684719776C9Uq5_PNG/1685684717826.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 피의 게임 2│11화 하이라이트 ]"너 그걸 배신이라고 하는거야" 불순의 움직임을 포착하 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36577262</link>
-            <guid>https://tv.naver.com/v/36577262</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[16:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_231/dbNfz_1685684731345arFYG_PNG/1685684728238.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

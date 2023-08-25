@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 08:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 09:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[피치 퍼펙트: 범퍼 인 베를린] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39363145</link>
+            <guid>https://tv.naver.com/v/39363145</guid>
+            <pubDate>Fri, 25 Aug 2023 09:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_160/ya3Fm_1692765269322gYgAM_JPEG/1692765079583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씰팀 시즌6] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/39046228</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_1/j4aM2_1685695933199EBuNA_JPEG/1685695833714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 피의 게임 2│12화 하이라이트 ]  오빠 진짜 싹수가 노랗구나...? 이진형에 현지... 대분노.. (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36577305</link>
-            <guid>https://tv.naver.com/v/36577305</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[16:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_267/RMgtH_1685684719776C9Uq5_PNG/1685684717826.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

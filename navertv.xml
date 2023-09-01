@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 02:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더 콜링] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/39668729</link>
+            <guid>https://tv.naver.com/v/39668729</guid>
+            <pubDate>Fri, 01 Sep 2023 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_262/UnXBu_1693441821496EqVoD_PNG/1693441782816.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[피치 퍼펙트: 범퍼 인 베를린] 공식 예고편 | 웨이브 해외시리즈]]></title>
             <link>https://tv.naver.com/v/39363145</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[4:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230604_41/6QHdS_1685841155157XrGni_JPEG/1685841108030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기] 내 황금 같은 주말을 뺏겼ㄷr.. | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36586903</link>
-            <guid>https://tv.naver.com/v/36586903</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_1/j4aM2_1685695933199EBuNA_JPEG/1685695833714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

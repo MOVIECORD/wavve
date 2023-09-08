@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 08:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 09:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 08 Sep 2023 00:35:01 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230907_239/Yicxh_1694085746515zXvoh_JPEG/1694084293470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[법키스] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/39866513</link>
+            <guid>https://tv.naver.com/v/39866513</guid>
+            <pubDate>Fri, 08 Sep 2023 09:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_95/q1ojk_1693888233508v7lLj_JPEG/1693888153525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더 콜링] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[8:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230606_162/dHmRf_1686010121987h8zPJ_PNG/1686010068029.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 영원한 연합은 없다 | 11-12화 하이라이트 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36669261</link>
-            <guid>https://tv.naver.com/v/36669261</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[29:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_97/ExVku_1685956469658ppatQ_JPEG/1685956181228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 08:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 09:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 15 Sep 2023 00:35:37 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_223/hnBTY_1694710838865jDapY_JPEG/1694710724744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[로앤오더: 조직범죄전담반 시즌3] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/40150082</link>
+            <guid>https://tv.naver.com/v/40150082</guid>
+            <pubDate>Fri, 15 Sep 2023 09:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230912_298/5INHd_1694481650813pPk9F_JPEG/1694481559857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[거래] 오늘 우린 친구를 납치한다ㅣ납치예고편ㅣ웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_243/f2YDi_1686190509353kFE4w_PNG/1686190444131.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의 연애2] "전 애인이 나오더라고요" 더 솔직하고 과감해진 남자들의 8일간의 동거💕 |]]></title>
-            <link>https://tv.naver.com/v/36742295</link>
-            <guid>https://tv.naver.com/v/36742295</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_155/jppMd_1686130369866UdYal_JPEG/1686130337608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

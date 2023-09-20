@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 00:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 01:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[악인취재기]악취 나는 범죄 현장, 범죄의 민낯을 파헤치기 위한 탐사보도국의 리얼 취재]]></title>
+            <link>https://tv.naver.com/v/40487108</link>
+            <guid>https://tv.naver.com/v/40487108</guid>
+            <pubDate>Wed, 20 Sep 2023 01:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_286/KdKeA_1695168158081zQEfs_JPEG/1695168155429.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 유승호X김동휘X유수빈X이주영, 공범이 되다. | 캐릭터 예고편 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/40285509</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_184/hYsIo_1686276180645ElCRI_JPEG/1686275870541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[퍼니 우먼] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/36764762</link>
-            <guid>https://tv.naver.com/v/36764762</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_243/f2YDi_1686190509353kFE4w_PNG/1686190444131.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

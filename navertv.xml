@@ -4,9 +4,33 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 01:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 02:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레전드 옛날 예능, 시트콤, 드라마까지 놓칠 수 없으니까, 요즘은 웨이브 봄!]]></title>
+            <link>https://tv.naver.com/v/40512539</link>
+            <guid>https://tv.naver.com/v/40512539</guid>
+            <pubDate>Thu, 21 Sep 2023 02:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_255/dK6JS_1695200799507iAP0J_JPEG/1695200789049.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[핫한 한드는 다 있으니까! 요즘은 웨이브 봄!]]></title>
+            <link>https://tv.naver.com/v/40512429</link>
+            <guid>https://tv.naver.com/v/40512429</guid>
+            <pubDate>Thu, 21 Sep 2023 02:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_195/AsRWj_1695200715403pN0G0_JPEG/1695200700089.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥친구 예능부터 과몰입 서바이벌까지! 요즘은 웨이브 봄!]]></title>
+            <link>https://tv.naver.com/v/40511962</link>
+            <guid>https://tv.naver.com/v/40511962</guid>
+            <pubDate>Thu, 21 Sep 2023 02:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_108/a71wC_1695200327767JSszY_JPEG/1695200323556.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[악인취재기]악취 나는 범죄 현장, 범죄의 민낯을 파헤치기 위한 탐사보도국의 리얼 취재]]></title>
             <link>https://tv.naver.com/v/40487108</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_267/0qwkp_1686291937536DF7oE_JPEG/1686291852012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기] 이나영이 먹방에 진심인 순간들 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36817250</link>
-            <guid>https://tv.naver.com/v/36817250</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_163/U7Vnc_1686291835823OLNGQ_JPEG/1686291785568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2 | 14화 예고 ] 끝난 줄 알았지?! 하드까지 다 턴 미방분이 온다..! | 웨이브 오리]]></title>
-            <link>https://tv.naver.com/v/36816379</link>
-            <guid>https://tv.naver.com/v/36816379</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_268/HxQVM_1686290673545qUO5w_JPEG/1686290620297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기] 지친 당신! 순한 맛으로 떠나라! | 극찬 리뷰 영상 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36806607</link>
-            <guid>https://tv.naver.com/v/36806607</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_184/hYsIo_1686276180645ElCRI_JPEG/1686275870541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

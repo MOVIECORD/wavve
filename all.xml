@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 09:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 10:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9/26(화) 개봉박두 [거래] 대본리딩 비하인드 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40563959</link>
+            <guid>https://tv.naver.com/v/40563959</guid>
+            <pubDate>Thu, 21 Sep 2023 10:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_152/Xvx9E_169528902863398xEg_JPEG/1695288899426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레전드 옛날 예능, 시트콤, 드라마까지 놓칠 수 없으니까, 요즘은 웨이브 봄! (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40512539</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_162/8Lkzb_1686292038870l8960_JPEG/1686291956789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 홍진호만 기억한 모두가 놓친 룰 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36817341</link>
-            <guid>https://tv.naver.com/v/36817341</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_267/0qwkp_1686291937536DF7oE_JPEG/1686291852012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

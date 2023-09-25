@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 23:07:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 00:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[거래] 100억 납치극의 공범, 유승호X김동휘X유수빈 | 공범예고편 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/40655755</link>
+            <guid>https://tv.naver.com/v/40655755</guid>
+            <pubDate>Mon, 25 Sep 2023 00:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230924_80/OgY2N_1695533043074VqzSJ_PNG/1695532788040.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[9/26(화) 개봉박두 [거래] 대본리딩 비하인드]]></title>
             <link>https://tv.naver.com/v/40563959</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[4:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_288/HgehP_1686292143533jWUv6_JPEG/1686292057065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 우승자의 특권이 독이 된 순간  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36817405</link>
-            <guid>https://tv.naver.com/v/36817405</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_162/8Lkzb_1686292038870l8960_JPEG/1686291956789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

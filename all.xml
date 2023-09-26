@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 02:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 03:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 26 Sep 2023 01:43:25 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230926_31/3GMv5_1695692014468TUbEl_JPEG/1695691960559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[거래] 인생캐 예감! 거래 대본리딩 현장 공개✨✨  | 대본리딩 비하인드 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40680201</link>
+            <guid>https://tv.naver.com/v/40680201</guid>
+            <pubDate>Tue, 26 Sep 2023 03:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_258/ZBKr7_1695607717820Yn41u_JPEG/1695607601146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[거래] 100억 납치극의 공범, 유승호X김동휘X유수빈 | 공범예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230612_257/3BoS2_1686543736877sOin7_PNG/1686543657771.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 피의 게임 2│13화 하이라이트 ] "피의 게임이 종료되었습니다."  | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36819517</link>
-            <guid>https://tv.naver.com/v/36819517</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[17:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_76/V2mVq_1686294929713Vrp8G_JPEG/1686294875503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

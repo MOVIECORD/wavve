@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 00:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 01:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[악인취재기] 정유정, 살인 전후 음성 최초 공개 | 티저2 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40723172</link>
+            <guid>https://tv.naver.com/v/40723172</guid>
+            <pubDate>Tue, 26 Sep 2023 01:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_31/3GMv5_1695692014468TUbEl_JPEG/1695691960559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 100억 납치극의 공범, 유승호X김동휘X유수빈 | 공범예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/40655755</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[17:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_76/V2mVq_1686294929713Vrp8G_JPEG/1686294875503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 상대가 눈치채지 못한 순간에 내 길을 뚫고 있었죠 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/36817476</link>
-            <guid>https://tv.naver.com/v/36817476</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_288/HgehP_1686292143533jWUv6_JPEG/1686292057065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

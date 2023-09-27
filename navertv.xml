@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 03:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 04:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10/5(목) 개봉박두 [거래] 제작 비하인드]]></title>
+            <link>https://tv.naver.com/v/40774201</link>
+            <guid>https://tv.naver.com/v/40774201</guid>
+            <pubDate>Wed, 27 Sep 2023 04:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_274/wHmpN_16957873812706m7RP_JPEG/1695787243233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[악인취재기] 정유정, 살인 전후 음성 최초 공개 | 티저2 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/40723172</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[20:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230613_22/hlV2l_1686632511995WDUYn_JPEG/1686632400705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리에겐 내일만 있다] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/36894180</link>
-            <guid>https://tv.naver.com/v/36894180</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_257/3BoS2_1686543736877sOin7_PNG/1686543657771.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

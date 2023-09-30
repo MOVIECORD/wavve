@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 01:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 02:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Wed, 27 Sep 2023 04:10:25 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_274/wHmpN_16957873812706m7RP_JPEG/1695787243233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.1] 정유정 부녀의 통화, 마지막 5분 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/40762324</link>
+            <guid>https://tv.naver.com/v/40762324</guid>
+            <pubDate>Sat, 30 Sep 2023 02:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_130/tzH4i_1695745206699hIMsF_JPEG/1695745175858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.1] 정유정이 주장한 학대는 '없었다' | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/40762288</link>
+            <guid>https://tv.naver.com/v/40762288</guid>
+            <pubDate>Sat, 30 Sep 2023 02:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[4:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_211/W1HDP_1695745101748VhJ3N_JPEG/1695745046581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.1] 분노를 조절할 수 없었던 정유정 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/40762296</link>
+            <guid>https://tv.naver.com/v/40762296</guid>
+            <pubDate>Sat, 30 Sep 2023 02:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_189/TlU2b_1695745357126AHM9k_JPEG/1695745353697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[악인취재기] 정유정, 살인 전후 음성 최초 공개 | 티저2 | 웨이브 오리지널]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230620_151/JmwAT_1687252537189gQ3Oj_JPEG/1687252534346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 냥냥펀치로 심장 때리는 나는 냐옹이다옹~😺 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/37008565</link>
-            <guid>https://tv.naver.com/v/37008565</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_283/0lIp0_1686791666083AwBgO_JPEG/1686791591925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박하경 여행기] 쓸데없이 싸우고 이유없이 즐거운 찐친과의 여행🚆 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36945816</link>
-            <guid>https://tv.naver.com/v/36945816</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_62/OxT0F_1686646035395KGFu7_JPEG/1686645988158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[피의 게임2] 드디어 공개된 최후의 1인 | 13화 하이라이트 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/36935271</link>
-            <guid>https://tv.naver.com/v/36935271</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[20:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_22/hlV2l_1686632511995WDUYn_JPEG/1686632400705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

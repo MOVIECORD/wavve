@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 02:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 03:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,30 @@
             <pubDate>Wed, 27 Sep 2023 04:10:25 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_274/wHmpN_16957873812706m7RP_JPEG/1695787243233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.2] 은둔형 외톨이의 온 세상에 대한 반격? | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/40762363</link>
+            <guid>https://tv.naver.com/v/40762363</guid>
+            <pubDate>Sat, 30 Sep 2023 03:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_201/sQjpX_16957453315515vT9H_JPEG/1695745306930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.2] "시체 갖고 장난하는 것 같아요" | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/40762347</link>
+            <guid>https://tv.naver.com/v/40762347</guid>
+            <pubDate>Sat, 30 Sep 2023 03:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_131/DTh4D_16957452938095cMXU_JPEG/1695745271285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.2] 정유정이 학습한 시신 없는 살인사건 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/40762337</link>
+            <guid>https://tv.naver.com/v/40762337</guid>
+            <pubDate>Sat, 30 Sep 2023 03:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_11/bRSr0_16957452580392BacJ_JPEG/1695745230671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[악인취재기│EP.1] 정유정 부녀의 통화, 마지막 5분 | 웨이브 오리지널]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 30 Jun 2023 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230630_15/ukM0F_1688115019284YgnRI_JPEG/1688114983793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애 2] 마지막 입주자 도착🔔 뉴페이스 등장에 저마다 갈리는 리액션?! 3회 선공]]></title>
-            <link>https://tv.naver.com/v/37544443</link>
-            <guid>https://tv.naver.com/v/37544443</guid>
-            <pubDate>Fri, 30 Jun 2023 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_193/49eYv_1688114821836DhWNo_JPEG/1688114759394.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의 연애2] "이런 기분이었구나" 다시 시작되는 그들의 이야기 💞 | 2차 티저 | 웨이브]]></title>
-            <link>https://tv.naver.com/v/37311461</link>
-            <guid>https://tv.naver.com/v/37311461</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_72/rdswv_1687516874868ByzX2_JPEG/1687516845679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의 연애2] "엄청 떨려요" 생애 첫 소개팅이 시작됩니다❣ | 3차 티저 | 웨이브]]></title>
-            <link>https://tv.naver.com/v/37191607</link>
-            <guid>https://tv.naver.com/v/37191607</guid>
-            <pubDate>Tue, 27 Jun 2023 05:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_151/JmwAT_1687252537189gQ3Oj_JPEG/1687252534346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 04:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 05:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sat, 30 Sep 2023 02:13:32 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_189/TlU2b_1695745357126AHM9k_JPEG/1695745353697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[거래] 거래즈, 햅P햅P한 포스터 촬영 현장 | 포스터 촬영 비하인드 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/40744693</link>
+            <guid>https://tv.naver.com/v/40744693</guid>
+            <pubDate>Mon, 02 Oct 2023 05:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_88/1uupa_1695718204861Njm9x_PNG/1695715737505.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[악인취재기] 정유정, 살인 전후 음성 최초 공개 | 티저2 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jul 2023 06:13:20 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_211/OHSO5_1688533817044rlrWm_JPEG/1688533779739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애 2] 강경 진매파 "진순은 다이어트 용이다" 발언 논란🚨| 1회 미공개 영상 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37544545</link>
-            <guid>https://tv.naver.com/v/37544545</guid>
-            <pubDate>Fri, 30 Jun 2023 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_15/ukM0F_1688115019284YgnRI_JPEG/1688114983793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

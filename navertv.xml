@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 08:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 09:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[어 밀리언 리틀 씽즈 시즌5] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/41043578</link>
+            <guid>https://tv.naver.com/v/41043578</guid>
+            <pubDate>Fri, 06 Oct 2023 09:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_162/wthla_16965645341311i0HH_PNG/1696563568314.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[거래].. 이러면 완벽 성사될 수밖에 없지!✨ㅣ제작 비하인드 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/40957724</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 08:14:31 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_18/HpN3O_1688720621640814HC_JPEG/1688720618008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[남의연애 2] 성호가 쏘아 올린 삼각관계의 서막, 준성과 선우의 신경전💥 | 6회 선공개]]></title>
-            <link>https://tv.naver.com/v/37739313</link>
-            <guid>https://tv.naver.com/v/37739313</guid>
-            <pubDate>Thu, 06 Jul 2023 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_25/SinwU_1688620076849PgEUw_JPEG/fa283561-1bba-11ee-b597-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 01:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 02:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[거래] 얼굴을 마주한 인질과 납치범💥 | 3-4회 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41053573</link>
+            <guid>https://tv.naver.com/v/41053573</guid>
+            <pubDate>Sat, 07 Oct 2023 02:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_37/Psiei_1696586079941xPd0k_JPEG/1696586073856.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[어 밀리언 리틀 씽즈 시즌5] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/41043578</link>
@@ -14,6 +22,30 @@
             <pubDate>Fri, 06 Oct 2023 09:08:43 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_162/wthla_16965645341311i0HH_PNG/1696563568314.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.3] 타락한 자들을 구원하기 위해 같이 타락한다(?) | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41013800</link>
+            <guid>https://tv.naver.com/v/41013800</guid>
+            <pubDate>Sat, 07 Oct 2023 02:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_192/5ZcQD_1696497145024ulTyK_JPEG/1696497116955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.3] '천둥'이라는 이름의 쇠파이프 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41013768</link>
+            <guid>https://tv.naver.com/v/41013768</guid>
+            <pubDate>Sat, 07 Oct 2023 02:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_125/LbIRG_1696497109245I7mPT_JPEG/1696497059254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.3] "친해지고 싶은 어떤 그런 것들?" | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41013709</link>
+            <guid>https://tv.naver.com/v/41013709</guid>
+            <pubDate>Sat, 07 Oct 2023 02:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_223/p1j9b_1696497052410qdniQ_JPEG/1696496992499.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[거래].. 이러면 완벽 성사될 수밖에 없지!✨ㅣ제작 비하인드 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -214,38 +246,6 @@
             <pubDate>Fri, 11 Aug 2023 04:10:04 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_178/gwC9u_1691726614945Kd26l_PNG/1691726563271.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[살인 사건을 구독하세요] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38635316</link>
-            <guid>https://tv.naver.com/v/38635316</guid>
-            <pubDate>Fri, 04 Aug 2023 09:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_182/jeXAd_1690937769800kwzF6_JPEG/1690937420633.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12 몽키즈 시즌1] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38390824</link>
-            <guid>https://tv.naver.com/v/38390824</guid>
-            <pubDate>Fri, 28 Jul 2023 08:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_219/FGIrM_1690264404784riJyU_JPEG/1690264300834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[타운 콜 말리스] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38158960</link>
-            <guid>https://tv.naver.com/v/38158960</guid>
-            <pubDate>Fri, 21 Jul 2023 03:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_182/Pp3Vr_1689654748057BhmVo_PNG/1689654703446.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[데드드리프트] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/37740963</link>
-            <guid>https://tv.naver.com/v/37740963</guid>
-            <pubDate>Fri, 07 Jul 2023 08:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_18/HpN3O_1688720621640814HC_JPEG/1688720618008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

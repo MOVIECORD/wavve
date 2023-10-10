@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 23:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 00:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[친구를 납치했다 ... AI로...(!) 🤖 | 거래 1화 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41167364</link>
+            <guid>https://tv.naver.com/v/41167364</guid>
+            <pubDate>Tue, 10 Oct 2023 00:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_96/ntnII_1696898121884R9lJ5_PNG/1696898098008.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[어쩌다(?) 납치가 시작되었다 "당신 아들, 우리가 데리고 있습니다" | 거래 1화 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41167352</link>
+            <guid>https://tv.naver.com/v/41167352</guid>
+            <pubDate>Tue, 10 Oct 2023 00:35:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_214/ehBQm_1696898089510xWPY2_PNG/1696898085736.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 얼굴을 마주한 인질과 납치범💥 | 3-4회 예고편 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/41053573</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 25 Aug 2023 09:08:24 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_160/ya3Fm_1692765269322gYgAM_JPEG/1692765079583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씰팀 시즌6] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/39046228</link>
-            <guid>https://tv.naver.com/v/39046228</guid>
-            <pubDate>Fri, 18 Aug 2023 09:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_279/fBRla_1691992964779hs1YB_JPEG/1691992875562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[벨 에어 시즌2] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/38957999</link>
-            <guid>https://tv.naver.com/v/38957999</guid>
-            <pubDate>Fri, 11 Aug 2023 04:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_178/gwC9u_1691726614945Kd26l_PNG/1691726563271.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 06:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 07:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 11 Oct 2023 07:08:42 GMT</pubDate>
             <content:encoded><![CDATA[5:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_177/n6CcS_1697006370789RzOrN_JPEG/1697006317506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[거래] 나만 이렇게 퇴학 당할 순 없잖아 | 김동휘 캐릭터 소개 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/41231590</link>
+            <guid>https://tv.naver.com/v/41231590</guid>
+            <pubDate>Thu, 12 Oct 2023 07:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_118/LcfI7_1697006304128ec8Pv_JPEG/1697006252417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[거래] 함께 있을 때가 제일 즐거운 거래즈💙 | 1-2화 비하인드 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Sep 2023 02:14:53 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230920_108/a71wC_1695200327767JSszY_JPEG/1695200323556.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[악인취재기]악취 나는 범죄 현장, 범죄의 민낯을 파헤치기 위한 탐사보도국의 리얼 취재]]></title>
-            <link>https://tv.naver.com/v/40487108</link>
-            <guid>https://tv.naver.com/v/40487108</guid>
-            <pubDate>Wed, 20 Sep 2023 01:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_286/KdKeA_1695168158081zQEfs_JPEG/1695168155429.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

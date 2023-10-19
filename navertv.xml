@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 06:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 07:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[거래] 내가 앞집에 직접 들어가서 봤다니까?! | 이주영 캐릭터 소개 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/41591054</link>
+            <guid>https://tv.naver.com/v/41591054</guid>
+            <pubDate>Thu, 19 Oct 2023 07:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[7:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_90/GE0Gz_1697693445827fBXPk_JPEG/1697693415286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 대낮의 인질극, 그리고 좁혀오는 포위망 | 5-6화 선공개 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/41542997</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Oct 2023 02:19:01 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_289/1BWiK_1696398645781SEJfu_PNG/1696398364456.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[10/5(목) 개봉박두 [거래] 제작 비하인드]]></title>
-            <link>https://tv.naver.com/v/40774201</link>
-            <guid>https://tv.naver.com/v/40774201</guid>
-            <pubDate>Wed, 27 Sep 2023 04:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_274/wHmpN_16957873812706m7RP_JPEG/1695787243233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

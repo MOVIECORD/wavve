@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 01:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 02:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[거래] 돈 때문에 친구를? 근데 그게 백억이라면..?! | 하이라이트 영상 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/41592098</link>
+            <guid>https://tv.naver.com/v/41592098</guid>
+            <pubDate>Fri, 20 Oct 2023 02:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_34/hTox1_1697694491110rka9j_JPEG/1697694335134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 내가 앞집에 직접 들어가서 봤다니까?! | 이주영 캐릭터 소개 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/41591054</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Oct 2023 02:15:01 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_223/p1j9b_1696497052410qdniQ_JPEG/1696496992499.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[거래].. 이러면 완벽 성사될 수밖에 없지!✨ㅣ제작 비하인드 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/40957724</link>
-            <guid>https://tv.naver.com/v/40957724</guid>
-            <pubDate>Thu, 05 Oct 2023 02:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_289/1BWiK_1696398645781SEJfu_PNG/1696398364456.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

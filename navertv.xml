@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 08:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 09:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_233/7QEIq_16970924590078eoBu_PNG/1697092456246.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[악인취재기│EP.4] 극악무도한 성범죄 앞에 용기를 낸 피해자... "돌나라 사건"의 시작]]></title>
-            <link>https://tv.naver.com/v/41283473</link>
-            <guid>https://tv.naver.com/v/41283473</guid>
-            <pubDate>Tue, 17 Oct 2023 02:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_26/soJlI_1697092347799SJJ4w_PNG/1697092344664.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[악인취재기│EP.5] 브라질에 대규모로 터를 다시 잡은 돌나라 왕국  | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/41283396</link>
             <guid>https://tv.naver.com/v/41283396</guid>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 07 Oct 2023 02:15:01 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_125/LbIRG_1696497109245I7mPT_JPEG/1696497059254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기│EP.3] "친해지고 싶은 어떤 그런 것들?" | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/41013709</link>
+            <guid>https://tv.naver.com/v/41013709</guid>
+            <pubDate>Fri, 20 Oct 2023 09:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_223/p1j9b_1696497052410qdniQ_JPEG/1696496992499.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

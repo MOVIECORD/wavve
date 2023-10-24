@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 07:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 08:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[거래] 수빈이 쿵 하면 승호X동휘가 짝! 환상의 짝꿍들 | 5-6화 비하인드 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/41756477</link>
+            <guid>https://tv.naver.com/v/41756477</guid>
+            <pubDate>Tue, 24 Oct 2023 08:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[5:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_97/YNvbk_1698047595029691wQ_JPEG/1698047469400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[거래] "싹 다 죽여" 돌이킬 수 없는 벼랑 끝에 선 세 공범  | 7-8화 예고편 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/41647434</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Oct 2023 07:08:42 GMT</pubDate>
             <content:encoded><![CDATA[5:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_238/1YCRf_1697693514381TRsyw_JPEG/1697693510694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[거래] 나만 이렇게 퇴학 당할 순 없잖아 | 김동휘 캐릭터 소개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/41231590</link>
-            <guid>https://tv.naver.com/v/41231590</guid>
-            <pubDate>Thu, 12 Oct 2023 07:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_133/n5MMt_1697693532999eRU6s_JPEG/1697693530664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

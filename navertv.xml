@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 08:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 09:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 24 Oct 2023 08:11:39 GMT</pubDate>
             <content:encoded><![CDATA[5:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231023_97/YNvbk_1698047595029691wQ_JPEG/1698047469400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[우리 빼고 다 지옥행] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/41745800</link>
+            <guid>https://tv.naver.com/v/41745800</guid>
+            <pubDate>Fri, 27 Oct 2023 09:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_186/GjbMF_1698036679384D0gOn_JPEG/1698036594481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[거래] "싹 다 죽여" 돌이킬 수 없는 벼랑 끝에 선 세 공범  | 7-8화 예고편 | 웨이브 오리지널]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 17 Oct 2023 02:17:29 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_136/Y5EuB_1697092282419MJ8AA_PNG/1697092249899.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[남친 여친 말고 뭐봄? 요즘은 웨이브 봄]]></title>
-            <link>https://tv.naver.com/v/41234509</link>
-            <guid>https://tv.naver.com/v/41234509</guid>
-            <pubDate>Wed, 11 Oct 2023 08:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_196/Aaasy_1697009237314lD9MO_JPEG/1697009215100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

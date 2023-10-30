@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 07:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 08:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Fri, 27 Oct 2023 11:07:24 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_212/OtF1O_169827986403258Aef_PNG/1698279835595.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[그 새끼가 다 자초한거야...!!!! | 거래 8화 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/41900735</link>
+            <guid>https://tv.naver.com/v/41900735</guid>
+            <pubDate>Mon, 30 Oct 2023 08:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_23/cthB6_1698279334377UtRmv_PNG/1698279253069.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[선택에 기로에 선 유승호, 그의 마지막 선택은? | 거래 8화 | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/41900701</link>
+            <guid>https://tv.naver.com/v/41900701</guid>
+            <pubDate>Mon, 30 Oct 2023 08:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_93/ky3dY_1698279233566q15FA_PNG/1698279196682.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[납치를 했는데... 인질이 차량과 사라지다...? | 거래 7화 | 웨이브 오리지널]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 15 Oct 2023 02:19:04 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_178/f97gK_1697092949078A76Tg_PNG/1697092919524.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[악인취재기│EP.5] 브라질 한복판에서.. 돌나라 어린이 5명이 사망하다...]]></title>
-            <link>https://tv.naver.com/v/41283912</link>
-            <guid>https://tv.naver.com/v/41283912</guid>
-            <pubDate>Sun, 15 Oct 2023 02:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_53/QXkiN_1697092733410hKHEk_PNG/1697092730230.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[악인취재기│EP.4] "돌나라 사건" 보도 후, 신도들 시위를 시작하다...  | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/41283820</link>
-            <guid>https://tv.naver.com/v/41283820</guid>
-            <pubDate>Sat, 14 Oct 2023 02:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_11/KNqyX_1697092646426nOaIo_JPEG/a19294a5-68c8-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

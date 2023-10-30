@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 08:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 09:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[웨이브][ 악인취재기│EP.8 강아지 팩토리] "안락사도 어떻게 하는 줄 알아? 그냥 동사시켜" (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42082299</link>
+            <guid>https://tv.naver.com/v/42082299</guid>
+            <pubDate>Mon, 30 Oct 2023 09:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_215/oLHsY_1698655269912TviCx_JPEG/1698655240247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 악인취재기│EP.8 강아지 팩토리] 학대는 맞으나, 법조항에 씌여 있지 않다?! (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42082256</link>
+            <guid>https://tv.naver.com/v/42082256</guid>
+            <pubDate>Mon, 30 Oct 2023 09:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_16/pHAi9_1698655233440u41BR_JPEG/1698655172438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 이것만 하면 100억이 생긴다고..? 딜레마에 빠진 준성😵‍💫 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/41914792</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 15 Oct 2023 01:48:32 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_115/G69Zb_1697095487161mjil6_PNG/1697095461362.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이제까지 이런 인질은 없었다...? 납치범 얼굴에 라면국물을 던져버린 유수빈! | 거래 3화 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41286611</link>
-            <guid>https://tv.naver.com/v/41286611</guid>
-            <pubDate>Sat, 14 Oct 2023 01:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_148/Qv90J_1697095264464mJb4E_PNG/1697095228650.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[악인취재기│EP.5] 아이들이 죽었지만, 되려 교주에게 감사편지를 쓴 부모들? (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41284173</link>
-            <guid>https://tv.naver.com/v/41284173</guid>
-            <pubDate>Sun, 15 Oct 2023 02:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_178/f97gK_1697092949078A76Tg_PNG/1697092919524.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

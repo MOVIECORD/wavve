@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 06:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 07:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[거래] 내 손으로 직접 만졌어!! 수십억.. 아니 수백억의 돈을!💰💰 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42283370</link>
+            <guid>https://tv.naver.com/v/42283370</guid>
+            <pubDate>Fri, 03 Nov 2023 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[14:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_98/lnpvH_1698985871246qt4GH_JPEG/1698985827207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월에도 "갑시다" 웨이브로😚ㅣ먼슬리웨이브 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42160848</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Oct 2023 02:13:44 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_156/HSlj0_16971804806669575e_JPEG/1697180197421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[납치범과 인질의 엄마의 숨막히는 지하철 추격전이 벌어지다...! 👀  | 거래 4화 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41286938</link>
-            <guid>https://tv.naver.com/v/41286938</guid>
-            <pubDate>Sun, 15 Oct 2023 01:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_58/mOKHP_1697095602619Ubhhi_PNG/1697095601071.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

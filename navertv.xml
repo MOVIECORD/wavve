@@ -4,9 +4,33 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 00:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 01:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 악인취재기│EP.9 마약왕 박왕열 ] "나는 마약을 팔기위해 마약을 했고, 진짜로 많이 했다"]]></title>
+            <link>https://tv.naver.com/v/42290116</link>
+            <guid>https://tv.naver.com/v/42290116</guid>
+            <pubDate>Sat, 04 Nov 2023 01:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_182/Wg3zJ_1698992684763W5WHe_PNG/1698992640755.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 악인취재기│EP.9 마약왕 박왕열 ] 마약왕 박왕열, 필리핀 교도소 옥중 인터뷰 | 웨이브 오]]></title>
+            <link>https://tv.naver.com/v/42289955</link>
+            <guid>https://tv.naver.com/v/42289955</guid>
+            <pubDate>Sat, 04 Nov 2023 01:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_159/gNilJ_1698992546783GXD2W_PNG/1698992543576.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 악인취재기│EP.9 마약왕 박왕열 ] 60년 형을 받은 마약왕, 하지만 마약은 계속 전달?]]></title>
+            <link>https://tv.naver.com/v/42289689</link>
+            <guid>https://tv.naver.com/v/42289689</guid>
+            <pubDate>Sat, 04 Nov 2023 01:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_257/v3ckZ_1698992303497gE5lF_PNG/1698992300601.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 내 손으로 직접 만졌어!! 수십억.. 아니 수백억의 돈을!💰💰 | 웨이브 오리지널]]></title>
             <link>https://tv.naver.com/v/42283370</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 19 Oct 2023 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[7:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_90/GE0Gz_1697693445827fBXPk_JPEG/1697693415286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[거래] 대낮의 인질극, 그리고 좁혀오는 포위망 | 5-6화 선공개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/41542997</link>
-            <guid>https://tv.naver.com/v/41542997</guid>
-            <pubDate>Thu, 19 Oct 2023 02:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_141/r9BWa_1697670398615Gk8iX_JPEG/1697670279619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[거래] 그깟 5억 푼돈? 더 큰 돈 벌게 해줄게  | 유수빈 캐릭터 소개 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/41499751</link>
-            <guid>https://tv.naver.com/v/41499751</guid>
-            <pubDate>Wed, 18 Oct 2023 07:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[7:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_104/N6Q6H_1697693492099wh3LI_JPEG/1697693485620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[거래] 웃참이 디폴트 값인 장난기 가득한 거래즈😂 | 3-4화 비하인드 | 웨이브 오리지널]]></title>
-            <link>https://tv.naver.com/v/41475567</link>
-            <guid>https://tv.naver.com/v/41475567</guid>
-            <pubDate>Tue, 17 Oct 2023 08:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_262/Vzq5W_1697508108882CHRFy_JPEG/1697507695091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

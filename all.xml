@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 07:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 08:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sat, 04 Nov 2023 01:42:39 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_257/v3ckZ_1698992303497gE5lF_PNG/1698992300601.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[거래] 거래즈 등판하여 아낌없이 풀어주는 비하인드 썰💬 | 코멘터리 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/42283616</link>
-            <guid>https://tv.naver.com/v/42283616</guid>
-            <pubDate>Sat, 04 Nov 2023 04:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[33:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_124/5jeru_16989861728578z1xC_JPEG/1698985574095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[거래] 내 손으로 직접 만졌어!! 수십억.. 아니 수백억의 돈을!💰💰 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 22 Oct 2023 01:48:48 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_70/9o5wn_16977052900504EcEn_PNG/1697705077909.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[거래] 돈 때문에 친구를? 근데 그게 백억이라면..?! | 하이라이트 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/41592098</link>
+            <guid>https://tv.naver.com/v/41592098</guid>
+            <pubDate>Tue, 07 Nov 2023 08:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_34/hTox1_1697694491110rka9j_JPEG/1697694335134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 09:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 10:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영 락 시즌3] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42449593</link>
+            <guid>https://tv.naver.com/v/42449593</guid>
+            <pubDate>Fri, 10 Nov 2023 10:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_162/BcA4t_1699330715500tdrFD_JPEG/1699330653959.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인텔리전스: 스페셜 에이전트 스페셜] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42449330</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Oct 2023 01:40:29 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_130/SvvNV_169770517410589GXN_PNG/1697705143291.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[총소리가 울렸다... 그리고 누군가는 총에 맞았다...! | 거래 6화 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41603362</link>
-            <guid>https://tv.naver.com/v/41603362</guid>
-            <pubDate>Sun, 22 Oct 2023 01:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_70/9o5wn_16977052900504EcEn_PNG/1697705077909.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

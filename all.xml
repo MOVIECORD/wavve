@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 08:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 09:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인텔리전스: 스페셜 에이전트 스페셜] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>
+            <link>https://tv.naver.com/v/42449330</link>
+            <guid>https://tv.naver.com/v/42449330</guid>
+            <pubDate>Fri, 10 Nov 2023 09:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_220/kZ4JH_1699330438820TgXQe_JPEG/1699330240998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[거래] 거래즈 등판하여 아낌없이 풀어주는 비하인드 썰💬 | 코멘터리 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
             <link>https://tv.naver.com/v/42299701</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 22 Oct 2023 01:48:48 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_70/9o5wn_16977052900504EcEn_PNG/1697705077909.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[거래] 돈 때문에 친구를? 근데 그게 백억이라면..?! | 하이라이트 영상 | 웨이브 오리지널 (wavve ─ NAVER TV)]]></title>
-            <link>https://tv.naver.com/v/41592098</link>
-            <guid>https://tv.naver.com/v/41592098</guid>
-            <pubDate>Tue, 07 Nov 2023 08:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_34/hTox1_1697694491110rka9j_JPEG/1697694335134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

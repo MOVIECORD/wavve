@@ -4,9 +4,17 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 08:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 09:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연인] 😭😭😭 눈물 마를 날 없게 했던 연인의 절절한 명대사 모음.ZIP]]></title>
+            <link>https://tv.naver.com/v/43159028</link>
+            <guid>https://tv.naver.com/v/43159028</guid>
+            <pubDate>Tue, 21 Nov 2023 09:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[13:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_132/ARnfd_1700543581175YsQnO_PNG/1700543527592.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[연인] 애절한 사랑에 한번 찢기고.. 美친 연기에 두번 찢김🥺 | 웨이브]]></title>
             <link>https://tv.naver.com/v/42976017</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 04:10:24 GMT</pubDate>
             <content:encoded><![CDATA[9:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_77/E7Ohi_1697711416585hKzso_JPEG/1697711294597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 하다 하다(?) 캐리어에 갇힌 유수빈... 하지만 그의 손에 망치가 있다?! 🔨🔨🔨 |]]></title>
-            <link>https://tv.naver.com/v/41604001</link>
-            <guid>https://tv.naver.com/v/41604001</guid>
-            <pubDate>Sat, 21 Oct 2023 01:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_193/QoxDI_1697705577670hJHg6_PNG/1697705543565.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

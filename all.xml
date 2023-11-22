@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 04:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 05:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.naver.com/v/42976017</guid>
             <pubDate>Fri, 17 Nov 2023 07:08:22 GMT</pubDate>
             <content:encoded><![CDATA[15:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_227/Uu1iw_1700183496168SVuft_JPEG/1700183382092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_221/aNR2z_1700628093905cyh7a_JPEG/1700628082357.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시카고 PD 시즌10] 공식 예고편 | 웨이브 해외시리즈 (wavve ─ NAVER TV)]]></title>

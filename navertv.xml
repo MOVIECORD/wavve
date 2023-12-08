@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 08:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 09:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 01 Dec 2023 09:08:56 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_8/nNI9A_1700714361038TtHTT_JPEG/1700714280363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴 암스테르담 시즌1] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/43207876</link>
+            <guid>https://tv.naver.com/v/43207876</guid>
+            <pubDate>Fri, 08 Dec 2023 09:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_233/m0Mfp_1700619624061Lp181_JPEG/1700619432128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[연인] 😭😭😭 눈물 마를 날 없게 했던 연인의 절절한 명대사 모음.ZIP]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 22 Oct 2023 02:19:24 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_248/pg8Bj_1697782276315FfOI0_PNG/1697782272305.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 악인취재기│EP.6 부산 돌려차기 남 ] 구치소에서 피의자가 한 말... "나가면 죽여버린다"]]></title>
-            <link>https://tv.naver.com/v/41646925</link>
-            <guid>https://tv.naver.com/v/41646925</guid>
-            <pubDate>Sat, 21 Oct 2023 02:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_201/RgAEn_16977822098688f6JH_PNG/1697782204202.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

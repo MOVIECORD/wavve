@@ -4,9 +4,25 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 07:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 08:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[악인취재기; 사기공화국] 🚨단독입수 '전청조 체포 당시 영상' | 웨이브 오리지널]]></title>
+            <link>https://tv.naver.com/v/44275370</link>
+            <guid>https://tv.naver.com/v/44275370</guid>
+            <pubDate>Wed, 13 Dec 2023 08:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_129/CSBtw_1702454959053Mi6vx_JPEG/1702454886438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[악인취재기; 사기공화국] 이번엔 사기다. 더 악해진 악인들이 온다. | 티저]]></title>
+            <link>https://tv.naver.com/v/44272824</link>
+            <guid>https://tv.naver.com/v/44272824</guid>
+            <pubDate>Wed, 13 Dec 2023 08:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_101/Ekuv8_1702452642096YKM1c_JPEG/1702452633677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월에 웨이브 안 하면 뭐 할 건데😘ㅣ먼슬리웨이브]]></title>
             <link>https://tv.naver.com/v/43676210</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 21 Oct 2023 02:13:50 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_44/7erpm_16977866194222T6jY_JPEG/1697786339747.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 악인취재기│EP.7 부산 돌려차기 남 ] 끝 없는 피의자의 변명에 결국 분노해 버린 검사!]]></title>
-            <link>https://tv.naver.com/v/41647144</link>
-            <guid>https://tv.naver.com/v/41647144</guid>
-            <pubDate>Sun, 22 Oct 2023 02:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[4:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_145/u9TEG_1697782462679S67K6_PNG/1697782457003.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 악인취재기│EP.7 부산 돌려차기 남 ] 결국 거짓말이었다...! 계획 범죄라는 정황은?]]></title>
-            <link>https://tv.naver.com/v/41646986</link>
-            <guid>https://tv.naver.com/v/41646986</guid>
-            <pubDate>Sun, 22 Oct 2023 02:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_248/pg8Bj_1697782276315FfOI0_PNG/1697782272305.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

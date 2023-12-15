@@ -4,7 +4,7 @@
         <title>wavve ─ NAVER TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 06:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 07:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 13 Dec 2023 08:11:45 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231213_101/Ekuv8_1702452642096YKM1c_JPEG/1702452633677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시카고 메드 시즌7] 공식 예고편 | 웨이브 해외시리즈]]></title>
+            <link>https://tv.naver.com/v/44144621</link>
+            <guid>https://tv.naver.com/v/44144621</guid>
+            <pubDate>Fri, 15 Dec 2023 07:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_77/1LCan_17022737026913y76z_JPEG/1702273557452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시카고 메드 시즌4] 공식 예고편 | 웨이브 해외시리즈]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 Oct 2023 08:11:39 GMT</pubDate>
             <content:encoded><![CDATA[5:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231023_97/YNvbk_1698047595029691wQ_JPEG/1698047469400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우리 빼고 다 지옥행] 공식 예고편 | 웨이브 해외시리즈]]></title>
-            <link>https://tv.naver.com/v/41745800</link>
-            <guid>https://tv.naver.com/v/41745800</guid>
-            <pubDate>Fri, 27 Oct 2023 09:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_186/GjbMF_1698036679384D0gOn_JPEG/1698036594481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
